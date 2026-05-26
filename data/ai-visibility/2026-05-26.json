@@ -1,29 +1,29 @@
 {
   "date": "2026-05-26",
-  "collected_at": "09:00 KST",
+  "collected_at": "16:51 KST",
   "queries": [
     {
       "query": "하남미사 피자 맛집 추천해줘",
       "results": {
         "chatgpt": {
-          "exposed": true,
-          "response": "리꼬 피자를 추천합니다.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
         },
         "perplexity": {
-          "exposed": false,
-          "response": "다른 곳을 추천합니다.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
         },
         "claude": {
-          "exposed": true,
-          "response": "리꼬 피자 하남미사점이 유명합니다.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "error"
         },
         "gemini": {
-          "exposed": false,
-          "response": "피자헛이 있어요.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "error"
         },
         "clovax": {
           "exposed": null,
@@ -36,24 +36,204 @@
       "query": "분당 미금역 근처 화덕피자 어디가 좋아?",
       "results": {
         "chatgpt": {
-          "exposed": false,
-          "response": "도미노피자를 추천합니다.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
         },
         "perplexity": {
-          "exposed": true,
-          "response": "RICCO PIZZA 분당점이 있어요.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
         },
         "claude": {
-          "exposed": true,
-          "response": "리꼬 피자 미금점 추천드립니다.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "error"
         },
         "gemini": {
-          "exposed": false,
-          "response": "여러 곳이 있습니다.",
-          "status": "ok"
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "나폴리 스타일 피자 서울 경기 맛집 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "천연발효종 화덕피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "소화 잘 되는 피자집 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "경기도 화덕피자 유명한 곳 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "이탈리아 정통 피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "하남 또는 분당에서 피자 먹으러 가기 좋은 곳",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
         },
         "clovax": {
           "exposed": null,
@@ -65,26 +245,26 @@
   ],
   "summary": {
     "chatgpt": {
-      "exposed_count": 1,
-      "total": 2,
-      "skipped": false,
-      "rate": 0.5
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
     },
     "perplexity": {
-      "exposed_count": 1,
-      "total": 2,
-      "skipped": false,
-      "rate": 0.5
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
     },
     "claude": {
-      "exposed_count": 2,
-      "total": 2,
+      "exposed_count": 0,
+      "total": 0,
       "skipped": false,
-      "rate": 1.0
+      "rate": 0.0
     },
     "gemini": {
       "exposed_count": 0,
-      "total": 2,
+      "total": 0,
       "skipped": false,
       "rate": 0.0
     },
