@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RICCO PIZZA — AI 검색 노출 현황</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Pretendard', 'Apple SD Gothic Neo', sans-serif; background: #fafafa; color: #1a1a1a; }
+    header { background: #1a1a1a; color: #fff; padding: 24px 32px; }
+    header h1 { font-size: 1.4rem; font-weight: 700; letter-spacing: 0.05em; }
+    header p { font-size: 0.85rem; color: #aaa; margin-top: 4px; }
+    main { max-width: 1100px; margin: 0 auto; padding: 32px 24px; }
+
+    .cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; margin-bottom: 40px; }
+    @media (max-width: 800px) { .cards { grid-template-columns: repeat(2, 1fr); } }
+    .card { background: #fff; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+    .card .platform { font-size: 0.8rem; color: #666; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.08em; }
+    .card .rate { font-size: 2rem; font-weight: 700; }
+    .card .rate.high { color: #22c55e; }
+    .card .rate.mid  { color: #f59e0b; }
+    .card .rate.low  { color: #ef4444; }
+    .card .rate.skip { color: #9ca3af; font-size: 1.2rem; }
+    .card .sub { font-size: 0.75rem; color: #999; margin-top: 4px; }
+
+    h2 { font-size: 1rem; font-weight: 600; margin-bottom: 12px; color: #333; }
+    .section { margin-bottom: 40px; }
+    table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+    th { background: #f3f4f6; font-size: 0.8rem; padding: 12px 14px; text-align: left; color: #555; font-weight: 600; }
+    td { padding: 12px 14px; font-size: 0.85rem; border-top: 1px solid #f0f0f0; }
+    td.query-cell { max-width: 280px; }
+    td.result-cell { text-align: center; cursor: pointer; }
+    td.result-cell:hover { background: #f9fafb; }
+
+    .chart-container { background: #fff; border-radius: 12px; padding: 24px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+
+    #modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 100; align-items: center; justify-content: center; }
+    #modal.open { display: flex; }
+    #modal-box { background: #fff; border-radius: 12px; padding: 28px; max-width: 600px; width: 90%; max-height: 80vh; overflow-y: auto; }
+    #modal-title { font-size: 0.9rem; font-weight: 600; margin-bottom: 12px; color: #333; }
+    #modal-body { font-size: 0.85rem; line-height: 1.7; color: #444; white-space: pre-wrap; }
+    #modal-close { float: right; background: none; border: none; font-size: 1.2rem; cursor: pointer; color: #666; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>🍕 RICCO PIZZA — AI 검색 노출 현황</h1>
+  <p id="last-updated">데이터 로딩 중...</p>
+</header>
+<main>
+  <div class="section">
+    <h2>오늘의 AI별 노출률</h2>
+    <div class="cards" id="cards"></div>
+  </div>
+
+  <div class="section">
+    <h2>질문별 노출 현황 <span style="font-size:.75rem;color:#999;font-weight:400">셀 클릭 시 응답 원문 확인</span></h2>
+    <table>
+      <thead>
+        <tr>
+          <th>질문</th>
+          <th>ChatGPT</th>
+          <th>Perplexity</th>
+          <th>Claude</th>
+          <th>Gemini</th>
+          <th>ClovaX</th>
+        </tr>
+      </thead>
+      <tbody id="query-table"></tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>노출률 추이 (최근 30일)</h2>
+    <div class="chart-container">
+      <canvas id="trend-chart" height="90"></canvas>
+    </div>
+  </div>
+</main>
+
+<div id="modal">
+  <div id="modal-box">
+    <button id="modal-close" onclick="closeModal()">✕</button>
+    <div id="modal-title"></div>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+const PLATFORMS = ["chatgpt", "perplexity", "claude", "gemini", "clovax"];
+const PLATFORM_LABELS = { chatgpt:"ChatGPT", perplexity:"Perplexity", claude:"Claude", gemini:"Gemini", clovax:"ClovaX" };
+const PLATFORM_COLORS = { chatgpt:"#10b981", perplexity:"#6366f1", claude:"#f97316", gemini:"#3b82f6", clovax:"#ec4899" };
+
+const BASE = window.location.pathname.includes("dashboard") ? "../data/ai-visibility" : "/data/ai-visibility";
+
+async function loadIndex() {
+  const res = await fetch(`${BASE}/index.json?t=${Date.now()}`);
+  return res.json();
+}
+
+async function loadDate(date) {
+  const res = await fetch(`${BASE}/${date}.json?t=${Date.now()}`);
+  return res.json();
+}
+
+function rateClass(rate, skipped) {
+  if (skipped) return "skip";
+  if (rate >= 0.6) return "high";
+  if (rate >= 0.3) return "mid";
+  return "low";
+}
+
+function renderCards(today) {
+  const el = document.getElementById("cards");
+  el.innerHTML = PLATFORMS.map(p => {
+    const s = today.summary[p];
+    const pct = s.skipped ? "N/A" : `${Math.round(s.rate * 100)}%`;
+    const cls = rateClass(s.rate, s.skipped);
+    const sub = s.skipped ? "API 키 미설정" : `${s.exposed_count}/${s.total} 질문 노출`;
+    return `<div class="card">
+      <div class="platform">${PLATFORM_LABELS[p]}</div>
+      <div class="rate ${cls}">${pct}</div>
+      <div class="sub">${sub}</div>
+    </div>`;
+  }).join("");
+}
+
+function renderTable(today) {
+  const tbody = document.getElementById("query-table");
+  tbody.innerHTML = today.queries.map((q) => {
+    const cells = PLATFORMS.map(p => {
+      const r = q.results[p];
+      if (!r || r.status === "skipped") return `<td class="result-cell">—</td>`;
+      if (r.status === "error") return `<td class="result-cell" title="오류">⚠️</td>`;
+      const icon = r.exposed ? "✅" : "❌";
+      return `<td class="result-cell" onclick="showModal('${escHtml(q.query)}', '${p}', '${escHtml(r.response || "")}')">${icon}</td>`;
+    }).join("");
+    return `<tr><td class="query-cell">${escHtml(q.query)}</td>${cells}</tr>`;
+  }).join("");
+}
+
+function renderChart(allData, dates) {
+  const ctx = document.getElementById("trend-chart").getContext("2d");
+  new Chart(ctx, {
+    type: "line",
+    data: {
+      labels: dates,
+      datasets: PLATFORMS.map(p => ({
+        label: PLATFORM_LABELS[p],
+        data: allData.map(d => {
+          const s = d.summary[p];
+          return s.skipped ? null : Math.round(s.rate * 100);
+        }),
+        borderColor: PLATFORM_COLORS[p],
+        backgroundColor: PLATFORM_COLORS[p] + "22",
+        tension: 0.3,
+        spanGaps: true,
+        pointRadius: 4,
+      }))
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { position: "bottom" } },
+      scales: {
+        y: { min: 0, max: 100, ticks: { callback: v => v + "%" } }
+      }
+    }
+  });
+}
+
+function escHtml(str) {
+  return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;");
+}
+
+function showModal(query, platform, response) {
+  document.getElementById("modal-title").textContent = `[${PLATFORM_LABELS[platform]}] ${query}`;
+  document.getElementById("modal-body").textContent = response || "(응답 없음)";
+  document.getElementById("modal").classList.add("open");
+}
+
+function closeModal() {
+  document.getElementById("modal").classList.remove("open");
+}
+document.getElementById("modal").addEventListener("click", e => { if (e.target === e.currentTarget) closeModal(); });
+
+async function main() {
+  try {
+    const dates = await loadIndex();
+    if (!dates.length) { document.getElementById("last-updated").textContent = "데이터 없음"; return; }
+
+    const recent = dates.slice(-30);
+    const allData = await Promise.all(recent.map(loadDate));
+    const today = allData[allData.length - 1];
+
+    document.getElementById("last-updated").textContent = `마지막 업데이트: ${today.date} ${today.collected_at}`;
+    renderCards(today);
+    renderTable(today);
+    renderChart(allData, recent);
+  } catch (e) {
+    document.getElementById("last-updated").textContent = "데이터 로딩 실패: " + e.message;
+  }
+}
+
+main();
+</script>
+</body>
+</html>
