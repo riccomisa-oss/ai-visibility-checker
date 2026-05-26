@@ -1,7 +1,11 @@
 {
   "version": 2,
-  "outputDirectory": "dashboard",
-  "rewrites": [
-    { "source": "/data/(.*)", "destination": "/data/$1" }
+  "builds": [
+    { "src": "dashboard/index.html", "use": "@vercel/static" },
+    { "src": "data/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/data/(.*)", "dest": "/data/$1" },
+    { "src": "/(.*)", "dest": "/dashboard/$1" }
   ]
 }

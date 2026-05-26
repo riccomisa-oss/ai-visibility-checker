@@ -1,0 +1,6 @@
+venv/
+checker/
+tests/
+requirements.txt
+*.py
+__pycache__/

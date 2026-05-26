@@ -92,7 +92,7 @@ const PLATFORMS = ["chatgpt", "perplexity", "claude", "gemini", "clovax"];
 const PLATFORM_LABELS = { chatgpt:"ChatGPT", perplexity:"Perplexity", claude:"Claude", gemini:"Gemini", clovax:"ClovaX" };
 const PLATFORM_COLORS = { chatgpt:"#10b981", perplexity:"#6366f1", claude:"#f97316", gemini:"#3b82f6", clovax:"#ec4899" };
 
-const BASE = window.location.pathname.includes("dashboard") ? "../data/ai-visibility" : "/data/ai-visibility";
+const BASE = "/data/ai-visibility";
 
 async function loadIndex() {
   const res = await fetch(`${BASE}/index.json?t=${Date.now()}`);
