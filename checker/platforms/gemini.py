@@ -1,10 +1,10 @@
 from __future__ import annotations
 import os
-import google.generativeai as genai
+import google.genai as genai
 
 
 def query(prompt: str) -> dict:
-    """Google Gemini 1.5 Flash에 질문을 던져 응답을 반환한다.
+    """Google Gemini 2.5 Flash에 질문을 던져 응답을 반환한다.
     무료 티어 사용 (하루 1,500 요청 무료).
 
     Returns:
@@ -15,9 +15,11 @@ def query(prompt: str) -> dict:
         return {"status": "skipped", "response": None}
 
     try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
-        response = model.generate_content(prompt)
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
         text = response.text
         return {"status": "ok", "response": text}
     except Exception as e:
