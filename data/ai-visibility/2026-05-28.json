@@ -1,0 +1,278 @@
+{
+  "date": "2026-05-28",
+  "collected_at": "12:50 KST",
+  "queries": [
+    {
+      "query": "하남미사 피자 맛집 추천해줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "하남 미사 지역에 맛있는 피자집들이 꽤 많아요! 어떤 스타일의 피자를 좋아하시는지에 따라 추천이 달라질 수 있지만, 일반적으로 많이 추천되는 곳들을 알려드릴게요.\n\n**1. 도우개러지 (Dough Garage)**\n*   **특징:** 미사에서 '진정한' 화덕 피자를 맛보고 싶다면 이곳을 추천합니다. 나폴리탄 스타일의 쫄깃한 도우와 신선한 재료의 조합이 일품이에요. 캐주얼하면서도 분위기 좋은 곳에서 식사하고 싶을 때 좋습니다.\n*   **주요 메뉴:** 마르게리타, 페퍼로니, 비스마르크 등 클래식한 화덕 피자가 인기입니다.\n*   **위치:** 미사역 근처에 있습니다.\n\n**2. 파파존스 하남미사점**\n*   **특징:** 미국식 정통 피자를 선호하신다면 파파존스는 언제나 좋은 선택입니다. 풍부한 토핑과 진한 소스, 갈릭 디핑 소스까지 완벽한 조합을 자랑하죠. 배달이나 포장으로 편하게 즐기기 좋습니다.\n*   **주요 메뉴:** 수퍼 파파스, 존스 페이버릿, 스파이시 이탈리안 등.\n*   **위치:** 미사강변대로 쪽에 있습니다.\n\n**3. 피자알볼로 하남미사점**\n*   **특징:** 건강하고 푸짐한 느낌의 한국식 프리미엄 피자를 찾는다면 피자알볼로를 추천합니다. 흑미 도우와 신선한 토핑, 한국인의 입맛에 맞는 독특한 메뉴들이 많습니다.\n*   **주요 메뉴:** 어깨동무 피자, 쉬림프 핫치킨 골드 피자, 단호박 골드 피자 등.\n*   **위치:** 미사역 근처 여러 지점이 있습니다.\n\n**4. 7번가피자 하남미사점**\n*   **특징:** 담백하면서도 다채로운 맛을 즐길 수 있는 곳입니다. 곡물도우를 사용하며, 다양한 토핑 조합과 사이드 메뉴가 인기가 많아요. 합리적인 가격에 푸짐하게 즐기고 싶을 때 좋습니다.\n*   **주요 메뉴:** 홍대 피자, 칠리불갈비 피자, 통갈비살 피자 등.\n*   **위치:** 미사역 근처 여러 지점이 있습니다.\n\n**5. 구피피자 (Goofy Pizza)**\n*   **특징:** 가성비 좋고 맛도 괜찮은 동네 피자 맛집으로 입소문 난 곳입니다. 미국식 피자를 베이스로 하며, 토핑이 푸짐하고 부담 없이 즐기기 좋아요. 주로 배달/포장 전문입니다.\n*   **주요 메뉴:** 페퍼로니, 베이컨체다, 고구마 피자 등.\n*   **위치:** 미사강변도시 내 여러 지점이 있습니다.\n\n**어떤 피자를 선호하시나요?**\n*   **화덕에서 갓 구운 쫄깃한 도우:** 도우개러지\n*   **미국식 정통 피자:** 파파존스, 구피피자\n*   **건강하고 독특한 한국식 프리미엄 피자:** 피자알볼로\n*   **가성비 좋은 다양한 메뉴:** 7번가피자, 구피피자\n\n방문하시기 전에 각 매장의 영업시간과 배달 가능 여부, 최근 리뷰 등을 확인해 보시는 것을 추천합니다!",
+          "status": "ok"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "분당 미금역 근처 화덕피자 어디가 좋아?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "나폴리 스타일 피자 서울 경기 맛집 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "천연발효종 화덕피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "소화 잘 되는 피자집 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "경기도 화덕피자 유명한 곳 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "이탈리아 정통 피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "하남 또는 분당에서 피자 먹으러 가기 좋은 곳",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "chatgpt": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "perplexity": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "claude": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": false,
+      "rate": 0.0
+    },
+    "gemini": {
+      "exposed_count": 0,
+      "total": 1,
+      "skipped": false,
+      "rate": 0.0
+    },
+    "clovax": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    }
+  }
+}
