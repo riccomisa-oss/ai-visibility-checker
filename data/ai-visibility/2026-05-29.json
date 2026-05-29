@@ -1,0 +1,278 @@
+{
+  "date": "2026-05-29",
+  "collected_at": "11:59 KST",
+  "queries": [
+    {
+      "query": "하남미사 피자 맛집 추천해줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "하남 미사에는 맛있는 피자집들이 꽤 많아서 고르기가 어려울 수 있어요! 몇 군데 인기 많고 평 좋은 곳들을 추천해 드릴게요. 취향에 맞춰 선택해 보세요.\n\n### 하남 미사 피자 맛집 추천\n\n1.  **피자 브라더스 (Pizza Brothers)**\n    *   **특징:** 토핑이 정말 푸짐하고 신선한 재료를 사용해서 만족도가 높은 곳입니다. 한국식 퓨전 피자 느낌도 있고, 맛의 밸런스가 좋습니다. 배달/포장으로도 많이 이용하지만, 매장 식사도 가능합니다.\n    *   **추천 메뉴:** 하프앤하프 (두 가지 맛을 동시에), 불고기피자, 쉬림프피자 등 다양하게 인기가 많습니다.\n    *   **팁:** 가족 단위로 가기 좋고, 여러 명이서 푸짐하게 즐기고 싶을 때 특히 좋습니다.\n\n2.  **피제리아 라르도 (Pizzeria Lardo)**\n    *   **특징:** 정통 이탈리아 나폴리식 화덕 피자를 맛볼 수 있는 곳입니다. 쫀득하고 고소한 도우와 신선한 토핑의 조화가 훌륭합니다. 깔끔하고 분위기 있는 곳이라 데이트나 분위기 있는 식사를 원할 때 좋습니다.\n    *   **추천 메뉴:** 마르게리따, 디아볼라 등 기본에 충실한 메뉴들이 특히 인기가 많습니다. 파스타도 맛있어서 함께 시키면 좋습니다.\n    *   **팁:** 웨이팅이 있을 수 있으니 피크 시간을 피하거나 미리 확인해 보세요.\n\n3.  **도우넛 (Doughnut)**\n    *   **특징:** 뉴욕 스타일의 피자를 표방하는 곳으로, 큼지막한 조각과 독특한 도우의 맛이 인상적입니다. 개성 있는 토핑 조합을 시도하는 곳이 많으며, 캐주얼하게 즐기기 좋습니다.\n    *   **추천 메뉴:** 페퍼로니, 베이컨체다 등 클래식하면서도 묵직한 맛의 피자들이 인기입니다. 조각 피자로도 판매해서 여러 맛을 볼 수 있어요.\n    *   **팁:** 간단히 맥주 한 잔과 함께하기에도 좋고, 포장/배달도 활발합니다.\n\n4.  **피자 먹는 날**\n    *   **특징:** 미사에서 오랫동안 사랑받아온 로컬 피자 맛집 중 하나입니다. 합리적인 가격에 푸짐하고 맛있는 피자를 즐길 수 있어 가성비가 좋다는 평이 많습니다.\n    *   **추천 메뉴:** 슈퍼슈프림, 불고기피자 등 한국인에게 익숙하고 인기 있는 메뉴들이 강세입니다.\n    *   **팁:** 가족 외식이나 집에서 편하게 시켜 먹기 좋은 동네 피자 맛집을 찾는다면 좋은 선택입니다.\n\n---\n\n**선택 가이드:**\n\n*   **정통 나폴리 화덕 피자:** **피제리아 라르도**\n*   **푸짐한 토핑, 한국식 퓨전 피자:** **피자 브라더스**\n*   **뉴욕 스타일, 개성 있는 맛:** **도우넛**\n*   **가성비 좋은 로컬 피자:** **피자 먹는 날**\n\n방문하시기 전에 네이버 지도나 카카오맵 등에서 최근 리뷰를 확인하고, 영업시간을 한번 더 확인해 보시는 것을 추천합니다. 맛있는 피자 드세요!",
+          "status": "ok"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "분당 미금역 근처 화덕피자 어디가 좋아?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "미금역 근처에서 화덕피자 맛집을 찾으신다면 **이태리1000 (ITALY 1000)**을 가장 많이 추천해 드립니다.\n\n**이태리1000 (ITALY 1000)**\n\n*   **특징:**\n    *   매장 안에 큰 화덕이 있어서 직접 피자를 굽는 모습을 볼 수 있습니다.\n    *   화덕에서 갓 구워져 나오는 피자는 쫄깃한 도우와 신선한 토핑의 조화가 일품입니다. 나폴리 스타일의 화덕피자를 좋아하시는 분들께 특히 추천해요.\n    *   피자뿐만 아니라 파스타, 샐러드, 스테이크 등 다른 이탈리안 메뉴들도 평이 좋습니다.\n    *   분위기도 깔끔하고 좋아서 데이트나 가족 외식 장소로도 인기가 많습니다.\n*   **위치:** 미금역에서 도보로 가까운 거리에 위치해 있습니다.\n*   **팁:** 주말 피크 시간대에는 웨이팅이 있을 수 있으니 미리 예약하시거나 시간 조절하시는 것이 좋습니다.\n\n네이버 지도나 카카오맵에서 '미금역 이태리1000'을 검색하시면 상세 정보와 방문 후기들을 확인하실 수 있습니다. 맛있게 드세요!",
+          "status": "ok"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "나폴리 스타일 피자 서울 경기 맛집 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "서울과 경기 지역에서 나폴리 스타일 피자를 제대로 맛볼 수 있는 맛집들을 알려드릴게요. 나폴리 피자의 특징인 쫄깃하고 부드러운 도우, 화덕에서 구워져 살짝 탄듯한 표면, 그리고 신선한 재료의 조화를 잘 살린 곳들입니다.\n\n---\n\n### 서울 지역\n\n1.  **SPAKIM (스파킴)**\n    *   **위치:** 여의도, 광화문 등 (여러 지점)\n    *   **특징:** 나폴리 피자 인증(AVPN)을 받은 곳은 아니지만, 현지 스타일을 훌륭하게 구현해낸 곳으로 유명합니다. 쫄깃한 도우와 신선한 토마토소스, 치즈의 조화가 일품입니다. 특히 '루꼴라' 피자가 인기가 많습니다.\n    *   **추천 메뉴:** 마르게리따, 루꼴라 프로슈토\n\n2.  **Pizzeria D'535 (피자리아 D'535)**\n    *   **위치:** 가로수길, 잠실, 판교 등 (여러 지점, 경기에도 지점 있음)\n    *   **특징:** 나폴리 피자 협회(AVPN)에서 인증받은 정통 나폴리 피자 전문점입니다. 이탈리아 현지에서 공수해온 화덕과 재료를 사용하며, 도우의 맛이 특히 뛰어납니다.\n    *   **추천 메뉴:** 마르게리따 엑스트라, 비스마르크\n\n3.  **Da Lillo (다리로)**\n    *   **위치:** 성수동\n    *   **특징:** 성수동의 작은 골목에 위치한 숨은 맛집입니다. 이탈리아인 셰프가 직접 운영하며, 현지의 맛을 그대로 느낄 수 있습니다. 특히 도우의 발효와 굽는 기술이 뛰어나다고 평가받습니다.\n    *   **추천 메뉴:** 마르게리따, 디아볼라\n\n4.  **Osteria Sotto (오스테리아 소토)**\n    *   **위치:** 압구정 로데오\n    *   **특징:** 모던하고 세련된 분위기에서 즐길 수 있는 나폴리 피자 맛집입니다. 고급스러운 재료를 사용하며, 피자 외에도 다양한 이탈리안 요리가 훌륭합니다.\n    *   **추천 메뉴:** 마르게리따, 프로슈토 루꼴라\n\n5.  **Bella Napoli (벨라 나폴리)**\n    *   **위치:** 신촌, 홍대 등\n    *   **특징:** 비교적 합리적인 가격에 준수한 나폴리 피자를 맛볼 수 있는 곳입니다. 캐주얼한 분위기에서 친구들과 함께 즐기기 좋습니다.\n    *   **추천 메뉴:** 마르게리따, 고르곤졸라\n\n6.  **Volcano (볼케이노)**\n    *   **위치:** 연남동\n    *   **특징:** 연남동의 조용한 골목에 위치하며, 화덕에서 갓 구워낸 뜨겁고 쫄깃한 피자를 맛볼 수 있습니다. 친근하고 편안한 분위기입니다.\n    *   **추천 메뉴:** 마르게리따, 페퍼로니\n\n---\n\n### 경기 지역\n\n1.  **Pizzeria D'535 (피자리아 D'535)**\n    *   **위치:** 판교, 분당 정자 등 (서울과 동일하게 AVPN 인증 지점)\n    *   **특징:** 서울 지점과 동일하게 정통 나폴리 피자의 맛을 즐길 수 있습니다. 특히 분당 지역에서는 대표적인 나폴리 피자 맛집으로 꼽힙니다.\n    *   **추천 메뉴:** 마르게리따, 비스마르크\n\n2.  **Il Piatto (일 피아또)**\n    *   **위치:** 분당 서현동\n    *   **특징:** 분당에서 오랫동안 사랑받아온 이탈리안 레스토랑으로, 화덕 피자가 특히 인기입니다. 신선한 재료와 균형 잡힌 맛으로 유명합니다.\n    *   **추천 메뉴:** 마르게리따, 디아볼라\n\n3.  **D'La Cucina (델라 쿠치나)**\n    *   **위치:** 일산 백석동\n    *   **특징:** 일산 지역에서 나폴리 피자를 잘하는 곳으로 입소문이 난 곳입니다. 아담하고 아늑한 분위기에서 퀄리티 높은 피자를 맛볼 수 있습니다.\n    *   **추천 메뉴:** 마르게리따, 콰트로 포르마지\n\n4.  **Osteria Oggi (오스테리아 오찌)**\n    *   **위치:** 판교 운중동, 분당 야탑\n    *   **특징:** 피자 외에도 파스타, 스테이크 등 다양한 이탈리안 요리를 수준 높게 선보이는 곳입니다. 피자는 얇고 쫄깃한 도우가 특징입니다.\n    *   **추천 메뉴:** 마르게리따, 풍기\n\n---\n\n**나폴리 스타일 피자 맛집을 고를 때 팁:**\n\n*   **화덕 유무:** '화덕 피자'라고 명시되어 있다면 기본적으로 나폴리 스타일의 조리법을 따를 가능성이 높습니다.\n*   **AVPN 인증:** 이탈리아 나폴리 피자 협회(Associazione Verace Pizza Napoletana) 인증을 받은 곳은 가장 정통적인 맛을 기대할 수 있습니다.\n*   **마르게리따:** 가장 기본이 되는 피자이므로, 이 메뉴의 맛을 보면 그 집 피자 실력을 가늠할 수 있습니다.\n*   **도우:** 부드럽고 쫄깃하며, 가장자리가 부풀어 있고 살짝 그을린 '코르니초네(cornicione)'가 특징입니다.\n\n이 리스트에서 취향에 맞는 곳을 찾아 방문해 보시길 추천합니다! 방문 전에 영업시간이나 휴무일을 확인하시는 것도 잊지 마세요.",
+          "status": "ok"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "천연발효종 화덕피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "소화 잘 되는 피자집 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "경기도 화덕피자 유명한 곳 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "이탈리아 정통 피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "하남 또는 분당에서 피자 먹으러 가기 좋은 곳",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "chatgpt": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "perplexity": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "claude": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": false,
+      "rate": 0.0
+    },
+    "gemini": {
+      "exposed_count": 0,
+      "total": 3,
+      "skipped": false,
+      "rate": 0.0
+    },
+    "clovax": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    }
+  }
+}
