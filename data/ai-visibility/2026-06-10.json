@@ -1,0 +1,278 @@
+{
+  "date": "2026-06-10",
+  "collected_at": "12:40 KST",
+  "queries": [
+    {
+      "query": "하남미사 피자 맛집 추천해줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 하남미사 피자 맛집 추천\n\n하남미사 지역의 인기 있는 피자 맛집들을 소개합니다:\n\n## 주요 맛집\n\n**1. 미스터 피자**\n- 미사강변도시 일대에 여러 지점 운영\n- 합리적인 가격, 깔끔한 맛\n\n**2. 도미노 피자**\n- 미사 쇼핑몰 근처\n- 다양한 메뉴, 배달 편리\n\n**3. 피자헛**\n- 안정적인 맛과 서비스\n- 패밀리 세트 가성비 좋음\n\n**4. 로컬 수제 피자점**\n- 최근 오픈한 소규모 피자 전문점들이 늘어나는 중\n- 신선한 재료를 사용한 프리미엠 피자 제공\n\n## 찾는 팁\n- **네이버/구글 지도**에서 \"하남미사 피자\"로 검색하면 최신 정보와 후기 확인 가능\n- 배달앱(배달의민족, 쿠팡이츠)에서 실시간 리뷰와 할인 정보 확인\n- 최근 오픈한 가게들이 많아 앱 기반으로 찾는 것이 정확함\n\n더 구체적인 위치나 특정 스타일의 피자를 원하시면 알려주세요!",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "분당 미금역 근처 화덕피자 어디가 좋아?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 분당 미금역 근처 화덕피자 추천\n\n구체적인 최신 정보를 드리기는 어렵지만, 일반적인 찾는 방법을 제안합니다:\n\n## 추천 검색 방법\n- **네이버 지도/구글맵**: \"분당 미금역 화덕피자\"로 검색\n- **당근마켓/Reddit**: 지역 주민 후기 확인\n- **오늘의집**: 분당 지역 맛집 리뷰\n\n## 확인하면 좋을 포인트\n✓ 최신 영업 여부 (폐점/이전 확인)\n✓ 실제 방문객 평점과 리뷰\n✓ 가성비 (화덕피자는 가격대 차이 큼)\n✓ 대기 시간\n\n혹시 **특정 스타일**(이탈리안, 나폴리 등)이나 **예산대**가 있으시면 더 구체적으로 도와드릴 수 있습니다!\n\n최근에 다녀오신 곳이나 추천받은 가게가 있으신가요?",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "나폴리 스타일 피자 서울 경기 맛집 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 나폴리 스타일 피자 맛집 추천\n\n## 서울\n\n**강남/서초**\n- 피자 마르게리타 전문점들\n- 우드파이어 오븐 사용 레스토랑\n\n**홍대/마포**\n- 아티장 피자 전문점\n- 소규모 크래프트 피자 가게들\n\n**가로수길/신사**\n- 고급 나폴리 피자 레스토랑\n\n## 경기도\n\n**강남 인근 (판교, 용인)**\n- 프리미엄 피자 레스토랑\n\n**일산**\n- 나폴리 정통 피자점\n\n---\n\n## 💡 추천 찾는 팁\n\n더 정확한 추천을 위해 알려주세요:\n\n1. **선호 지역** (구체적 동네)\n2. **예산대** (2-3만원? 5만원 이상?)\n3. **우선순위** (정통성? 분위기? 가성비?)\n4. **방문 목적** (데이트? 가족? 혼자?)\n\n최신 맛집 정보는 **네이버/카카오 지도, 블로그**에서도 실시간 리뷰와 함께 찾을 수 있으니 참고하세요!",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "천연발효종 화덕피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 천연발효종 화덕피자 맛집 추천\n\n## 🍕 유명 맛집\n\n### 서울 지역\n- **피자스쿨** (강남)\n  - 천연발효종 사용, 정통 나폴리 스타일\n  - 예약 필수\n\n- **일 판** (을지로)\n  - 이탈리안 셰프의 정통 화덕피자\n  - 프리미엄 재료 사용\n\n### 지방 지역\n- **포르토** (부산)\n- **몬테** (대구)\n- **다빈치** (광주)\n\n---\n\n## 💡 선택 팁\n\n| 확인 사항 | 포인트 |\n|---------|--------|\n| **발효 기간** | 24~72시간 이상 |\n| **화덕 온도** | 300°C 이상 |\n| **밀가루** | 이탈리아산 추천 |\n| **물의 질** | 경도에 따른 차이 |\n\n---\n\n## 🔍 지역별 검색 팁\n- 네이버/구글맵에서 \"천연발효 화덕피자\"로 검색\n- 최신 리뷰 확인 필수\n- 예약 시간 확인\n\n**추가 정보가 필요하신 특정 지역이 있으신가요?**",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "소화 잘 되는 피자집 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 소화가 잘 되는 피자 추천\n\n구체적인 위치 정보가 없어서 정확한 가게를 추천하기는 어렵지만, 소화가 잘 되는 피자의 특징을 말씀드립니다:\n\n## 선택 기준\n- **얇은 크러스트** - 두꺼운 도우보다 소화하기 쉬움\n- **신선한 재료** - 신선한 야채와 토마토 소스\n- **기름 조절** - 기름이 과하지 않은 곳\n- **토핑** - 무거운 치즈보다 야채 중심\n\n## 찾는 방법\n1. **지역 검색** - \"○○지역 피자\" + \"소화 잘 되는\" 또는 \"헬시\"\n2. **리뷰 확인** - 네이버/구글에서 \"소화\" 키워드 검색\n3. **직접 문의** - 가게에 도우 두께나 재료 물어보기\n\n**혹시 어느 지역인지 말씀해 주시면** 더 구체적으로 도와드릴 수 있습니다!",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "경기도 화덕피자 유명한 곳 어디야?",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 경기도 화덕피자 유명한 곳들\n\n## 수원 지역\n- **피자 알리올리** - 수원 팔달구, 현지인 입소문\n- **라 까르보나라** - 나폴리 정통 화덕피자\n\n## 용인 지역\n- **피자 스쿨** - 화덕 전문점\n- **라 루차** - 이탈리안 정통 화덕피자\n\n## 성남 지역\n- **판도치** - 분당, 유명 브랜드\n\n## 안양/의왕 지역\n- **포포** - 화덕 전문점\n\n## 팁\n- **네이버 맵/구글맵**에서 \"화덕피자\" + 지역명으로 검색하면 최신 정보 확인 가능\n- **별점, 리뷰, 영업 여부** 확인 후 방문 추천\n- 지역/시간에 따라 매장이 변할 수 있습니다\n\n더 구체적인 지역이나 원하는 스타일(나폴리/로마식 등)이 있으면 알려주세요!",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "이탈리아 정통 피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 이탈리아 정통 피자 맛집 추천\n\n## 🇮🇹 나폴리(Naples) - 피자의 본고장\n\n### Franco Pepe's Pepe in Grani\n- 마리나렐라 위치, 매우 까다로운 재료 선정\n- 프로슈토 디 파르마와 신선한 모차렐라\n\n### L'Antica Pizzeria da Michele\n- 전형적인 나폴리 피자의 정석\n- 심플하면서도 깊은 맛\n\n## 🍕 로마(Rome)\n\n### Bonci Pizzarium\n- 현대적 해석의 피자\n- 고급 재료 사용\n\n### Flavio al Velavevodetto\n- 고전적 로마식 피자\n- 바삭한 식감\n\n## 주요 특징\n- ✅ **나폴리식**: 두툼하고 부드러운 반죽\n- ✅ **로마식**: 얇고 바삭한 식감\n- ✅ **재료**: DOP(원산지보호) 모차렐라, 산 마르자노 토마토\n\n## 💡 팁\n- 예약 필수 (유명 맛집)\n- 점심 시간 피하기\n- 지역 와인과 함께 즐기기\n\n**한국의 이탈리안 맛집**도 추천해드릴까요?",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    },
+    {
+      "query": "하남 또는 분당에서 피자 먹으러 가기 좋은 곳",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        },
+        "claude": {
+          "exposed": false,
+          "response": "# 하남·분당 피자 맛집 추천\n\n## 🍕 하남 지역\n- **피자 프로토콜, 라우터스** 등 킨텍스 근처 유명점\n- **스타필드 하남** 내 체인점들 (파파존스, 피자헛 등)\n- 로컬 인기점: 구글맵/네이버맵에서 \"하남 피자\" 검색 추천\n\n## 🍕 분당 지역\n- **판교 테크노밸리** 주변 트렌디한 피자집들\n- **분당 중심가** (미금, 정자역) 체인점 밀집\n- 수로왕릉역, 낙생공원 근처 프리미엄 피자숍\n\n## 💡 더 구체적인 추천을 위해\n다음 정보를 알려주시면 좋습니다:\n- 선호하는 피자 스타일 (나폴리식, 뉴욕식, 아메리칸 등)\n- 예산 범위\n- 분위기 (캐주얼 vs 프리미엄)\n- 방문 시간대\n\n**네이버맵/구글맵에서 \"하남(분당) 피자\" + 최신순 검색**하면 최근 오픈한 핫플레이스도 찾을 수 있습니다!",
+          "status": "ok"
+        },
+        "gemini": {
+          "exposed": null,
+          "response": null,
+          "status": "error"
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped"
+        }
+      }
+    }
+  ],
+  "summary": {
+    "chatgpt": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "perplexity": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "claude": {
+      "exposed_count": 0,
+      "total": 8,
+      "skipped": false,
+      "rate": 0.0
+    },
+    "gemini": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": false,
+      "rate": 0.0
+    },
+    "clovax": {
+      "exposed_count": 0,
+      "total": 0,
+      "skipped": true,
+      "rate": 0.0
+    }
+  }
+}
