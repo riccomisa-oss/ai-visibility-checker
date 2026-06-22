@@ -16,9 +16,9 @@ def query(prompt: str) -> dict:
     try:
         client = OpenAI(api_key=api_key)
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4o-mini-search-preview",
             messages=[{"role": "user", "content": prompt}],
-            timeout=30,
+            timeout=60,
         )
         text = response.choices[0].message.content
         return {"status": "ok", "response": text}

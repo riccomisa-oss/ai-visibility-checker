@@ -1,9 +1,10 @@
 name: Daily AI Visibility Check
 
 on:
-  schedule:
-    - cron: '0 0 * * *'   # 매일 00:00 UTC = 09:00 KST
-  workflow_dispatch:        # GitHub Actions UI에서 수동 실행 가능
+  # 자동(매일) 측정 비활성화 — 웹검색 API 비용 절감, 사용자가 직접 실행할 때만 측정.
+  # schedule:
+  #   - cron: '0 0 * * *'   # 매일 00:00 UTC = 09:00 KST
+  workflow_dispatch:        # 수동 실행 전용 (GitHub Actions UI 또는 gh workflow run)
 
 jobs:
   check:

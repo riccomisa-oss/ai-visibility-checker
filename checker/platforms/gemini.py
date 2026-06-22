@@ -1,6 +1,7 @@
 from __future__ import annotations
 import os
 import google.genai as genai
+from google.genai import types
 
 
 def query(prompt: str) -> dict:
@@ -19,6 +20,9 @@ def query(prompt: str) -> dict:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())],
+            ),
         )
         text = response.text
         return {"status": "ok", "response": text}
