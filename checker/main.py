@@ -52,6 +52,7 @@ def run() -> None:
                     "exposed": None,
                     "response": None,
                     "status": platform_result["status"],
+                    "error": platform_result.get("error"),
                 }
                 if platform_result["status"] == "skipped":
                     results["summary"][platform_name]["skipped"] = True
