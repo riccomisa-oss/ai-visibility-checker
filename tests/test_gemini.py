@@ -32,10 +32,11 @@ def test_query_skipped_without_api_key(monkeypatch):
 
 
 def test_query_returns_error_on_exception(monkeypatch):
-    """API 호출 실패 시 error 반환"""
+    """API 호출 실패 시 error 반환 (백오프 sleep은 목킹해 즉시 종료)"""
     monkeypatch.setenv("GOOGLE_API_KEY", "test-key")
 
-    with patch("checker.platforms.gemini.genai.Client") as mock_client_class:
+    with patch("checker.platforms.gemini.genai.Client") as mock_client_class, \
+         patch("checker.platforms.gemini.time.sleep") as mock_sleep:
         mock_client = MagicMock()
         mock_client.models.generate_content.side_effect = Exception("Quota exceeded")
         mock_client_class.return_value = mock_client
@@ -44,3 +45,6 @@ def test_query_returns_error_on_exception(monkeypatch):
 
     assert result["status"] == "error"
     assert "Quota exceeded" in result["error"]
+    # 4회 시도 → 3회 백오프, 지수 간격(10·20·40초)
+    assert mock_sleep.call_count == 3
+    assert [c.args[0] for c in mock_sleep.call_args_list] == [10, 20, 40]
