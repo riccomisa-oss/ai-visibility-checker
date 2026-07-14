@@ -34,10 +34,27 @@ jobs:
           CLOVAX_API_KEY: ${{ secrets.CLOVAX_API_KEY }}
         run: python -m checker.main
 
+      - name: 결과 데이터 업로드 (push 실패해도 데이터는 건진다)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-visibility-data
+          path: data/ai-visibility/
+          retention-days: 30
+
       - name: 결과 데이터 커밋 & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "chore: AI 노출 데이터 업데이트 $(date +'%Y-%m-%d')"
-          git push
+          # 측정이 도는 동안(수 분) 누가 main에 push하면 여기서 rejected 되고
+          # 방금 돈 측정 결과(API 비용 $2~3)가 통째로 날아간다. 실제로 2026-07-14에
+          # 그렇게 한 번 날렸다. rebase로 원격 변경을 흡수한 뒤 재시도한다.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push 실패 — 원격이 앞서갔다. 재시도 $i/3"
+            sleep 5
+          done
+          echo "::error::데이터 push 실패. 위 upload-artifact 스텝에서 결과를 내려받을 것."
+          exit 1
