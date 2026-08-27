@@ -109,6 +109,12 @@ def run() -> None:
                     "citations": citations,
                     "cited_domains": domains,
                 }
+                # 검색 수행 여부·실제 사용 모델은 어댑터가 알려줄 때만 기록한다.
+                # 인용 0건이 "검색을 안 한 것"인지 "검색했는데 안 잡힌 것"인지
+                # 구분해야 인용 지형 통계를 믿을 수 있다.
+                for extra in ("searched", "model"):
+                    if extra in platform_result:
+                        query_result["results"][platform_name][extra] = platform_result[extra]
                 # 인용 도메인은 역지표 질문에서도 유효한 정보라 함께 센다.
                 cite_counters[platform_name].update(domains)
 

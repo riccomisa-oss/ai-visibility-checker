@@ -1,0 +1,28 @@
+name: Probe ChatGPT Adapter
+
+# 어댑터가 살아 있는지 질의 1건으로 확인한다(수 센트). 정기 측정과 달리
+# data/ 를 건드리지 않으므로 그날 측정 결과를 덮어쓸 위험이 없다.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 프로브 실행
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python -m scripts.probe_chatgpt

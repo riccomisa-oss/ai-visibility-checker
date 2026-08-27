@@ -1,4 +1,5 @@
-openai>=1.50.0
+# Responses API의 web_search 도구(GA 타입) 사용 — 1.104.2에서 타입 별칭이 정리됐다.
+openai>=1.104.2
 anthropic>=0.40.0
 google-genai>=1.0.0
 requests>=2.31.0
