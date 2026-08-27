@@ -4,6 +4,14 @@ name: Probe ChatGPT Adapter
 # data/ 를 건드리지 않으므로 그날 측정 결과를 덮어쓸 위험이 없다.
 on:
   workflow_dispatch:
+    inputs:
+      preset:
+        description: '프로브 범위'
+        type: choice
+        default: smoke
+        options:
+          - smoke          # 질의 1건 — 어댑터 생존만
+          - journal-slots  # 속성 슬롯 8종 — 저널 인용 재현성
 
 jobs:
   probe:
@@ -25,4 +33,5 @@ jobs:
       - name: 프로브 실행
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PROBE_PRESET: ${{ inputs.preset }}
         run: python -m scripts.probe_chatgpt
