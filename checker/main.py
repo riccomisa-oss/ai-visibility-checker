@@ -49,6 +49,7 @@ def run() -> None:
 
     results: dict = {
         "date": today,
+        "detector_version": detector.DETECTOR_VERSION,
         "collected_at": datetime.now().strftime("%H:%M KST"),
         "queries": [],
         "summary": {
