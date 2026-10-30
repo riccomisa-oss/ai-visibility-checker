@@ -1,0 +1,2829 @@
+{
+  "date": "2026-10-30",
+  "detector_version": "2.0-scoped-negatives",
+  "collected_at": "02:39 KST",
+  "queries": [
+    {
+      "query": "하남미사 화덕피자 맛집 추천해줘",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "하남 미사에서 **화덕피자** 찾으시면 아래 3곳부터 추천드려요.\n\n### 1. 리꼬 피자 하남미사 본점 — 가장 무난한 1순위\n- **추천 메뉴:** 리꼬 마르게리따, 클래식 마르게리따, 벌집 콰트로 포르마지\n- **특징:** 천연발효종을 72시간 숙성한 도우와 나폴리식 화덕피자가 강점이라, 도우 맛을 중요하게 보면 가장 추천해요.\n- **주소:** 하남시 미사강변북로30번길 65 1층\n- **영업:** 매일 11:30~21:30, 브레이크타임 있음\n- **주차:** 매장 주차는 어렵고 미사강변주차타워 지원\n- **추천 상황:** 데이트, 피자 본연의 맛, 깔끔한 식사 ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))\n\n### 2. 더피제리아마켓 하남미사 — 분위기·가족 외식\n- **추천 메뉴:** 마르게리타 계열, 리코타 허니 페퍼로니, 피자보트\n- **특징:** 피자뿐 아니라 파스타와 사이드 메뉴도 다양하고, 미사호수공원 근처라 식사 후 산책하기 좋아요. 반려동물 동반이 가능한 매장으로 소개되어 있습니다.\n- **추천 상황:** 가족모임, 아이와 방문, 반려견 동반, 캐주얼한 데이트 ([superchart.com](https://superchart.com/ko/%40mangwon-late-bench/hanam-misa-pizzeria-market-weekday-lunch/?utm_source=openai))\n\n### 3. 몽뜨화덕피자 — 넓은 매장과 가족모임\n- **위치:** 미사리 조정경기장·나룰도서관 인근으로 알려진 곳\n- **특징:** 매장이 비교적 넓고 도우가 얇고 바삭한 스타일로 소개되어 가족 외식에 잘 맞는 편이에요.\n- **추천 상황:** 여러 명 방문, 아이 동반, 주차와 넓은 공간을 선호할 때 ([tripinfo.co.kr](https://www.tripinfo.co.kr/info.html?content_id=2910823&content_type_id=39&device=pc&navi=food_rank-gyeonggii&utm_source=openai))\n\n**딱 한 곳만 고르면:**  \n- **피자 맛 우선:** 리꼬 피자  \n- **분위기·산책까지:** 더피제리아마켓  \n- **가족모임·넓은 자리:** 몽뜨화덕피자  \n\n영업시간이나 주차 조건은 바뀔 수 있으니 방문 직전에 확인하는 걸 추천드려요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/?utm_source=openai",
+            "https://superchart.com/ko/%40mangwon-late-bench/hanam-misa-pizzeria-market-weekday-lunch/?utm_source=openai",
+            "https://www.tripinfo.co.kr/info.html?content_id=2910823&content_type_id=39&device=pc&navi=food_rank-gyeonggii&utm_source=openai"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "superchart.com",
+            "tripinfo.co.kr"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "하남미사 지역의 화덕피자 맛집 정보를 찾아드리겠습니다.하남미사 지역의 화덕피자 맛집을 추천해드립니다!\n\n## 추천 맛집: 리꼬 화덕피자 하남미사 본점\n\n**위치**: 경기 하남시 미사강변북로30번길 65 1층  \n**운영 시간**: 매일 11:30~21:30 (브레이크타임 15:00~17:00, 라스트오더 20:30)\n\n### 특징\n\n- 네이버 리뷰 16000개 및 구글 평점 4.8점을 받아 하남미사 대표 맛집\n- 나폴리 피자협회(AVPN) 공식 인증을 받은 스테파노 페라라 화덕\n- 100년 전통의 이탈리아 대표 밀가루 CAPUTO로 매일 아침 7시에 반죽\n- 도우가 푹신하면서도 쫄깃한 식감\n\n### 메뉴 특성\n\n해신 뚝배기 누룽지 파스타가 독특하고, 봉골레 파스타에 해산물이 풍부하며, 마스카포네 단팥 티라미수도 맛있다는 후기가 있습니다.\n\n네이버 예약시 미사강변주차타워 2시간 주차 지원으로 편의성이 뛰어나다는 장점도 있습니다. 예약 후 방문하시는 것을 추천드립니다!",
+          "status": "ok",
+          "citations": [
+            "https://kr.trip.com/moments/detail/hanam-1595276-125927902/",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-w6zevfj2cf9o/",
+            "https://blog.idataground.com/?p=490",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://brunch.co.kr/@topasvga/2265",
+            "https://kr.trip.com/moments/detail/hanam-1595276-125927902/",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-w6zevfj2cf9o/",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-w6zevfj2cf9o/",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://blog.idataground.com/?p=490",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0"
+          ],
+          "cited_domains": [
+            "blog.idataground.com",
+            "brunch.co.kr",
+            "daangn.com",
+            "diningcode.com",
+            "keyzard.cc",
+            "kr.trip.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "하남미사에서 화덕피자 맛집을 찾으신다면 '리꼬 화덕피자 하남미사 본점'을 추천합니다.\n\n리꼬 화덕피자는 2017년 국내 최초로 이탈리아 밀가루 천연발효종 화덕피자를 선보인 곳으로, 72시간 동안 숙성시킨 도우를 사용하는 것이 특징입니다. APN(Associazione Pizzaiuoli Napoletani) 정회원 셰프가 피자를 굽는 곳으로 알려져 있습니다.\n\n특히 '벌집 피자'가 인상적이라는 후기가 있으며, 한국인의 입맛에 맞는 이탈리안식 피자를 맛볼 수 있다는 평가가 있습니다. 하남미사 지역 맛집 추천 리스트에도 꾸준히 언급될 정도로 현지인들에게도 인기가 많습니다.\n\n**리꼬 화덕피자 하남미사 본점 정보:**\n*   **영업시간:** 매일 11:00 - 21:00 (브레이크 타임 15:00 - 17:00, 라스트 오더 20:00)\n*   **전화번호:** 0507-1355-1898",
+          "status": "ok",
+          "citations": [
+            "ricco-pizza.com",
+            "tistory.com",
+            "click1-tip.com"
+          ],
+          "cited_domains": [
+            "click1-tip.com",
+            "ricco-pizza.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "하남 미사강변 데이트하기 좋은 화덕피자 어디야",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "미사강변에서 **데이트용 화덕피자**라면 저는 **리꼬 피자 하남미사 본점**을 1순위로 추천해요.\n\n### 1. 리꼬 피자 하남미사 본점\n- **장점:** 정통 나폴리 화덕피자, 분위기 깔끔하고 데이트하기 좋음\n- **특징:** 천연발효종 도우를 72시간 숙성한다고 안내\n- **주소:** 하남시 미사강변북로30번길 65 1층\n- **영업:** 매일 11:30~21:30, 브레이크타임 있음\n- **팁:** 주말이나 저녁은 예약·웨이팅 문의 추천. 미사강변주차타워 2시간 지원도 확인돼요. ([ricco-pizza.com](https://ricco-pizza.com/hanam/?utm_source=openai))\n\n### 2. 더피제리아마켓 하남미사\n- **장점:** 유럽풍·마켓 느낌의 인테리어와 테라스가 있어 좀 더 캐주얼하고 분위기 있음\n- **추천 상황:** 피자에 파스타, 맥주나 하이볼까지 곁들이고 싶을 때\n- **주소:** 하남시 미사강변북로30번길 129 1층\n- **메뉴:** NY 마르게리타, 트러플 머쉬룸, 페퍼로니, 파스타 등\n- **팁:** 날씨 좋으면 테라스 자리 데이트 분위기가 괜찮고, 예약도 가능한 곳으로 안내돼요. ([superchart.com](https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai))\n\n**한 줄 결론:**  \n- **조용하고 피자 맛 중심:** 리꼬  \n- **테라스·맥주·캐주얼한 데이트:** 더피제리아마켓  \n\n식사 후에는 두 곳 모두 미사호수공원 산책 코스로 이어가기 좋아요. 방문 전 당일 영업시간과 브레이크타임은 한 번 확인하고 가세요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/hanam/?utm_source=openai",
+            "https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "하남 미사강변 지역의 화덕피자 맛집 정보를 검색해드리겠습니다.하남 미사강변 지역의 데이트하기 좋은 화덕피자 맛집을 추천해드립니다!\n\n## **리꼬 피자 하남미사 본점** ⭐ (가장 인기)\n\n📍 경기 하남시 미사강변북로30번길 65 1층\n🕰️ 매일 11:30~21:30 (브레이크타임 15:00~17:00, 라스트오더 20:30)\n\n분위기가 좋은 양식 맛집으로 데이트하기에 추천할만한 화덕피자점이며, 4.7점의 높은 평점을 받고 있습니다. 나폴리 피자협회 공식 인증 화덕에서 이탈리아 정통 카푸토 밀가루로 구워내며, 미사강변주차타워 2시간 주차 지원으로 편리합니다.\n\n## **몽뜨 화덕피자 본점** 🍕\n\n📍 경기 하남시 월호로 54\n🕰️ 매일 10:00~22:00 (21:30 라스트오더)\n\n전국 3대 화덕피자 맛집으로 손꼽히는 유명 음식점으로, 직접 반죽하고 바루 구워내는 특징이 있습니다. 매장 안에 화덕피자를 만들어서 매우 맛있으며 조용하고 아기자기한 분위기의 매장이라 커플들의 데이트장소로 추천됩니다.\n\n두 곳 모두 미사강변의 분위기와 훌륭한 맛으로 데이트에 완벽한 장소입니다! 예약을 미리 하고 방문하시면 더 좋습니다.",
+          "status": "ok",
+          "citations": [
+            "https://kr.trip.com/moments/detail/hanam-1595276-125927902/",
+            "https://www.diningcode.com/rank/%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC+%ED%94%BC%EC%9E%90",
+            "https://forourtour.com/%ed%95%98%eb%82%a8-%eb%a7%9b%ec%a7%91/",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://brunch.co.kr/@takit2z/348",
+            "https://brunch.co.kr/@takit2z/350",
+            "https://brunch.co.kr/@takit2z/324",
+            "https://brunch.co.kr/@takit2z/327",
+            "https://www.diningcode.com/profile.php?rid=u1lHKxTfcxAI",
+            "https://en.wikipedia.org/wiki/Ms._Kim%27s_Million_Dollar_Quest",
+            "https://en.wikipedia.org/wiki/Miasageori_station",
+            "http://duli.co.kr/web/splus/kmap/view.php?sigun=6410000&gugun=4040000&keyno=109&keyname=%ED%94%BC%EC%9E%90%EB%AF%B8%EB%82%A8+%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC%EC%A0%90&keylink=4040000-101-2022-00014",
+            "https://en.wikipedia.org/wiki/Hanam_Pungsan_station",
+            "http://www.hortitimes.com/news/articleView.html?idxno=21029",
+            "https://en.wikipedia.org/wiki/Mia_station",
+            "https://en.wikipedia.org/wiki/Hanam_City_Hall_station",
+            "https://en.wikipedia.org/wiki/Hawangsimni-dong",
+            "https://kr.trip.com/moments/detail/hanam-1595276-125927902/",
+            "https://kr.trip.com/moments/detail/hanam-1595276-125927902/",
+            "https://www.diningcode.com/rank/%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://forourtour.com/%ed%95%98%eb%82%a8-%eb%a7%9b%ec%a7%91/",
+            "https://forourtour.com/%ed%95%98%eb%82%a8-%eb%a7%9b%ec%a7%91/",
+            "https://forourtour.com/%ed%95%98%eb%82%a8-%eb%a7%9b%ec%a7%91/"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "diningcode.com",
+            "duli.co.kr",
+            "en.wikipedia.org",
+            "forourtour.com",
+            "hortitimes.com",
+            "keyzard.cc",
+            "kr.trip.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "하남 미사강변에서 데이트하기 좋은 화덕피자 맛집으로 **더피제리아마켓 하남미사**를 추천합니다. 이곳은 데이트 코스로 여러 번 언급되며 분위기 좋은 곳으로 평가받고 있습니다.\n\n**더피제리아마켓 하남미사**\n*   **분위기**: 이국적인 야외 테라스와 우드톤의 아늑한 실내 인테리어를 갖추고 있어 커플 데이트에 적합합니다. 테이블 간 간격도 넓어 편안하게 식사할 수 있으며, 와인 페어링도 즐길 수 있습니다.\n*   **피자**: 48시간 저온 숙성한 천연발효 도우를 사용하며, 수제 올리브 페스토 이탈리안 루꼴라 피자보트, 코리안 더 비프 피자, 뉴욕 마르게리타 등 독특하고 다양한 화덕피자 메뉴를 선보입니다. 특히 쫄깃한 도우가 특징이라고 합니다.\n*   **위치 및 기타**: 미사 망월호수공원 둘레길 위에 있어 식사 전후로 산책하기에도 좋습니다. 애견 동반이 가능하며, 주말 브레이크 타임 없이 운영되고 있습니다.\n\n이 외에도 **리꼬 화덕피자 하남미사 본점**도 좋은 평가를 받는 곳으로, \"벌집 피자\" 등 독특한 메뉴로 만족도가 높다는 후기가 있습니다. 좀 더 캐주얼하고 아담한 분위기에서 칵테일과 함께 화덕피자를 즐기고 싶다면 **하남 미사 몰디브**도 고려해볼 만합니다.",
+          "status": "ok",
+          "citations": [
+            "superchart.com",
+            "superchart.com",
+            "superchart.com",
+            "superchart.com",
+            "superchart.com",
+            "tistory.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "superchart.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "미사강변 정통 나폴리피자 파는 곳 있어?",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "있어요. **미사강변에서는 ‘리꼬 피자 하남미사 본점’이 가장 가까운 선택**입니다.\n\n- **리꼬 피자 하남미사 본점**\n  - 경기 하남시 **미사강변북로30번길 65, 1층**\n  - 이탈리아 **카푸토 밀가루**, 72시간 숙성 도우, **스테파노 페라라 나폴리 화덕**을 사용한다고 안내하는 곳입니다. 마르게리타 같은 기본 메뉴로 드시면 나폴리식 도우 맛을 느끼기 좋아요. ([ricco-pizza.com](https://ricco-pizza.com/hanam/?utm_source=openai))\n  - 영업: 매일 11:30~21:30, 브레이크타임 있음\n  - 미사역 3번 출구에서 도보 약 15~20분\n  - 매장 주차는 어렵고, 인근 미사강변주차타워 이용 시 최대 2시간 지원\n  - 예약·대기 문의: **0507-1355-1898** ([ricco-pizza.com](https://ricco-pizza.com/hanam/?utm_source=openai))\n\n미사역 바로 근처에서 분위기까지 원하면 **몰디브 화덕피자&펍**이나 **보노**도 있지만, “정통 나폴리 스타일”을 우선하면 저는 **리꼬에서 마르게리타**를 추천해요. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EB%AF%B8%EC%82%AC%EC%97%AD+%EC%9D%B4%ED%83%9C%EB%A6%AC%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91&utm_source=openai))",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/hanam/?utm_source=openai",
+            "https://ricco-pizza.com/hanam/?utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EC%82%AC%EC%97%AD+%EC%9D%B4%ED%83%9C%EB%A6%AC%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91&utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "미사강변에서 정통 나폴리 피자를 파는 곳에 대해 검색해드리겠습니다.네, 미사강변에 정통 나폴리피자를 파는 곳이 있습니다!\n\n하남 미사에 위치한 리꼬 화덕피자 미사 본점은 나폴리 피자협회 인증 화덕과 CAPUTO 밀가루를 사용하며 청결한 오픈 주방을 갖추고 있습니다.\n\n**주요 특징:**\n- 이탈리아 정통 카푸토 밀가루로 구워내 쫀득한 도우 엣지가 일품\n- 미사강변주차타워 2시간 주차 지원\n- 정통 나폴리 화덕피자와 파스타 전문점\n\n미사강변에서 정통 나폴리 피자를 찾으신다면 리꼬 화덕피자가 좋은 선택이 될 것 같습니다!",
+          "status": "ok",
+          "citations": [
+            "https://triple.guide/articles/f6d7596a-253a-4bad-9736-639ceb180de5",
+            "https://www.tripstore.kr/blog/%EB%82%98%ED%8F%B4%EB%A6%AC-%EB%A7%9B%EC%A7%91-%ED%94%BC%EC%9E%90-%EB%B3%B8%EA%B3%A0%EC%9E%A5-%EC%B0%90%EB%A7%9B%EC%A7%91%EB%B6%80%ED%84%B0-%EB%B7%B0-%EB%A7%9B%EC%A7%91%EA%B9%8C%EC%A7%80-%EC%B4%9D%EC%A0%95%EB%A6%AC",
+            "https://storyb.ryryangang.com/15",
+            "https://www.tripadvisor.com/Restaurants-g2467724-c31-Province_of_Naples_Campania.html",
+            "https://www.waug.com/en/magazines/1365",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://guide.michelin.com/kr/ko/campania/napoli/restaurant/salvo",
+            "https://guide.michelin.com/kr/ko/hong-kong-region/hong-kong/restaurant/little-napoli",
+            "https://wanderlog.com/ko/list/geoCategory/344239/캔자스-시티의-개-최고의-이탈리안-레스토랑",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0"
+          ],
+          "cited_domains": [
+            "guide.michelin.com",
+            "keyzard.cc",
+            "storyb.ryryangang.com",
+            "tripadvisor.com",
+            "triple.guide",
+            "tripstore.kr",
+            "wanderlog.com",
+            "waug.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "네, 미사강변에 정통 나폴리 피자를 맛볼 수 있는 곳이 있습니다.\n\n'리꼬 화덕피자 하남미사 본점'은 화덕피자 전문점으로, 나폴리 피자 장인에게 직접 배우고 나폴리 피자 장인 협회(APN) 회원 자격까지 갖춘 곳으로 알려져 있습니다. 이곳은 망월초 부근 먹자골목에 위치하며, 미사역에서 도보로 약 15-20분 거리에 있습니다.",
+          "status": "ok",
+          "citations": [
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "미금역 근처 화덕피자 맛집 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "미금역 근처라면 **리꼬 피자 분당미금점**을 가장 추천해요.\n\n### 1. 리꼬 피자 분당미금점 — 가장 무난한 1순위\n- **위치:** 미금역 2번 출구에서 도보 약 3분, 미금파크 1층\n- **특징:** 천연발효종을 사용한 72시간 숙성 도우, 약 450℃ 화덕에 굽는 스타일\n- **추천 메뉴:** 마르게리따, 벌집 콰트로 포르마지, 제주 잠봉 비스마르크\n- **분위기:** 깔끔하고 데이트·가족 외식 모두 무난\n- **영업:** 11:30~21:30, 브레이크타임 있음\n- **주차:** 미금파크 지하주차장 2시간 무료로 안내됨 ([ricco-pizza.com](https://ricco-pizza.com/journal/migeum-pizza/?utm_source=openai))\n\n**처음 가면:** 마르게리따 + 파스타 하나를 주문하는 조합이 좋아요. 도우 맛을 제대로 느끼려면 기본 피자가 가장 무난합니다.\n\n### 2. 스윗도우 — 조금 더 캐주얼한 선택\n미금역 인근에서 화덕피자와 파스타를 함께 먹을 수 있는 곳으로 오래 언급된 매장입니다. 가격대가 비교적 부담 없다는 후기가 있지만, 온라인에 확인되는 정보가 오래된 편이라 방문 전 영업 여부와 시간을 확인하는 걸 추천해요. ([1000lucky-10000lucky.tistory.com](https://1000lucky-10000lucky.tistory.com/165?utm_source=openai))\n\n**한 줄 추천:**  \n- **데이트·깔끔한 식사:** 리꼬 피자  \n- **가성비·편한 분위기:** 스윗도우  \n- 딱 한 곳만 고르면 **리꼬 피자 분당미금점**이 가장 안전한 선택입니다.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/journal/migeum-pizza/?utm_source=openai",
+            "https://1000lucky-10000lucky.tistory.com/165?utm_source=openai"
+          ],
+          "cited_domains": [
+            "1000lucky-10000lucky.tistory.com",
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "미금역 근처 화덕피자 맛집에 대한 정보를 찾아드리겠습니다.미금역 근처의 화덕피자 맛집을 소개해드립니다:\n\n## 추천 화덕피자 맛집\n\n### 1. **리꼬 피자 분당미금점** ⭐ 4.4점\n화덕피자 전문점으로 평점 4.4점(8명)을 받고 있으며, 데이트, 무료주차, 깔끔함, 테이크아웃 등이 특징입니다.\n\n### 2. **스윗도우 미금역** ⭐ 4.0점\n화덕피자와 파스타를 제공하며 평점 4.0점(4명)을 받고 있고, 데이트, 무료주차, 깔끔함, 포장 등의 특징이 있습니다.\n\n### 3. **리미니 분당점** ⭐ 3.0점\n파스타와 화덕피자를 함께 제공하며, 혼밥, 가성비 좋음, 놀이방이 있는 특징이 있습니다.\n\n이 중에서 **리꼬 피자 분당미금점**이 가장 높은 평가를 받고 있으며, 다이닝코드에서 미금역 피자 맛집 1위로 선정된 곳입니다. 방문 전에 각 가게의 영업시간을 확인하시고 가시면 좋습니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%8C%8C%EC%8A%A4%ED%83%80",
+            "https://www.diningcode.com/list.dc?query=%EC%9A%B8%EC%82%B0+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EC%A0%9C%EC%A3%BC%EB%8F%84+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%8C%80%EA%B5%AC%EB%8F%99%EA%B5%AC+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%8C%80%EA%B5%AC%EB%82%A8%EA%B5%AC+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://en.wikipedia.org/wiki/Migeum_station",
+            "https://www.threads.com/@n____yomi/post/DFSmOQuS5Y8?hl=ko",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%94%BC%EC%9E%90"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "en.wikipedia.org",
+            "threads.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "미금역 근처에서 화덕피자 맛집을 찾으신다면 '리꼬 피자 분당미금점'을 추천합니다.\n\n리꼬 피자 분당미금점은 미금역에서 도보로 약 3분 거리에 위치하고 있습니다. 이 곳은 2017년 국내 최초로 이탈리아 밀가루 천연발효종 화덕피자를 선보였으며, 72시간 저온 숙성한 도우를 사용하여 깊은 풍미와 겉은 바삭하고 속은 부드러운 식감이 특징입니다. 특히, 이탈리아 스테파노 페라라의 정통 나폴리 화덕과 카푸토 밀가루를 사용하며, 피자를 굽는 여러 셰프들이 나폴리피자 장인협회(APN) 정회원이라고 합니다.\n\n메뉴로는 시그니처 리꼬 마르게리따(26,000원)와 벌집 콰트로 포르마지(29,500원) 등이 있으며, 파스타와 샐러드도 함께 즐길 수 있습니다. 매일 11:30부터 21:30까지 운영하며, 브레이크 타임은 평일 15:00~17:00, 주말 15:30~17:00입니다. 미금파크빌딩 지하주차장을 2시간 무료로 이용할 수 있어 차량 이용 시에도 편리합니다.",
+          "status": "ok",
+          "citations": [
+            "ricco-pizza.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "bundang"
+    },
+    {
+      "query": "분당 화덕피자 맛집 추천해줘",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "분당에서 **화덕피자 제대로 먹고 싶다면** 아래 순서로 추천드려요.\n\n1. **돈파스타 — 서현역**\n   - 정통 나폴리 스타일을 선호하면 가장 먼저 추천합니다.\n   - **엑스트라 마르게리타**, **살시치아 피자**가 대표 메뉴이고, 피자 맛에 대한 평가가 좋은 편입니다.\n   - 서현역 5번 출구 근처라 접근성도 좋아요.\n   - 평일은 점심 영업 위주이고, 토요일은 브레이크타임이 있으니 **예약·영업시간 확인 필수**입니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=t36cyGzKYBvt&utm_source=openai))\n\n2. **피제리아 다리오 — 정자**\n   - 화덕피자뿐 아니라 파스타·라자냐까지 함께 먹기 좋은 이탈리안 레스토랑입니다.\n   - 분위기가 괜찮아서 **데이트나 가족 식사**에 잘 맞고, 예약도 가능한 것으로 안내되어 있습니다.\n   - 영업시간은 안내상 **11:00~22:00**입니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=VwWvwMasSzo1&utm_source=openai))\n\n3. **라온식탁 판교점 — 백현동 카페거리**\n   - 화덕피자와 파스타를 같이 즐기고, 식사 후 카페거리 산책까지 하기 좋은 곳입니다.\n   - 우드톤의 편안한 분위기라 **연인·친구 모임**에 추천해요.\n   - 주소는 판교역로10번길 26이며, 안내된 영업시간은 **11:30~21:00, 브레이크타임 15:30~17:00**입니다. ([superchart.com](https://superchart.com/ko/%40seocho-small-vanity/raon-table-pangyo-roast-chicken-rose-risotto/?utm_source=openai))\n\n4. **피제리아 비니스 — 서판교**\n   - 판교도서관 인근에서 나폴리식 화덕피자를 찾을 때 후보로 볼 만합니다.\n   - 피자 도우와 화덕 풍미를 중심으로 소개되는 곳이라 **서판교 드라이브·데이트 코스**에 잘 어울려요. ([letsstudytogether.tistory.com](https://letsstudytogether.tistory.com/91?utm_source=openai))\n\n**한 곳만 고르면:**  \n- 정통 나폴리 피자: **돈파스타**  \n- 분위기·메뉴 다양성: **피제리아 다리오**  \n- 판교 카페거리와 함께: **라온식탁**\n\n개인적으로는 첫 방문이면 **돈파스타의 엑스트라 마르게리타**를 추천합니다. 다만 돈파스타는 영업일과 시간이 제한적인 편이라 방문 전 전화 확인이 안전해요.",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=t36cyGzKYBvt&utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=VwWvwMasSzo1&utm_source=openai",
+            "https://superchart.com/ko/%40seocho-small-vanity/raon-table-pangyo-roast-chicken-rose-risotto/?utm_source=openai",
+            "https://letsstudytogether.tistory.com/91?utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "letsstudytogether.tistory.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "분당 지역의 화덕피자 맛집 정보를 찾아드리겠습니다.분당 지역의 화덕피자 맛집을 추천해드립니다:\n\n## 추천 맛집 (별점 순)\n\n**1. 리꼬 피자 분당미금점** - 화덕피자 ★4.4\n\n**2. 지오쿠치나** - 화덕피자 ★4.3\n\n**3. 라라테이블 (수내동)** - 3일 동안 숙성한 피자 도우를 이탈리아 나폴리 방식 그대로 화덕에 구워내는 피자\n\n추천 메뉴는 뚝배기에 나오는 해산물파스타와 스테이크리조토입니다.\n\n또한 분당 지역에는 투파인드피터, 도치피자, 라디오베이, 피자 베이비 베이커스, 파파라구 등 다양한 화덕피자 맛집들이 있습니다. \n\n방문 전에 미리 전화나 온라인 예약을 하시면 더욱 편리하게 이용하실 수 있습니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=QQY13Byz9jFR",
+            "https://www.diningcode.com/list.dc?query=%EB%B6%84%EB%8B%B9+%ED%94%BC%EC%9E%90",
+            "https://hotplacehunter.co.kr/seoul/article/58317/",
+            "https://hotplacehunter.co.kr/seoul/article/49042/",
+            "https://www.diningcode.com/list.dc?query=%EC%82%AC%EB%8B%B9%EC%97%AD+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.threads.com/@sweetpekoe/post/C-mVHvNOndo?hl=ko",
+            "https://brunch.co.kr/@takit2z/350",
+            "https://brunch.co.kr/@takit2z/324",
+            "https://brunch.co.kr/@hotcat/120",
+            "https://www.diningcode.com/list.dc?query=%EB%B6%84%EB%8B%B9+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%B6%84%EB%8B%B9+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/profile.php?rid=QQY13Byz9jFR",
+            "https://www.diningcode.com/profile.php?rid=QQY13Byz9jFR"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "diningcode.com",
+            "hotplacehunter.co.kr",
+            "threads.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "분당에서 화덕피자 맛집을 찾으신다면 '돈파스타'를 추천합니다.\n\n**돈파스타 (Don Pasta)**\n*   **특징**: 분당 서현동에 위치한 돈파스타는 나폴리 피자 한국대회에서 1등을 차지하고 국제 대회에서도 국가별 1위를 달성한 경력이 있는 유명한 이탈리안 피자 전문점입니다. 이탈리아에서 요리 유학을 한 오너 셰프와 가족들이 운영하며, 나폴리 피자협회 규정을 엄격히 준수하여 피자를 만든다고 합니다. 화학 조미료, 공장 스톡, 설탕 없이 모든 재료를 직접 만들어 사용하는 것이 특징이며, 특히 마르게리타 피자가 맛있다는 평이 많습니다.\n*   **메뉴**: 화덕피자와 파스타를 제공하며, 특히 마르게리타 피자가 추천됩니다. 평일 저녁에는 피자만 판매하기도 합니다.\n*   **위치 및 운영**: 서현역 5번 출구에서 도보 2분 거리에 있습니다. 부부가 운영하는 작은 가게로 테이블 수가 많지 않아 예약을 하는 것이 좋습니다. 블루리본과 망고플레이트에서도 추천하는 맛집으로 알려져 있습니다.\n\n**피제리아 비니스 (Pizzeria Vini's)**\n*   **특징**: 판교에 위치한 피제리아 비니스도 이탈리아 정통 나폴리식 화덕피자를 맛볼 수 있는 곳으로 꼽힙니다. 화덕에 구운 식전빵과 함께 샬시차 스트라차텔라 부리타 피자, 새우 오일 파스타(감베리 알리오 올리오) 등이 추천됩니다.\n*   **위치 및 운영**: 경기 성남시 분당구 판교공원로1길 70 1층에 있으며, 매주 월요일과 화요일은 정기 휴무입니다.",
+          "status": "ok",
+          "citations": [
+            "tistory.com",
+            "tistory.com",
+            "tistory.com",
+            "tistory.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "bundang"
+    },
+    {
+      "query": "분당 미금 정통 나폴리피자 어디가 진짜야",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "미금에서 **“정통 나폴리피자”라는 기준으로 하나만 고르면 `리꼬 피자 분당미금점`** 쪽이 제일 납득돼요.\n\n- **리꼬 피자**: 카푸토 밀가루, 스테파노 페라라 화덕, 약 450℃ 단시간 굽기, 72시간 발효·숙성을 내세우고 있고, 굽는 셰프 여러 명이 **APN(나폴리피자 장인협회) 정회원**이라고 공개하고 있어요. 단, APN 정회원은 **매장 인증이 아니라 셰프 개인 자격**이라는 점은 구분해야 합니다. ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))  \n- **위치**: 미금역 2번 출구에서 도보 약 3분, 미금파크 1층. 클래식 마르게리타는 현재 공개 메뉴 기준 2만3천 원입니다. ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))\n- **주문**: 처음이면 무조건 **클래식 마르게리타**. 토핑 많은 피자보다 도우의 발효향, 가장자리 코르니초네, 중앙의 촉촉함을 보기 좋아요.\n\n`스윗도우`도 이탈리아산 밀가루와 48시간 숙성 도우를 쓰는 괜찮은 화덕피자집으로 보이지만, 제가 확인한 공개 자료 기준으로는 리꼬만큼 **APN 셰프·화덕·숙성 과정이 구체적으로 확인되지는 않았어요.** ([diningcode.com](https://www.diningcode.com/profile.php?rid=ELH2ZAMCU06a&utm_source=openai))\n\n다만 엄밀히 말하면 **미금에 AVPN(진짜 나폴리피자협회) 매장 인증점이 있다고 확인되지는 않습니다.** 그러니까 결론은:\n\n> **인증 간판까지 따지면 미금에는 확정적인 AVPN 인증점 없음.  \n> 미금에서 정통성·공정 공개 기준으로 고르면 리꼬 피자.  \n> 가성비와 편한 분위기면 스윗도우.**\n\n제가 직접 고르면 **리꼬에서 클래식 마르게리타 먹겠습니다.**",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/?utm_source=openai",
+            "https://ricco-pizza.com/?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=ELH2ZAMCU06a&utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "분당 미금 지역의 정통 나폴리피자 맛집에 대해 검색해드리겠습니다.검색 결과에 따르면 분당 지역의 나폴리피자 정보를 찾아드렸습니다:\n\n## 분당 지역 나폴리피자 맛집\n\n**1. 돈 파스타**\n서현역 근처에 위치한 \"돈파스타 나폴리 피자\"는 화덕피자 맛집으로, 경기 성남시 분당구 황새울로342번길 11 금호리빙스텔 2층에 있으며, 운영시간은 화-금 11:30-15:00 (점심), 토 11:30-20:00입니다. 일요일, 월요일은 정기휴무입니다.\n\n**2. 피자스쿨 분당미금점**\n나폴리피자를 제공하는 피자스쿨 분당미금점은 경기도 성남시 분당구 성남대로 165 천사의도시 오피스텔에 위치하며, 나폴리피자 가격은 10,000원입니다.\n\n분당 미금 지역의 정통 나폴리피자를 찾으신다면, 위의 두 곳을 추천드립니다. 특히 돈파스타는 화덕피자로 평가받고 있으니 참고하시기 바랍니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.siksinhot.com/P/385889",
+            "https://ko.wikipedia.org/wiki/%EB%82%98%ED%8F%B4%EB%A6%AC_%ED%94%BC%EC%9E%90",
+            "https://www.the-pr.co.kr/news/articleView.html?idxno=63055",
+            "https://triple.guide/articles/30e16844-f7d2-4f27-8fc9-4ed22d012513",
+            "https://www.themac.co.kr/news/articleView.html?idxno=1958",
+            "https://www.diningcode.com/profile.php?rid=t36cyGzKYBvt",
+            "https://en.wikipedia.org/wiki/Migeum_station",
+            "https://logifoodcoach.com/database/ko/neapolitan-pizza/",
+            "https://guide.michelin.com/kr/ko/campania/pompei/restaurants",
+            "https://www.diningcode.com/profile.php?rid=t36cyGzKYBvt",
+            "https://www.diningcode.com/profile.php?rid=t36cyGzKYBvt",
+            "https://www.siksinhot.com/P/385889"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "en.wikipedia.org",
+            "guide.michelin.com",
+            "ko.wikipedia.org",
+            "logifoodcoach.com",
+            "siksinhot.com",
+            "the-pr.co.kr",
+            "themac.co.kr",
+            "triple.guide"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "분당 미금에서 정통 나폴리 피자를 찾으신다면 **리꼬 피자 분당미금점**을 고려해볼 수 있습니다.\n\n리꼬 피자는 2017년에 시작된 천연발효종 화덕피자 전문점으로, 분당 미금점을 운영하고 있습니다. 이곳은 다음과 같은 특징을 통해 정통 나폴리 피자를 선보이고자 합니다.\n\n*   **천연발효종 도우 및 숙성:** 매일 직접 키운 르방(천연발효종)을 24시간 발효하고 48시간 저온 숙성하여 총 72시간을 거친 도우를 사용합니다.\n*   **이탈리아 직수입 식재료:** 36개월 숙성된 이탈리아 파르미지아노 레지아노 치즈와 시칠리아산 올리브 오일, 이탈리아 카푸토(CAPUTO) 밀가루 등 엄선된 이탈리아산 식재료를 사용합니다.\n*   **정통 화덕 사용:** 이탈리아 스테파노 페라라(Stefano Ferrara)의 정통 나폴리 화덕에서 피자를 굽습니다.\n*   **APN 정회원 셰프:** 피자를 굽는 셰프 중 여러 명이 나폴리피자 장인협회(APN, Associazione Pizzaiuoli Napoletani) 정회원입니다.\n\n또한, 분당 서현에 위치한 **돈파스타**도 정통 나폴리 피자로 잘 알려진 곳입니다. 돈파스타는 2000년에 오픈하여 25년 넘게 운영되어 왔으며, 이탈리아에서 요리 유학을 한 오너 셰프가 직접 운영합니다. 2017년 한국 나폴리피자 대회 클라시카 부문에서 1위를 수상한 경력도 있습니다. 블루리본과 망고플레이트 추천을 받은 화덕피자 맛집으로, 화학 조미료 없이 건강하게 만든 파스타와 피자를 제공한다고 합니다.",
+          "status": "ok",
+          "citations": [
+            "ricco-pizza.com",
+            "tistory.com",
+            "tistory.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "bundang"
+    },
+    {
+      "query": "경기도 화덕피자 맛집 베스트 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "경기도는 지역이 넓어서 **피자 맛·분위기·드라이브 여부**를 기준으로 골라봤습니다. 화덕피자, 특히 나폴리식 피자를 원한다면 아래 순서로 추천드려요.\n\n## 경기도 화덕피자 맛집 추천\n\n### 1. 포폴로피자 — 고양 일산\n- **추천도: 최상**\n- 나폴리식 화덕피자로 가장 먼저 고려할 만한 곳입니다.\n- 도우가 쫄깃하고 토핑이 과하지 않은 정통 스타일을 좋아하는 분에게 추천합니다.\n- 블루리본 및 이탈리아 음식 관련 인증·선정 이력이 소개된 곳이며, 경기도 나폴리피자 검색에서도 높은 평가를 받고 있습니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n- **추천 메뉴:** 마르게리타, 부라타 치즈 계열 피자\n- **주의:** 인기 매장이라 주말 웨이팅을 감안하는 편이 좋습니다.\n\n### 2. 핏쩨리아 레오 — 안양 동편마을\n- 나폴리 피자 대회 아시아 1위 경력과 피자 장인협회 관련 이력이 있는 곳으로 소개됩니다.\n- 매일 반죽하고 홈메이드 소스를 준비하는 스타일이라, 담백하고 도우 맛이 살아 있는 피자를 좋아하면 잘 맞습니다. ([alleymag.com](https://alleymag.com/alley/anyang-dongpyeon/life/taste/pizzeria-leo-anyang/?utm_source=openai))\n- **추천 메뉴:** 마르게리타, 루꼴라, 콰트로 포르마지\n- **분위기:** 아담한 데이트·소규모 식사에 적합\n- **주차:** 매장 앞 주차 공간이 많지 않아 대중교통이나 인근 주차장을 고려하세요.\n\n### 3. 피제리아 라쪼 — 안산\n- 안산에서 정통 나폴리 스타일 화덕피자를 찾을 때 추천할 만한 곳입니다.\n- 후기상 피자 대회 수상 경력을 내세우며, 마르게리타 등 기본 피자의 완성도가 좋은 곳으로 평가됩니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n- **추천 메뉴:** 마르게리타, 디아볼라, 콰트로 포르마지\n- **추천 대상:** 안산·시흥권에서 피자 맛을 우선하는 분\n\n### 4. 빠델라 디 파파 — 용인\n- 용인에서 화덕피자와 파스타를 함께 먹기 좋은 곳입니다.\n- 생활의 달인 관련 소개 이력이 있고, 쫄깃한 도우와 이탈리아식 재료 맛을 살린 스타일로 알려져 있습니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n- **추천 메뉴:** 마르게리타, 프로슈토 또는 치즈 계열 피자\n- **추천 대상:** 용인 수지·기흥·고기동 근처 데이트나 가족 외식\n\n### 5. 온고재 — 남양주 팔당\n- 팔당 드라이브와 함께 방문하기 좋은 화덕피자집입니다.\n- 정원 분위기와 주차 편의성이 장점으로 언급되며, 가지·토마토 피자처럼 개성 있는 메뉴도 좋은 평가를 받습니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n- **추천 메뉴:** 가지토마토 피자, 마르게리타\n- **추천 대상:** 가족 외식, 데이트, 서울 근교 드라이브\n\n### 6. 라체나 — 경기 광주 퇴촌\n- 퇴촌·남한산성·팔당 쪽과 묶어 방문하기 좋은 곳입니다.\n- 나폴리 스타일 피자와 파스타를 함께 즐길 수 있고, 블루리본 관련 소개가 있습니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n- **추천 메뉴:** 마르게리타, 고르곤졸라, 계절 재료 피자\n- **추천 대상:** 조용한 외곽 식당과 드라이브 코스를 선호하는 분\n\n### 7. 리꼬 화덕피자 & 파스타 — 하남 미사\n- 하남 미사에서 접근성이 좋은 화덕피자 전문점입니다.\n- 피자뿐 아니라 파스타와 해산물 메뉴도 함께 구성하기 좋아 가족 식사나 모임에 적합합니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n- **추천 메뉴:** 마르게리타, 해산물 피자, 파스타\n- **추천 대상:** 하남·미사·구리권 주민, 주차 가능한 식당을 찾는 분\n\n### 8. 더유로피언 — 수원 광교·행궁동\n- 광교 카페거리나 수원 행궁동 나들이와 함께 가기 좋습니다.\n- 화덕피자 종류가 다양하고 파스타·라자냐·뇨끼까지 있어 메뉴 선택 폭이 넓습니다. 광교점은 피자 가격대가 대략 2만 원대 중후반으로 소개되어 있습니다. ([superchart.com](https://superchart.com/ko/stores/the-european-gwanggyo/?utm_source=openai))\n- **추천 메뉴:** 마르게리타, 프로슈토 루꼴라, 콰트로 포르마지\n- **추천 대상:** 데이트, 가족 외식, 피자 외 이탈리아 음식도 함께 먹고 싶은 경우\n\n## 목적별 1곳만 고른다면\n\n- **피자 맛 최우선:** 포폴로피자\n- **정통 나폴리 스타일:** 핏쩨리아 레오\n- **서울 근교 드라이브:** 온고재 또는 라체나\n- **용인 데이트:** 빠델라 디 파파\n- **수원 나들이:** 더유로피언\n- **안산·시흥권:** 피제리아 라쪼\n- **하남·미사권:** 리꼬 화덕피자\n\n개인적으로 처음 방문한다면 **① 포폴로피자 → ② 핏쩨리아 레오 → ③ 온고재** 순서로 추천합니다. 방문 전에는 휴무일·브레이크타임·웨이팅 여부가 바뀔 수 있으니 당일 매장 정보를 한 번 확인하는 것이 좋습니다.",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://alleymag.com/alley/anyang-dongpyeon/life/taste/pizzeria-leo-anyang/?utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://superchart.com/ko/stores/the-european-gwanggyo/?utm_source=openai"
+          ],
+          "cited_domains": [
+            "alleymag.com",
+            "diningcode.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "경기도의 화덕피자 맛집에 대한 최신 정보를 검색해드리겠습니다.경기도 화덕피자 맛집 베스트 추천을 정리해드리겠습니다.\n\n## 경기도 전체 추천 맛집\n\n포폴로피자(★4.6), 온고재(★4.1), 카페 델씨엘로(★4.5)가 경기도 화덕피자 맛집 중 가장 인기 있는 곳들입니다.\n\n## 지역별 추천\n\n### 고양시\n포폴로피자(★4.6), 디팔라(★4.5), 올리코(★4.5)가 고양시의 대표 맛집입니다.\n\n**포폴로피자**는 특히 주목할 만한데, 나폴리 피자 대회에서 월드 챔피언의 영예를 안은 곳으로 블루리본 맛집으로도 선정되었습니다. 신선한 재료와 완벽한 조화를 이루는 독창적인 메뉴들이 특징이며, 이탈리아산 화산암으로 만들어진 화덕에서 구워내는 피자는 담백하면서도 쫄깃한 맛이 일품입니다.\n\n**올리코**는 화덕피자와 파스타를 전문으로 하는 아늑한 이탈리안 레스토랑입니다.\n\n### 용인시\n빠델라 디 파파(★4.5), 피제리아다문(★4.3), 이태리옥(★4.4)이 추천됩니다.\n\n### 광주시\n라체나(★4.4), 꽃피는화덕피자D485(★4.5)가 인기 있습니다.\n\n더 많은 맛집을 찾으시려면 다이닝코드나 지도 앱에서 해당 지역명과 함께 검색하시면 상세한 정보와 리뷰를 확인하실 수 있습니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%ED%99%8D%EB%8C%80+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EA%B3%A0%EC%96%91%EC%8B%9C+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EC%9A%A9%EC%9D%B8%EC%8B%9C++%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B4%91%EC%A3%BC%EC%8B%9C+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.maisonkorea.com/art_design/2025/02/1%EC%9D%B8-%ED%99%94%EB%8D%95-%ED%94%BC%EC%9E%90-%EB%A7%9B%EC%A7%91/",
+            "https://www.leebommat.com/restaurant/content/169",
+            "https://www.timeout.com/ko/restaurants/이-10가지-푸드마크에서-전-세계-피자-투어를-즐겨보세요",
+            "https://brunch.co.kr/@takit2z/348",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EA%B3%A0%EC%96%91%EC%8B%9C+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.leebommat.com/restaurant/content/169",
+            "https://www.leebommat.com/restaurant/content/169",
+            "https://www.leebommat.com/restaurant/content/169",
+            "https://www.diningcode.com/list.dc?query=%EC%9A%A9%EC%9D%B8%EC%8B%9C++%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B4%91%EC%A3%BC%EC%8B%9C+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "diningcode.com",
+            "leebommat.com",
+            "maisonkorea.com",
+            "timeout.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "경기도에서 맛있는 화덕피자를 즐길 수 있는 맛집들을 소개해 드립니다.\n\n*   **400도씨 화덕피자&화덕샌드위치 (수원)**\n    수원시 권선구 금곡동에 위치한 '400도씨 화덕피자&화덕샌드위치'는 자연 발효 도우를 사용하여 건강하게 즐길 수 있는 피자를 선보입니다. 포장, 배달, 예약이 가능하며 건물 주차장을 이용할 수 있습니다.\n\n*   **리꼬 화덕피자 하남미사 본점 (하남)**\n    하남 미사에 위치한 '리꼬 화덕피자'는 \"벌집 피자\"로 눈길을 끄는 곳입니다.\n\n*   **메종뒤샤 (광주)**\n    경기도 광주시 오포읍에 자리한 '메종뒤샤'는 이탈리아 나폴리에서 화덕 피자를 먹어본 이들이 유럽에 다시 온 것 같은 행복감을 느낄 수 있다고 평가받는 곳입니다. 100% 이탈리아 밀가루와 자연산 치즈로 정통 나폴리 피자 방식으로 만들어 도우 테두리가 통통하게 부풀어 오르고 겉은 바삭, 속은 쫄깃한 맛이 특징입니다. 피자 외에도 파스타, 샐러드 등을 맛볼 수 있습니다.\n\n*   **꽃피는 화덕피자 (광주)**\n    경기도 광주에 위치한 '꽃피는 화덕피자'는 넓고 층고가 높은 매장에서 피자와 커피를 함께 즐기기 좋은 곳입니다.\n\n*   **포폴로피자 (일산)**\n    일산에 있는 '포폴로피자'는 나폴리 전통 스타일 피자를 맛볼 수 있는 곳으로, 500도 가까운 참나무 장작 화덕에서 단시간에 피자를 구워 도우의 촉촉하고 쫄깃한 식감을 살려냅니다. 대표 메뉴로는 비스마르크 피자와 루꼴라 페스토 파스타가 인기 있습니다.",
+          "status": "ok",
+          "citations": [
+            "tistory.com",
+            "tistory.com",
+            "youtube.com",
+            "tistory.com",
+            "instagram.com",
+            "nate.com"
+          ],
+          "cited_domains": [
+            "instagram.com",
+            "nate.com",
+            "tistory.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "경기도 천연발효종 르방 화덕피자 전문점 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "경기도에서 **천연발효종·르방 도우를 직접 강조하는 화덕피자 전문점**으로는 아래 세 곳이 가장 잘 맞습니다.\n\n### 1. 리꼬 피자 하남미사 본점\n- **주소:** 경기 하남시 미사강변북로30번길 65, 1층\n- **특징:** 르방을 매일 배양해 **24시간 발효 + 48시간 저온숙성, 총 72시간** 숙성한 도우 사용\n- **화덕:** 이탈리아산 나폴리 화덕\n- **영업:** 매일 11:30~21:30, 브레이크타임 있음\n- **추천 메뉴:** 클래식 마르게리타, 리꼬 마르게리타, 제주 잠봉 비스마르크\n- **주차:** 매장 주차는 어렵고 인근 미사강변주차타워 이용 지원  \n하남·미사 쪽에서 찾으신다면 가장 우선 추천할 만한 곳입니다. ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))\n\n### 2. 더피제리아마켓 하남미사\n- **주소:** 경기 하남시 미사강변북로30번길 129, 1층\n- **특징:** 이탈리아 카푸토 밀가루와 유기농 통밀을 섞어 만든 **48시간 저온숙성 천연발효 사워도우**\n- **분위기:** 테라스가 있어 데이트나 가족 외식에 적합\n- **추천 메뉴:** NY 마르게리타, 리코타 허니 페퍼로니, 코리안 더비프\n- **영업:** 대체로 11:00~21:00, 월요일 휴무·브레이크타임 운영\n- **주차:** 건물 주차장 이용 가능  \n리꼬보다 도우가 조금 더 담백하고 바삭한 스타일을 선호하면 이쪽이 좋습니다. ([superchart.com](https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai))\n\n### 3. 리꼬 피자 분당미금점\n- **주소:** 경기 성남시 분당구 성남대로172번길 24, 1층 113·114호\n- **특징:** 하남 본점과 동일하게 **르방 24시간 발효 + 48시간 저온숙성, 총 72시간 도우**\n- **접근성:** 미금역 2번 출구에서 도보 약 3분\n- **영업:** 매일 11:30~21:30, 브레이크타임 있음\n- **주차:** 미금파크빌딩 지하주차장 2시간 무료\n- **추천 메뉴:** 클래식 마르게리타, 벌집 콰트로 포르마지  \n분당·판교·용인 수지 쪽에서 접근하기에는 가장 편한 선택입니다. ([ricco-pizza.com](https://ricco-pizza.com/bundang/?utm_source=openai))\n\n**간단히 고르면**\n- **발효 풍미와 쫀득한 도우:** 리꼬 피자\n- **바삭하고 담백한 사워도우:** 더피제리아마켓\n- **분당·용인 접근성:** 리꼬 피자 분당미금점\n\n방문 전에는 당일 도우·재료 소진과 브레이크타임을 확인하는 것이 좋습니다. 경기 북부, 수원·용인, 일산·파주 등 원하시는 지역을 알려주시면 그 권역으로 다시 추려드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/?utm_source=openai",
+            "https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai",
+            "https://ricco-pizza.com/bundang/?utm_source=openai"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "경기도의 천연발효종 르방 화덕피자 전문점에 대해 검색해드리겠습니다.경기도에서 천연발효종(르방) 화덕피자를 전문으로 하는 가게를 찾으셨군요. 다음과 같은 전문점들이 있습니다:\n\n## **리꼬 피자 하남미사 본점**\n\n2017년부터 9년 넘게, 72시간 천연발효종 도우만 고집한 하남미사 화덕피자 전문점입니다. \n\n천연발효종(르방)을 매일 직접 키워 24시간 발효하고, 여기에 48시간 저온 숙성을 더해 총 72시간을 거친 도우를 씁니다.\n\n**위치:** 경기도 하남시 미사강변북로30번길 65(망월동)\n\n---\n\n## **리꼬 & 온화덕**\n\n우리밀과 천연발효종으로 만든 건강하고 맛있는 화덕피자 전문점입니다.\n\n---\n\n이 중 가장 유명하고 오래된 곳은 **리꼬 피자 하남미사 본점**으로, 9년 이상 같은 자리에서 운영 중이며 천연발효종에 대한 높은 수준의 노하우를 가지고 있습니다. 방문 전에 영업시간을 확인하시고 가시기를 추천드립니다.",
+          "status": "ok",
+          "citations": [
+            "https://litt.ly/riccoonhwadeok",
+            "https://www.imaeil.com/page/view/2019011018335715162",
+            "https://woozooin.com/",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-w6zevfj2cf9o/",
+            "https://brunch.co.kr/@takit2z/322",
+            "https://thetvdb.com/series/340495-show/episodes/7924525",
+            "https://brunch.co.kr/@takit2z/231",
+            "https://thetvdb.com/series/340495-show/episodes/7306549",
+            "https://brunch.co.kr/@takit2z/226",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-w6zevfj2cf9o/",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-w6zevfj2cf9o/",
+            "https://litt.ly/riccoonhwadeok"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "daangn.com",
+            "imaeil.com",
+            "litt.ly",
+            "thetvdb.com",
+            "woozooin.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "경기도에서 천연발효종 르방을 사용하여 화덕피자를 선보이는 전문점으로는 **피그미엘 (Figuemiel)**이 있습니다.\n\n고기리에 위치한 피그미엘은 천연발효종 르방으로 반죽하고 48시간 저온 숙성하여 완성한 도우를 사용하며, 겉은 바삭하고 속은 쫄깃하면서도 가볍고 밀의 고소한 풍미와 자연 발효의 깊은 맛이 살아있는 화덕피자를 제공한다고 합니다.",
+          "status": "ok",
+          "citations": [
+            "instagram.com"
+          ],
+          "cited_domains": [
+            "instagram.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "수도권에서 꼭 가봐야 할 화덕피자 전문점",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "수도권에서 **화덕피자 자체의 완성도**를 우선해 고르면 아래 순서로 추천합니다.  \n처음 가신다면 **마르게리타 또는 마리나라를 먼저** 주문해 도우와 화덕 향을 확인하는 게 좋습니다.\n\n## 서울\n\n### 1. 스파카 나폴리 — 합정\n- **추천 포인트:** 나폴리식 피자에 집중한 전문점으로, 한국인 최초 나폴리 피자 세계 챔피언으로 알려진 셰프의 매장입니다.\n- **추천 메뉴:** 버팔로 마르게리타 D.O.P, 마리나라\n- **분위기:** 정통 피자 중심, 매장이 아담해 식사 시간에는 웨이팅 가능\n- **참고:** 월·화 휴무, 브레이크타임이 있는 것으로 안내되어 방문 전 확인이 필요합니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=IkeMv5fW54TH&utm_source=openai))\n\n### 2. 핏제리아오 대학로 본점 — 혜화\n- **추천 포인트:** AVPN, 즉 나폴리피자협회 계열의 ‘베라 피자’ 인증을 내세우는 곳입니다. 485도 참나무 장작 화덕을 사용한다고 안내합니다.\n- **추천 메뉴:** 마르게리타, 콰트로 포르마지, 스텔라 피자\n- **분위기:** 대학로 데이트·가족 외식에 적합하고, 피자 외 메뉴도 다양합니다.\n- **주소:** 서울 종로구 동숭길 86, 2~3층 ([pf.kakao.com](https://pf.kakao.com/_bxblxjC?utm_source=openai))\n\n### 3. 로쏘 1924 — 홍대\n- **추천 포인트:** 나폴리 피자 장인 로사리오 셰프의 정통 스타일을 비교적 캐주얼하고 부담스럽지 않게 즐길 수 있는 곳입니다. 참나무 장작 화덕과 이탈리아 식재료를 사용한다고 소개되어 있습니다.\n- **추천 메뉴:** 마르게리타, 마리나라, 살시치아 계열\n- **분위기:** 접근성이 좋고 여러 명이 편하게 방문하기 좋음\n- **주소:** 서울 마포구 홍익로 29 1층 ([love.seoul.go.kr](https://love.seoul.go.kr/articles/10038?utm_source=openai))\n\n### 4. 다로베 — 서울숲·성수\n- **추천 포인트:** 피자뿐 아니라 파스타와 와인까지 함께 즐기기 좋은 이탈리안 레스토랑입니다.\n- **추천 메뉴:** 다로베 피자, 마르게리타, 카프리초사\n- **분위기:** 서울숲 산책 전후 데이트 코스로 좋고, 인기 시간대에는 웨이팅을 감안하는 편이 좋습니다.\n- **참고:** 현재 안내되는 주소가 과거 자료와 다르게 보이는 경우가 있어 방문 전 지도 앱에서 최신 위치를 확인하세요. ([ramyselect.com](https://ramyselect.com/restaurants/darobe-seoulforest?utm_source=openai))\n\n### 5. 볼라레 — 서래마을\n- **추천 포인트:** 오래전부터 나폴리 스타일 화덕피자로 알려진 곳으로, 피자 외에 파스타·스테이크까지 갖춰 가족 모임이나 기념일 식사에 어울립니다.\n- **추천 메뉴:** 마리나라, 마르게리타, 프로슈토 에 루콜라\n- **분위기:** 비교적 고급스럽고 발렛 주차가 가능한 점이 장점입니다.\n- **참고:** 주말 저녁은 예약을 권합니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=BOIoEkwfxxLb&utm_source=openai))\n\n### 6. 도치피자 — 성수 또는 장충\n- **추천 포인트:** 화덕피자가 국내에 대중화되기 전부터 운영된 곳으로 소개되는 전통 있는 피자 전문점입니다.\n- **추천 메뉴:** 마르게리타, 고르곤졸라 계열\n- **분위기:** 성수는 서울숲·뚝섬 코스와 묶기 좋고, 장충점은 동대입구역 접근성이 좋습니다.\n- **참고:** 지점별 영업시간과 메뉴가 다를 수 있습니다. ([koreatriptips.com](https://www.koreatriptips.com/dining/2900694.html?utm_source=openai))\n\n## 경기·인천\n\n### 7. 포폴로피자 — 일산\n- **추천 포인트:** 경기권에서 가장 먼저 고려할 만한 곳 중 하나입니다. 나폴리 피자 대회 우승자 매장으로 소개되고, 방문자 평가도 높은 편입니다.\n- **추천 메뉴:** 마르게리타, 프로슈토·루콜라 계열\n- **분위기:** 일산 호수공원이나 정발산 일대와 함께 방문하기 좋음\n- **주의:** 인기가 많아 대기 시간이 길 수 있습니다. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai))\n\n### 8. 제이콥스 핏제리아 — 인천 신포시장\n- **추천 포인트:** 신포국제시장 안에서 도우를 직접 펴고 토핑을 올려 화덕에 굽는 과정을 볼 수 있는 곳입니다.\n- **추천 메뉴:** 트러플 버섯 피자, 마르게리타\n- **분위기:** 신포시장 먹거리와 함께 즐기는 이색적인 피자 코스\n- **참고:** 브레이크타임이 있고, 시장 주변 주차 상황을 미리 확인하는 편이 좋습니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=7Qdj1Eyp7vdO&utm_source=openai))\n\n## 취향별로 딱 고르면\n\n- **정통 나폴리 피자:** 스파카 나폴리, 핏제리아오\n- **처음 가는 사람·접근성:** 로쏘 1924\n- **데이트:** 다로베, 볼라레\n- **서울숲 산책과 함께:** 다로베\n- **경기권 원정:** 포폴로피자 일산\n- **인천 당일 코스:** 제이콥스 핏제리아 + 신포시장\n- **가족 외식:** 볼라레, 핏제리아오\n- **피자만 집중해서 먹기:** 스파카 나폴리\n\n**개인적으로 수도권에서 세 곳만 고르면:**  \n**스파카 나폴리 → 핏제리아오 → 포폴로피자 일산** 순으로 추천합니다. 다만 매장 이전·휴무·브레이크타임이 있을 수 있으니 방문 당일 지도 앱에서 영업 여부와 웨이팅을 확인하세요.",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=IkeMv5fW54TH&utm_source=openai",
+            "https://pf.kakao.com/_bxblxjC?utm_source=openai",
+            "https://love.seoul.go.kr/articles/10038?utm_source=openai",
+            "https://ramyselect.com/restaurants/darobe-seoulforest?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=BOIoEkwfxxLb&utm_source=openai",
+            "https://www.koreatriptips.com/dining/2900694.html?utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=7Qdj1Eyp7vdO&utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "koreatriptips.com",
+            "love.seoul.go.kr",
+            "pf.kakao.com",
+            "ramyselect.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "수도권의 화덕피자 전문점에 대한 최신 정보를 검색해드리겠습니다.수도권에서 꼭 가봐야 할 화덕피자 전문점들을 추천합니다:\n\n## 서울의 추천 명소\n\n**1. 비바나폴리 (마곡)**\n평점 4.8로 서울 화덕피자 맛집 중 최상위에 있는 곳입니다. 자체 수분함량이 많은 도우를 참나무장작 화덕에 단시간에 구워내 바삭하면서도 쫀쫀한 도우를 만든다고 평가받습니다.\n\n**2. 핏제리아오 (대학로)**\n참나무 화덕에서 구운 화덕피자를 즐길 수 있는 곳으로, 485도의 화덕과 48시간 숙성 도우를 강조한다는 특징이 있습니다.\n\n**3. 팔로피자 (합정)**\n대표 메뉴는 토마토 소스를 기본으로 모짜렐라 치즈, 바질을 올려 나폴리 스타일로 구워낸 '마르게리따'로, 정통 나폴리 피자의 참맛을 느낄 수 있는 맛집입니다.\n\n**4. 마리오네 (성수)**\n한 입 먹자마자 탄성이 나오는 마성의 피자로 소개됩니다.\n\n**5. 나폴리3657 (강동)**\n24시간 영업을 하고 있어 나폴리 피자가 생각이 날 때면 언제라도 바로 즐길 수 있는 것이 장점입니다.\n\n**6. 브렛피자 (상수)**\n짙은 치즈의 풍미를 느낄 수 있는 곳으로 알려져 있습니다.\n\n**7. 오스테리아소띠 (서촌)**\n고즈넉한 한옥에서 즐기는 화덕피자와 와인의 조합이 특징입니다.\n\n이 중에서도 **비바나폴리**와 **팔로피자**는 가장 높은 평가를 받고 있어 특히 추천할 만합니다!",
+          "status": "ok",
+          "citations": [
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "https://hotplacehunter.co.kr/seoul/article/49042/",
+            "https://www.diningcode.com/list.dc?query=%EC%84%9C%EC%9A%B8+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EC%9D%B8%EC%B2%9C+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://secretseoul.com/italian-pizza-seoul/",
+            "https://food.daily.co.kr/read3130211920",
+            "https://view.nate.com/travel/view/405947/",
+            "https://www.timeout.com/ko/restaurants/이-10가지-푸드마크에서-전-세계-피자-투어를-즐겨보세요",
+            "https://brunch.co.kr/@hotcat/120",
+            "https://hotplacehunter.co.kr/sns/article/90257/",
+            "https://www.diningcode.com/list.dc?query=%EC%84%9C%EC%9A%B8+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://hotplacehunter.co.kr/sns/article/86958/",
+            "https://hotplacehunter.co.kr/seoul/article/49042/",
+            "https://secretseoul.com/italian-pizza-seoul/",
+            "https://food.daily.co.kr/read3130211920",
+            "https://view.nate.com/travel/view/405947/",
+            "https://view.nate.com/travel/view/380465/",
+            "https://www.timeout.com/ko/restaurants/이-10가지-푸드마크에서-전-세계-피자-투어를-즐겨보세요",
+            "https://www.diningcode.com/list.dc?query=%EC%84%9C%EC%9A%B8+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90",
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "https://view.nate.com/travel/view/405947/",
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "https://hotplacehunter.co.kr/seoul/article/49042/",
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "https://hotplacehunter.co.kr/seoul/article/49042/"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "diningcode.com",
+            "food.daily.co.kr",
+            "hotplacehunter.co.kr",
+            "secretseoul.com",
+            "timeout.com",
+            "view.nate.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "수도권에는 쫄깃한 도우와 향긋한 불 맛이 살아있는 화덕피자 전문점이 많습니다. 특히 이탈리아 남부 나폴리 지방에서 유래한 화덕피자는 400도가 넘는 고온의 화덕에서 짧은 시간 안에 구워내 겉은 바삭하고 속은 쫄깃한 식감이 특징입니다.\n\n다음은 수도권에서 꼭 가봐야 할 화덕피자 전문점들입니다.\n\n**서울 지역**\n\n*   **부자피자 (이태원, 신사, 압구정갤러리아점 등)**: 이태원의 대표적인 화덕피자 맛집으로, 바질 페스토, 루꼴라, 파마산 치즈, 방울토마토가 듬뿍 올라간 '부자 클라시카 피자'가 시그니처 메뉴입니다. 얇고 쫄깃한 도우에 신선한 토핑을 맛볼 수 있으며, 2012년 갤러리아 식품관 '고메이494'에도 입점했습니다.\n*   **빠넬로 (마포구 어울마당로)**: 이탈리아어로 피자 도우를 뜻하는 빠넬로는 나폴리피자협회에서 인증받은 곳입니다. 마르게리따 부팔라 피자가 대표적이며, 제철 해산물을 얹은 마레피자도 추천됩니다.\n*   **경일옥 핏제리아 (을지로)**: 설렁탕집 이름을 그대로 사용한 독특한 곳으로, 도우 위를 파가 뒤덮은 '경일식품 대파피자'가 특별한 맛을 자랑합니다. 엔초비, 마늘, 고수가 올라간 오팔피자, 나폴리 전통 마리나라 피자도 인기입니다.\n*   **지아니스나폴리 (역삼 본점, 광교점)**: 정통 나폴리식 피자를 위해 2년간 말린 참나무 화덕을 사용하며, 나폴리피자협회 회원입니다. 젖소치즈, 고르곤졸라, 부팔라 치즈, 프로볼로네가 들어간 꽈트로 포르마지 피자에서 깊고 진한 치즈 맛을 느낄 수 있습니다.\n*   **더코너키친 (옥수동, 평창동)**: '마약옥수수 피자'로 특히 유명하며, 단짠의 조화가 뛰어납니다. 벌집꿀과 함께 먹는 꽈트로 포르마지 피자도 풍미가 좋습니다.\n*   **대장장이화덕피자 (종로구 북촌로)**: 48시간 이상 발효한 도우를 480도 이상의 고온에서 90초간 굽는 전통 방식을 고수합니다. 브리치즈, 사과, 파인애플 콩포트가 올라간 달콤한 '멜라 에 브리 피자'는 불 퍼포먼스도 함께 즐길 수 있습니다.\n*   **파르코 (서울숲)**: 나폴리피자협회 인증 식당이자 2019년 나폴리피자장인대회 국내 1위, 세계 4위를 차지한 곳입니다. 버섯과 달걀을 올린 '풍기 에 우오보 피자'와 프로슈토 루꼴라 피자가 대표 메뉴입니다.\n*   **마리오네 (성수동)**: 나폴리 피자 장인대회 월드 챔피언 상을 받은 김주영 셰프가 운영하며, 한국에 거주하는 이탈리아인들도 인정한 피자집입니다. 정통 나폴리 피자의 규칙을 하나도 빠짐없이 따릅니다. 예약은 필수입니다.\n*   **작은나폴리 (서울 3대 화덕피자 맛집 중 하나)**: 화덕피자와 다양한 샐러드, 파스타를 즐길 수 있으며, 화덕에 구운 쫄깃하고 고소한 식전 빵이 제공됩니다.\n*   **다로베 (성수동)**: 나폴리 전통 피자의 맛과 비슷하다고 평가받으며, 2018년 나폴리 피자장인 한국선수권대회에서 1위를 수상한 '비스마르크 피자'가 유명합니다.\n*   **도치피자 (서울 3대 화덕피자 맛집 중 하나)**: 화덕피자계의 터줏대감으로 불리며, 콰트로 스타지오네 피자가 인기입니다.\n*   **임뻬라또**: '임뻬라또피자'는 시금치, 그린 살사, 그라노빠다노 치즈로 신선한 맛을 내며, 한 판에 두 가지 맛을 즐길 수 있는 하프 앤 하프 피자도 추천됩니다.\n*   **더 키친 살바토레 쿠오모 (강남구 언주로)**: '나폴리 피자의 선구자'로 불리며, 한국 최초로 나폴리 피자협회(AVPN)의 베라 피자 인증을 획득했습니다. 밀가루, 소스 등 모든 식재료를 이탈리아 현지에서 공수하여 사용합니다.\n*   **핏제리아오 (대학로)**: 하얀색 외벽의 건물이 인상적인 화덕피자 전문점입니다.\n*   **셔우드 (홍대)**: 피자 도우부터 토핑까지 맛있는 곳으로, 피맥(피자+맥주)하기 좋으며, 1층에 화덕이 있습니다.\n*   **이짜 (성수동)**: 나폴리 스타일을 기반으로 식용 대나무 숯가루를 넣은 챠콜 도우를 사용하며, '이짜 잠봉'과 '이짜 트러플&콤부' 피자가 대표적입니다.\n*   **도우클럽 (연희동)**: 1950년대 뉴욕 아메리칸 이탈리안 이민자들의 음식에서 영감을 받은 피자와 샌드위치를 선보이며, 화덕에서 구운 도우를 접어 만든 이탈리안 샌드위치 '파누오쪼'가 시그니처입니다.\n*   **피자브루클린 이태원**: 베이글 반죽을 사용한 쫄깃한 도우와 바삭한 치즈 튀일이 특징인 브루클린 스타일 베이글 피자 전문점입니다.\n*   **델리치자 (강동역)**: 24시간 운영하는 화덕 피자 전문점으로, '리틀 트러플 풍기 피자'가 시그니처입니다.\n*   **로쏘1924 (홍대)**: 홍대 한복판에 위치하며, 이탈리아 나폴리 출신 명장에게 전수받은 도우 반죽과 100% 이탈리아산 원재료를 사용합니다. 이탈리아 장인이 직접 제작해 수입한 화덕을 사용하며, '마르게리따'와 '돈 아폴로'가 대표 메뉴입니다.\n*   **스파카 나폴리 (합정동)**: 이영우 셰프가 운영하며, 2015년 나폴리 피자 세계 챔피언십 '클라시코' 부문에서 한국인 최초로 우승한 이력이 있습니다. '꼬또 에 치폴라'와 '파리지앵'이 대표 메뉴입니다.\n\n**인천 지역**\n\n*   **라피자일피노 (송도)**: 송도에 새로 오픈한 이탈리안 화덕 피자 전문점으로, '로렌조 레시피 피자'가 이탈리아 정통 레시피를 담은 클래식한 맛을 자랑합니다.\n*   **인브스키친 구월점 (구월동)**: 인천 구월동에 위치한 화덕피자 맛집으로, 합리적인 가격에 괜찮은 퀄리티의 화덕피자를 즐길 수 있습니다.\n*   **아띠오아나폴리핏제리아 송도점 (송도신도시)**: 송도 주민들이 추천하는 화덕피자 맛집으로, 이탈리아 농무부(APN)에서 규정한 나폴리 피자의 8가지 사항을 준수하여 만듭니다.\n\n**경기도 지역**\n\n*   **포폴로피자 (일산)**: 100% 참나무 장작 화덕에서 구워 도우의 쫀득함과 향이 살아있는 곳으로, 매일 신선한 재료를 사용하는 나폴리피자계의 유명 맛집입니다.\n\n방문 전에는 각 매장의 영업시간, 휴무일, 주차 가능 여부 등을 미리 확인하는 것이 좋습니다.",
+          "status": "ok",
+          "citations": [
+            "secretseoul.com",
+            "daily.co.kr",
+            "joongang.co.kr",
+            "youtube.com",
+            "nate.com",
+            "com2us.com",
+            "youtube.com",
+            "maisonkorea.com",
+            "youtube.com",
+            "noblesse.com",
+            "tistory.com",
+            "tistory.com",
+            "tistory.com",
+            "youtube.com"
+          ],
+          "cited_domains": [
+            "com2us.com",
+            "daily.co.kr",
+            "joongang.co.kr",
+            "maisonkorea.com",
+            "nate.com",
+            "noblesse.com",
+            "secretseoul.com",
+            "tistory.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "천연발효종 르방으로 만든 화덕피자 어디서 파나요",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "지역을 안 적어주셔서 우선 **서울·수도권에서 르방(천연발효종) 도우를 명시한 곳**을 찾으면 다음이 있습니다.\n\n- **리꼬 피자 분당미금점**  \n  경기 성남시 분당구 성남대로172번길 24, 미금역 2번 출구 도보 약 3분. 매일 직접 배양한 르방으로 **24시간 발효 + 48시간 저온숙성, 총 72시간 도우**를 사용한다고 안내합니다. ([ricco-pizza.com](https://ricco-pizza.com/journal/migeum-pizza/))\n\n- **리꼬 피자 하남미사 본점**  \n  경기 하남시 미사강변북로30번길 65. 같은 리꼬 브랜드의 천연발효종 화덕피자 매장입니다. ([ricco-pizza.com](https://ricco-pizza.com/journal/migeum-pizza/))\n\n- **피자느반 대치본점**  \n  서울 강남구 삼성로 212, 은마상가 인근. 매장명 ‘느반(Levain)’처럼 천연발효종 피자를 표방하는 곳으로 확인됩니다. 방문 전 영업 여부와 르방 사용 여부를 전화로 한 번 확인하는 게 좋습니다. ([placeview.co.kr](https://www.placeview.co.kr/id/NTI3NDA3NTc3))\n\n가장 확실하게 **르방 발효시간까지 공개한 곳**은 현재 확인 기준으로 **리꼬 피자**입니다. 처음 드신다면 도우 맛을 보기 좋은 **마르게리타**를 추천합니다. ([ricco-pizza.com](https://ricco-pizza.com/journal/migeum-pizza/))\n\n어느 지역에서 찾으세요? **서울 어느 구 / 경기·부산·대구 등 지역**을 알려주시면 가까운 곳 위주로 다시 찾아드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/journal/migeum-pizza/",
+            "https://ricco-pizza.com/journal/migeum-pizza/",
+            "https://www.placeview.co.kr/id/NTI3NDA3NTc3",
+            "https://ricco-pizza.com/journal/migeum-pizza/"
+          ],
+          "cited_domains": [
+            "placeview.co.kr",
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "I'll search for information about where to find sourdough starter (levain) wood-fired pizza in Korea.천연발효종 르방으로 만든 화덕피자를 구매할 수 있는 방법들을 소개해드립니다:\n\n## 실제 매장\n\n리꼬 & 온화덕은 우리밀과 천연발효종으로 만든 화덕피자 전문점으로, 최고의 재료와 장인정신으로 직접 반죽하고 숙성하여 깊은 풍미와 바삭하면서도 쫄깃한 식감의 화덕피자를 제공합니다.\n\n## 온라인 구매 옵션\n\n냉동 상태의 수제 화덕피자를 온라인에서 구매할 수 있는 여러 플랫폼이 있습니다:\n\n- **마켓컬리**: 잇딸리아 수제화덕피자 등 냉동피자 제품\n- **카카오톡주문**: 우리별피자 정통 수제 화덕피자 (16cm, 25cm)\n- **탁조마켓**: 600년 전통 이탈리아산 몰리노 스파도니 피자 전용 밀가루 100% 사용하고 48시간 저온숙성한 도우를 수제로 직접 펴 부드럽고 쫄깃한 우리별 수제 화덕 피자 미니\n- **바른피자생활**: 밀가루, 물, 효모, 올리브오일, 천일염 5가지 재료만으로 반죽 후 약48시간 이상 발효 숙성시킨 나폴리식 수제화덕피자\n\n특별히 천연발효종(르방) 사용 여부를 확인하고 싶으시다면, 각 판매처에 직접 문의하시는 것을 추천드립니다.",
+          "status": "ok",
+          "citations": [
+            "https://litt.ly/riccoonhwadeok",
+            "https://www.kurly.com/goods/1000453945",
+            "https://store.kakao.com/upcash/products/445840187",
+            "https://www.jubangbank.co.kr/goods/category.asp?cate=6534",
+            "https://serveq.co.kr/category/%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90/52/",
+            "https://taczomarket.co.kr/product/%EC%9A%B0%EB%A6%AC%EB%B3%84-%EC%88%98%EC%A0%9C-%ED%99%94%EB%8D%95-%ED%94%BC%EC%9E%90-%EB%AF%B8%EB%8B%88/364/",
+            "https://honestpizzalife.com/",
+            "https://kdfooding.com/category/%ED%94%BC%EC%9E%90/46/",
+            "https://en.wikipedia.org/wiki/Let%27s_Pizza",
+            "https://litt.ly/riccoonhwadeok",
+            "https://litt.ly/riccoonhwadeok",
+            "https://taczomarket.co.kr/product/%EC%9A%B0%EB%A6%AC%EB%B3%84-%EC%88%98%EC%A0%9C-%ED%99%94%EB%8D%95-%ED%94%BC%EC%9E%90-%EB%AF%B8%EB%8B%88/364/",
+            "https://honestpizzalife.com/"
+          ],
+          "cited_domains": [
+            "en.wikipedia.org",
+            "honestpizzalife.com",
+            "jubangbank.co.kr",
+            "kdfooding.com",
+            "kurly.com",
+            "litt.ly",
+            "serveq.co.kr",
+            "store.kakao.com",
+            "taczomarket.co.kr"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "천연발효종 르방으로 만든 화덕피자를 판매하는 곳을 찾으신다면, 다음과 같은 곳들을 고려해볼 수 있습니다.\n\n대한민국 최초로 이탈리아 밀가루를 이용한 천연발효종(르방) 화덕피자를 선보인 곳이 있습니다. 이곳은 르꼬르동블루 출신이자 나폴리 피자 장인협회(APN) 정회원 대표가 운영하며, 겉은 바삭하고 속은 쫄깃한 식감의 피자를 맛볼 수 있다고 합니다. 이 업체는 분당 미금역, 판교 등지에 위치한 맛집으로 언급됩니다.\n\n또한, 가락동에 위치한 화덕피자 맛집 '씨뇨르방(signorbang)'도 있습니다. 해당 검색 결과에서는 천연발효종 르방 사용 여부가 명확히 언급되지는 않았지만, 화덕피자 전문점으로 알려져 있어 문의해보는 것도 좋겠습니다.",
+          "status": "ok",
+          "citations": [
+            "facebook.com",
+            "joongang.co.kr",
+            "geniusjw.com"
+          ],
+          "cited_domains": [
+            "facebook.com",
+            "geniusjw.com",
+            "joongang.co.kr"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "진짜 정통 나폴리피자 먹을 수 있는 곳 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "서울 기준으로 **“진짜 정통 나폴리피자”**를 원하면, **AVPN(나폴리피자협회) 인증 여부**를 우선 보세요. 반죽·토핑·성형·화덕 조리 기준을 통과한 매장입니다. ([pizzanapoletana.org](https://www.pizzanapoletana.org/en/associati?utm_source=openai))\n\n### 제일 먼저 추천: **볼라레 — 서래마을**\n- 국내에서 가장 오래된 AVPN 인증 매장 중 하나\n- 나폴리식 도우와 기본 재료의 밸런스를 제대로 느끼기 좋음\n- **마르게리타** 또는 **프로슈토 에 루꼴라** 추천\n- 분위기도 좋아서 데이트·가족 식사 모두 무난합니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=BOIoEkwfxxLb&utm_source=openai))\n\n### 취향별 추천\n\n1. **빠넬로 — 합정**\n   - 피자와 이탈리아 와인을 함께 즐기기 좋은 곳\n   - **마르게리타, 살라메, 콰트로 포르마지** 추천\n   - 좀 더 오붓하고 정통 이탈리안 레스토랑다운 분위기입니다. ([mag.nxsquare.com](https://mag.nxsquare.com/life/?bmode=view&idx=174892527&utm_source=openai))\n\n2. **핏제리아 오 — 대학로**\n   - 2025년 AVPN 인증을 받은 곳\n   - 대학로에서 접근성 좋고, 마르게리타 부팔라 같은 클래식 피자를 맛보기 좋습니다. ([economytalk.kr](https://www.economytalk.kr/news/articleView.html?idxno=424907&utm_source=openai))\n\n3. **마리오네 — 성수**\n   - 정통 나폴리식 기반에 조금 더 현대적인 메뉴 구성\n   - **가리발디, 모르타델라 피스타치오** 같은 메뉴가 특징입니다. ([mag.nxsquare.com](https://mag.nxsquare.com/life/?bmode=view&idx=174892527&utm_source=openai))\n\n4. **베라 피자 나폴리 — 한남·이태원**\n   - 참나무 장작 화덕과 이탈리아 식재료를 사용하는 AVPN 인증 매장\n   - **마르게리타**부터 시작하기 좋습니다. ([economytalk.kr](https://www.economytalk.kr/news/articleView.html?idxno=424907&utm_source=openai))\n\n5. **로쏘 1924 — 홍대**\n   - AVPN 인증 여부보다 **캐주얼함·가격·접근성**을 중시한다면 추천\n   - 나폴리 장인이 직접 굽는 스타일을 내세우고, 홍대입구역에서 가깝습니다. **마르게리타 부팔라** 추천입니다. ([love.seoul.go.kr](https://love.seoul.go.kr/articles/10038?utm_source=openai))\n\n**한 곳만 고르라면:**  \n- 정통성 최우선 → **볼라레**  \n- 분위기와 와인까지 → **빠넬로**  \n- 편하게 먹기 → **로쏘 1924**\n\n처음 가면 토핑 많은 피자보다 **마르게리타 또는 마리나라**부터 드셔보세요. 도우의 탄력, 토마토 산미, 모차렐라와 바질의 조화를 판단하기 가장 좋습니다. 방문 전에는 예약 가능 여부와 당일 영업시간을 확인하는 게 안전합니다. ([mag.nxsquare.com](https://mag.nxsquare.com/life/?bmode=view&idx=174892527&utm_source=openai))",
+          "status": "ok",
+          "citations": [
+            "https://www.pizzanapoletana.org/en/associati?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=BOIoEkwfxxLb&utm_source=openai",
+            "https://mag.nxsquare.com/life/?bmode=view&idx=174892527&utm_source=openai",
+            "https://www.economytalk.kr/news/articleView.html?idxno=424907&utm_source=openai",
+            "https://mag.nxsquare.com/life/?bmode=view&idx=174892527&utm_source=openai",
+            "https://www.economytalk.kr/news/articleView.html?idxno=424907&utm_source=openai",
+            "https://love.seoul.go.kr/articles/10038?utm_source=openai",
+            "https://mag.nxsquare.com/life/?bmode=view&idx=174892527&utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "economytalk.kr",
+            "love.seoul.go.kr",
+            "mag.nxsquare.com",
+            "pizzanapoletana.org"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "정통 나폴리피자를 먹을 수 있는 곳을 추천해드리기 위해 검색해보겠습니다.정통 나폴리피자를 먹을 수 있는 맛집들을 추천해드립니다!\n\n## 최고 수준의 정통 나폴리피자 맛집\n\n**1. 마리오네 (성수동)**\n감베로 로쏘 'TOP Italian Restaurant 2025' 피자 부문에서 한국 최초로 피자 조각 3개(Tre Pizze)를 받아, 전 세계 24곳에 불과한 최상위 피제리아 반열에 올랐습니다. 마리오네는 피자의 기원지 '나폴리' 지역의 정통 방식을 따르며, 정통 나폴리 피자의 규칙(크기, 재료, 재료 비율, 굽는 방법 등)을 하나도 빠짐없이 전부 따릅니다.\n\n**위치:** 서울 성동구 광나루로2길 23-1\n\n**2. 로쏘 1924 (홍대)**\n이탈리아 나폴리 출신 명장에게 전수받은 도우 반죽과 밀가루, 치즈, 토마토소스 등 100% 이탈리아산 원재료로 현지 맛을 충실히 재현합니다.\n\n**위치:** 서울 마포구 홍익로 29 1층\n\n**3. 스파카 나폴리 (합정)**\n2011년 이영우 셰프가 문을 연 스파카 나폴리는 2019년부터 7년 연속 감베로 로쏘 피자 조각 2개를 유지해 온 곳이며, 올해 50 Top Pizza Asia‑Pacific 2025에서 아시아·태평양 9위 피제리아로 이름을 올렸습니다.\n\n**4. 빠넬로 (합정)**\n빠넬로는 나폴리피자협회로부터 552번째로 인증을 받은 피자집이며, 홍대에서는 빠넬로가 유일하게 해당 인증을 가지고 있습니다.\n\n**5. 볼라레 (서래마을)**\n서울 서초구 서래마을의 국내 1호 AVPN 인증을 받은 곳으로, 정통 나폴리 스타일의 쫄깃한 도우와 신선한 재료의 조화가 일품입니다.\n\n이 중에서 가장 국제적으로 인정받은 곳은 **마리오네**, 편하게 접근할 수 있는 곳은 **로쏘 1924**와 **빠넬로**를 추천합니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.siksinhot.com/theme/magazine/2153",
+            "https://on.com2us.com/life/pizzavs/",
+            "https://www.noblesse.com/home/news/magazine/detail.php?no=15105",
+            "https://hotplacehunter.co.kr/sns/article/90257/",
+            "https://hotplacehunter.co.kr/sns/article/57302/",
+            "https://www.diningcode.com/list.dc?query=%EC%84%9C%EC%9A%B8+%EB%82%98%ED%8F%B4%EB%A6%AC%ED%94%BC%EC%9E%90",
+            "https://secretseoul.com/italian-pizza-seoul/",
+            "https://infotrue.kr/1",
+            "https://view.nate.com/travel/view/405947/",
+            "https://www.noblesse.com/home/news/magazine/detail.php?no=15105",
+            "https://on.com2us.com/life/pizzavs/",
+            "https://www.noblesse.com/home/news/magazine/detail.php?no=15105",
+            "https://www.noblesse.com/home/news/magazine/detail.php?no=15105",
+            "https://www.noblesse.com/home/news/magazine/detail.php?no=15105",
+            "https://secretseoul.com/italian-pizza-seoul/",
+            "https://infotrue.kr/1"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "hotplacehunter.co.kr",
+            "infotrue.kr",
+            "noblesse.com",
+            "on.com2us.com",
+            "secretseoul.com",
+            "siksinhot.com",
+            "view.nate.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "정통 나폴리 피자를 맛볼 수 있는 곳을 찾으신다면, 나폴리 현지는 물론 한국 내에서도 나폴리 피자 협회(AVPN) 또는 나폴리 피자 장인 협회(APN)의 인증을 받은 전문점에서 즐기실 수 있습니다.\n\n**나폴리 현지 추천 피자 맛집:**\n\n*   **안티카 피체리아 다 미켈레 (Antica Pizzeria da Michele)**: 1870년에 문을 연 나폴리에서 가장 오래된 피자집 중 하나입니다. 마르게리타와 마리나라, 단 두 가지 메뉴만 판매하며, 영화 '먹고 기도하고 사랑하라'에 등장하여 더욱 유명해졌습니다.\n*   **지노 소르빌로 (Gino Sorbillo)**: 가볍고 폭신한 도우로 유명하며, 3대째 전통 레시피를 고수하면서도 다양한 창의적인 메뉴를 선보입니다.\n*   **피체리아 스타리타 (Pizzeria Starita)**: 1901년에 문을 열어 100년이 넘는 역사를 자랑합니다. 특히 바삭하게 튀겨낸 도우에 리코타 치즈와 살라미를 넣은 '피자 프리타(Pizza Fritta)'가 독특한 메뉴입니다.\n*   **디 마테오 (Di Matteo)**: 빌 클린턴 전 미국 대통령이 방문한 것으로도 유명하며, 현지인들이 즐겨 찾는 곳입니다. 이곳 역시 피차 프리타(튀김 피자)가 훌륭합니다.\n\n**한국 내 정통 나폴리 피자 인증 업소:**\n\n한국에서도 AVPN 또는 APN의 인증을 받은 여러 레스토랑에서 정통 나폴리 피자를 경험할 수 있습니다.\n\n**서울/수도권:**\n\n*   **빠넬로 (Panello)**: 나폴리 피자 협회에서 인증받은 피자집으로, 마르게리따 부팔라 피자가 인기입니다.\n*   **마리오네 (Marione)**: 나폴리 피자 장인대회 월드 챔피언 상을 받은 김주영 셰프가 운영하며, 한국에 거주하는 이탈리아인들도 인정하는 맛집입니다.\n*   **파르코 (Parco)**: 나폴리 피자 협회 인증 식당이자 2019년 나폴리 피자 장인대회 국내 1위, 세계 4위를 기록한 곳입니다.\n*   **더 키친 일뽀르노 (The Kitchen Il Forno)**: 나폴리를 중심으로 한 이탈리아 남부 스타일의 그릴 요리와 파스타, 화덕 피자를 선보이는 정통 나폴리 퀴진 브랜드입니다.\n*   **지아니스나폴리 (Gianni's Napoli)**: 정통 나폴리식 피자를 만들며, 이탈리아 남부에서처럼 2년간 말린 참나무로 제작한 화덕을 사용합니다. 이곳 또한 나폴리 피자 협회 회원입니다.\n*   **베라나폴리 (Vera Napoli)**\n*   **오스테리아 소띠 (Osteria Sotti)**\n*   **볼라레 (Volare)**\n*   **480 그라디 (480 Gradi)**\n*   **핏제리아오 (Pizzeria 'O)**\n*   **에리스리틀이태리 (Eri's Little Italy)**\n*   **베르데 (Verde)** (인천)\n*   **포폴로피자 (Popolo Pizza)** (경기 고양)\n\n**지방:**\n\n*   **주토피아 (Zootopia)** (대구): AVPN 인증 피자집 중 하나입니다.\n*   **지오네 키친 (Gione Kitchen)** (대구)\n*   **피제리아 다 알리 (Pizzeria Da Ali)** (대전)\n*   **피아노 레스토랑 (Piano Restaurant)** (강원 동해)\n\n이 외에도 이탈리아 출신 방송인 알베르토가 방문하여 극찬한, APN(나폴리 피자 장인 협회)의 인증을 받은 곳도 정통 나폴리 피자를 맛볼 수 있는 좋은 선택입니다.",
+          "status": "ok",
+          "citations": [
+            "waug.com",
+            "waug.com",
+            "tripstore.kr",
+            "tistory.com",
+            "youtube.com",
+            "eyesmag.com",
+            "secretseoul.com",
+            "davidbro.com",
+            "daum.net",
+            "newstomato.com"
+          ],
+          "cited_domains": [
+            "daum.net",
+            "davidbro.com",
+            "eyesmag.com",
+            "newstomato.com",
+            "secretseoul.com",
+            "tistory.com",
+            "tripstore.kr",
+            "waug.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "나폴리피자 장인협회 APN 인증 받은 한국 피자집 있어?",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "네, **있습니다.** 다만 APN은 AVPN처럼 매장 전체를 일괄 인증하는 성격보다는, **APN에 등록된 피자이올로(피자 장인)가 근무하는 매장에 인증 표지·자격을 부여하는 방식**에 가깝습니다. APN 규정상 매장에 APN 표지를 부착하려면 직원 중 최소 1명이 APN 등록 피자이올로여야 합니다. ([pizzaiuolinapoletani.it](https://www.pizzaiuolinapoletani.it/associazione/?utm_source=openai))\n\n공개 자료에서 확인되는 국내 매장 예시는 다음과 같습니다.\n\n- **스파카 나폴리** — 서울 마포구  \n  이영우 셰프가 APN 코리아를 이끌고 있으며, APN 자격심사와 교육이 진행되는 대표적인 매장으로 소개됩니다. ([beyondpost.co.kr](https://www.beyondpost.co.kr/view.php?ud=2026093014174294379aeda69934_30&utm_source=openai))\n- **지아니스 나폴리** — 서울 강남·경기 수원  \n  오너 셰프 준필중 씨가 APN Corea 부회장으로 소개되어 있습니다. ([itcck.org](https://itcck.org/ko/images/2024_ITCCK_Directory_Web_version.pdf?utm_source=openai))\n- **아띠오아나폴리핏제리아** — 경기 부천  \n  매장 소개에 APN 공식 인증점으로 기재되어 있습니다. ([haniseoul.com](https://www.haniseoul.com/ko/korea/places/items/korea-poi-2843317?utm_source=openai))\n- **쿠오체레** — 경기 김포  \n  한성현 오너 셰프가 APN 정회원이며, APN 한국 챔피언십 수상 경력이 있다고 안내합니다. ([thecomfunny.com](https://thecomfunny.com/wp-content/uploads/2025/03/%EC%BF%A0%EC%98%A4%EC%B2%B4%EB%A0%88-%EB%A9%94%EB%89%B4.pdf?utm_source=openai))\n- **리코 피자(RICCO PIZZA)**  \n  대표가 APN 정회원이라고 매장 공식 소개에 기재되어 있습니다. ([litt.ly](https://litt.ly/riccopizza?utm_source=openai))\n- **원테이크** — 경기 양주  \n  APN 장인 인증을 받은 오너 셰프의 매장으로 소개된 자료가 있습니다. ([gilpost.com](https://gilpost.com/ko/%EA%B2%BD%EA%B8%B0/%EB%8D%95%EA%B3%84%EB%8F%99/%EB%A7%9B%EC%A7%91/%EC%9B%90%ED%85%8C%EC%9D%B4%ED%81%AC-one-take/?utm_source=openai))\n- **피제리아 누볼라** — 강원 속초  \n  APN 장인이 근무하는 매장으로 언급됩니다. ([theqoo.net](https://theqoo.net/square/4305439766?%3Bpage=7&category=24788&filter_mode=normal&listStyle=viewer&utm_source=openai))\n\n참고로 **마리오네·빠넬로·볼라레·베라나폴리·포폴로피자** 등은 흔히 언급되는 **AVPN(Associazione Verace Pizza Napoletana) 인증 매장**이고, **APN(Associazione Pizzaiuoli Napoletani)**과는 다른 협회입니다. AVPN은 매장·설비·재료·제조공정까지 보는 매장 인증 성격이 더 강하고, APN은 피자이올로 개인의 기술·회원 자격에 초점이 있습니다. ([pizzanapoletana.org](https://www.pizzanapoletana.org/en/associati?utm_source=openai))\n\n따라서 “APN 인증 피자집”을 찾으신다면, 방문 전 **APN 명판이 실제로 걸려 있는지와 현재 APN 등록 장인이 근무하는지**를 매장에 확인하는 것이 가장 정확합니다.",
+          "status": "ok",
+          "citations": [
+            "https://www.pizzaiuolinapoletani.it/associazione/?utm_source=openai",
+            "https://www.beyondpost.co.kr/view.php?ud=2026093014174294379aeda69934_30&utm_source=openai",
+            "https://itcck.org/ko/images/2024_ITCCK_Directory_Web_version.pdf?utm_source=openai",
+            "https://www.haniseoul.com/ko/korea/places/items/korea-poi-2843317?utm_source=openai",
+            "https://thecomfunny.com/wp-content/uploads/2025/03/%EC%BF%A0%EC%98%A4%EC%B2%B4%EB%A0%88-%EB%A9%94%EB%89%B4.pdf?utm_source=openai",
+            "https://litt.ly/riccopizza?utm_source=openai",
+            "https://gilpost.com/ko/%EA%B2%BD%EA%B8%B0/%EB%8D%95%EA%B3%84%EB%8F%99/%EB%A7%9B%EC%A7%91/%EC%9B%90%ED%85%8C%EC%9D%B4%ED%81%AC-one-take/?utm_source=openai",
+            "https://theqoo.net/square/4305439766?%3Bpage=7&category=24788&filter_mode=normal&listStyle=viewer&utm_source=openai",
+            "https://www.pizzanapoletana.org/en/associati?utm_source=openai"
+          ],
+          "cited_domains": [
+            "beyondpost.co.kr",
+            "gilpost.com",
+            "haniseoul.com",
+            "itcck.org",
+            "litt.ly",
+            "pizzaiuolinapoletani.it",
+            "pizzanapoletana.org",
+            "thecomfunny.com",
+            "theqoo.net"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "나폴리피자 장인협회(APN - Associazione Pizzaiuoli Napoletani)의 인증을 받은 한국 피자집에 대해 검색해보겠습니다.네, 나폴리피자 장인협회(APN) 인증을 받은 한국 피자집이 있습니다.\n\n## APN 인증을 받은 한국 피자집\n\n**피제리아 다알리** - 대전 유성구 지족동에 위치한 이탈리아 음식점으로, 전 세계 497번째로 나폴리 피자 장인 협회(APN)의 인정을 받았습니다.\n\n## APN과 AVPN의 차이\n\n참고로 알아두면 좋은 점은, 나폴리 피자 협회에는 두 가지가 있다는 것입니다:\n\n- **AVPN (Associazione Verace Pizza Napoletana)**: 밀가루와 치즈의 원산지, 화덕 온도, 도우 두께 등 세세한 가이드 라인을 엄수해야 하며, 현재 전 세계 약 500여 곳의 점포만이 인증을 받아 운영 중입니다.\n\n- **APN (Associazione Pizzaiuoli Napoletani)**: 1998년 7월에 출범한 조직으로, 나폴리의 민속 문화인 핏자이올로를 양성, 보존하고 그들의 지위를 향상하려는 목적을 가지고 있으며, 2017년 4월에는 국내에도 APN 한국지부가 발족했습니다.\n\n현재 AVPN 인증을 받는 국내 매장은 총 16곳에 불과합니다.",
+          "status": "ok",
+          "citations": [
+            "https://www.hellodd.com/news/articleView.html?idxno=97635",
+            "https://www.realfoods.co.kr/article/10915773",
+            "https://www.ziksir.com/news/articleView.html?idxno=150946",
+            "https://theqoo.net/hot/4305439766",
+            "https://www.insight.co.kr/news/579304",
+            "http://www.economytalk.kr/news/articleView.html?idxno=424907",
+            "https://www.lawissue.co.kr/view.php?ud=202610271612471819204ead0791_12",
+            "https://infotrue.kr/1",
+            "https://en.wikipedia.org/wiki/Alla_Prima_(restaurant)",
+            "https://www.realfoods.co.kr/article/10915773",
+            "https://www.hellodd.com/news/articleView.html?idxno=97635",
+            "https://namu.wiki/w/%EB%82%98%ED%8F%B4%EB%A6%AC%20%ED%94%BC%EC%9E%90",
+            "https://namu.wiki/w/%EB%82%98%ED%8F%B4%EB%A6%AC%20%ED%94%BC%EC%9E%90?uuid=289993f9-a093-41d6-a10f-af3e621755d3",
+            "https://infotrue.kr/1",
+            "https://www.nextdaily.co.kr/news/articleView.html?idxno=254234",
+            "http://www.economytalk.kr/news/articleView.html?idxno=424907",
+            "https://en.wikipedia.org/wiki/Neapolitan_pizza",
+            "https://guide.michelin.com/kr/ko/california/mountain-view/restaurant/doppio-zero-pizza-napoletana",
+            "https://www.hellodd.com/news/articleView.html?idxno=97635",
+            "https://www.hellodd.com/news/articleView.html?idxno=97635",
+            "https://namu.wiki/w/%EB%82%98%ED%8F%B4%EB%A6%AC%20%ED%94%BC%EC%9E%90",
+            "https://www.realfoods.co.kr/article/10915773"
+          ],
+          "cited_domains": [
+            "economytalk.kr",
+            "en.wikipedia.org",
+            "guide.michelin.com",
+            "hellodd.com",
+            "infotrue.kr",
+            "insight.co.kr",
+            "lawissue.co.kr",
+            "namu.wiki",
+            "nextdaily.co.kr",
+            "realfoods.co.kr",
+            "theqoo.net",
+            "ziksir.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "네, 나폴리피자 장인협회(APN) 또는 나폴리 피자협회(AVPN) 인증을 받은 한국 피자집들이 있습니다.\n\n최근 정보에 따르면, 상하농원의 이탈리안 레스토랑 '상하키친'이 이탈리아 나폴리피자협회(AVPN)의 공식 인증을 획득했습니다. 상하키친은 전라도 지역에서 유일하게 AVPN 인증을 받은 레스토랑이며, 국내에는 총 16곳의 AVPN 인증 매장이 있는 것으로 알려져 있습니다.\n\n또한, 서울 용산구 이태원로에 위치한 '베라(Vera) 한남' 역시 나폴리 피자 협회(AVPN: Associazione Verace Pizza Napoletana)로부터 인증을 받아 정통 나폴리 피자를 선보이고 있습니다. 이외에도 서울의 '파넬로(Panello)'도 AVPN 멤버로 등록되어 있습니다.\n\n이탈리아 나폴리에서는 자국의 식문화를 보호하기 위해 1984년 나폴리 피자 장인 협회(APN: Associazione Pizzaiuoli Napoletani)를 결성하여 정통 나폴리 제법으로 피자를 제조하는 점포를 대상으로 인증제를 실시하고 있습니다. 이 인증을 받기 위해서는 밀가루와 치즈의 원산지, 화덕 온도, 도우 두께 등 세세한 가이드라인을 엄수해야 합니다.",
+          "status": "ok",
+          "citations": [
+            "etnews.com",
+            "bokuennews.com",
+            "catchtable.net",
+            "klook.com",
+            "pizzanapoletana.org",
+            "hellodd.com"
+          ],
+          "cited_domains": [
+            "bokuennews.com",
+            "catchtable.net",
+            "etnews.com",
+            "hellodd.com",
+            "klook.com",
+            "pizzanapoletana.org"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "카푸토 밀가루 쓰는 정통 화덕피자집 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "지역을 안 적어주셔서 **서울·수도권과 충청권 기준**, 카푸토 밀가루 사용이 확인되는 곳 위주로 골라봤어요.  \n단, 카푸토를 쓴다고 모두 정통 나폴리 피자는 아니므로 **화덕·도우 숙성·나폴리식 조리 여부**까지 함께 봤습니다.\n\n### 추천 리스트\n\n1. **A1 Canteen — 경기 성남 위례**\n   - 나폴리 카푸토 밀가루 인증서가 매장에 걸려 있는 곳으로 소개됨\n   - 오픈 키친에서 화덕 굽는 모습을 볼 수 있고, 위례 주제공원 앞이라 분위기도 괜찮습니다.\n   - 주소: 경기 성남시 수정구 위례순환로4길 6 1층\n   - 화~일 10:00~20:00, 브레이크타임 15:00~17:00, 월요일 휴무로 안내되어 있습니다. ([yaminizm.com](https://yaminizm.com/35?utm_source=openai))\n   - **추천 메뉴:** 마르게리타 계열, 기본 치즈 피자\n\n2. **더피제리아마켓 — 하남 미사**\n   - 이탈리아 카푸토 밀가루와 유기농 통밀을 섞어 48시간 저온 숙성한 천연발효 사워도우를 사용하는 곳으로 소개됩니다.\n   - 일반적인 얇은 나폴리식 도우보다 발효 풍미와 씹는 맛을 좋아하면 잘 맞을 가능성이 높습니다. ([superchart.com](https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai))\n   - **추천:** 마르게리타, 프로슈토·무화과 계열\n\n3. **나폴리신부 — 충남 천안 신부동**\n   - 이탈리아산 카푸토 밀가루와 모차렐라를 사용하며, 나폴리 화덕피자 장인협회 가입 매장으로 소개됩니다.\n   - 주소: 충남 천안시 동남구 방죽안3길 46 1층\n   - 11:00~21:30, 브레이크타임 15:00~17:00, 월요일 휴무로 안내되어 있습니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=XLZFbK1vbznF&utm_source=openai))\n   - **추천:** 마르게리타, 관찰레 피자\n\n4. **카페 오떼르 — 천안**\n   - 참나무 장작 화덕을 사용하고, 카푸토 밀가루 반죽을 3일 저온 숙성하는 곳으로 소개됩니다.\n   - 일반적인 정통 나폴리 피자뿐 아니라 천연발효·사워도우 풍미를 좋아하는 분에게 적합합니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=0iEYkgYSpfbE&utm_source=openai))\n   - **추천:** 기본 토마토 피자, 오징어 먹물 도우 피자\n\n5. **더플레이스 — 주요 백화점·복합몰 지점**\n   - 나폴리피자협회 인증을 받은 카푸토 밀가루와 피오르 디 라테 치즈를 사용한다고 공식 보도된 체인입니다.\n   - 접근성과 지점 수는 좋지만, 작은 전문 피체리아보다 메뉴와 분위기는 캐주얼한 편입니다. ([beyondpost.co.kr](https://www.beyondpost.co.kr/view.php?ud=20240613095621582146a9e4dd7f_30&utm_source=openai))\n   - **추천:** 마르게리타, 프로슈토·치즈 계열\n\n### 제 기준으로 고르면\n\n- **서울 근교에서 가장 무난하게:** A1 Canteen  \n- **도우 발효 풍미 중심:** 더피제리아마켓  \n- **나폴리식 기본기에 집중:** 나폴리신부  \n- **장작 화덕·천연발효 느낌:** 카페 오떼르  \n- **접근성 우선:** 더플레이스  \n\n방문 전에는 카푸토 사용 여부와 영업시간이 바뀌었는지 전화나 매장 공지로 한 번 확인하는 게 좋아요. 서울 안쪽만 원하시면 **종로·마포·강남·잠실 중 어느 쪽인지**에 맞춰 다시 좁혀드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://yaminizm.com/35?utm_source=openai",
+            "https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=XLZFbK1vbznF&utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=0iEYkgYSpfbE&utm_source=openai",
+            "https://www.beyondpost.co.kr/view.php?ud=20240613095621582146a9e4dd7f_30&utm_source=openai"
+          ],
+          "cited_domains": [
+            "beyondpost.co.kr",
+            "diningcode.com",
+            "superchart.com",
+            "yaminizm.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "카푸토 밀가루를 사용하는 정통 화덕피자집에 대한 정보를 찾아드리겠습니다.카푸토 밀가루를 사용하는 정통 화덕피자집들을 소개해드립니다:\n\n## 주요 추천 피자집\n\n**1. 브렛피자 (상수)**\n모든 피자는 이탈리아산 카푸토 밀가루와 야생 이스트로 만든 반죽을 숙성시켜 도우를 만듭니다.\n\n**2. 로쏘1924 나폴리 화덕피자**\n나폴리 피자 최고 가문의 계승자인 49년 경력의 명장 로사리오와 카푸토 컵(Caputo Cup) 월드 챔피언 2명이 참나무 장작 화덕 앞에서 직접 피자를 굽습니다.\n\n**3. 불칸 (VULCAN) - 전북 완주군**\n카푸토컵 한국 챔피언십 수상자가 운영하는 화덕피자 전문점입니다.\n\n**4. 핏제리아오 (북촌)**\n참나무 화덕에서 구운 화덕피자를 즐길 수 있는 곳으로, 485도의 화덕과 48시간 숙성 도우를 강조합니다. 서울 종로구 자하문로10길 10-19에 위치하고 있습니다.\n\n카푸토는 1924년 이탈리아 나폴리에서 출범한 정통 피자용 밀가루 브랜드로, 이들 식당에서는 정통 이탈리아 나폴리식 피자의 맛을 경험할 수 있습니다.",
+          "status": "ok",
+          "citations": [
+            "https://triple.guide/restaurants/e637021b-c69a-43f7-bf03-a2c022667787",
+            "https://m.cafe.daum.net/samchasa/1sGO/11380?svc=AXZ",
+            "https://www.marieclairekorea.com/culture/lifestyle/2026/09/pizza",
+            "https://www.diningcode.com/profile.php?rid=9efeZAfoAvVr",
+            "https://www.thepowernews.co.kr/view.php?ud=2026062415541493209aeda69934_7",
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "http://chefs.co.kr/27/?bmode=view&idx=914505",
+            "https://en.wikipedia.org/wiki/Gennaro_Lombardi",
+            "https://en.wikipedia.org/wiki/Aurelio%27s_Pizza",
+            "https://hotplacehunter.co.kr/sns/article/88321/",
+            "https://www.marieclairekorea.com/culture/lifestyle/2026/09/pizza",
+            "https://www.thepowernews.co.kr/view.php?ud=2026062415541493209aeda69934_7",
+            "https://m.cafe.daum.net/samchasa/1sGO/11380?svc=AXZ",
+            "https://m.cafe.daum.net/samchasa/1sGO/11380?svc=AXZ",
+            "https://www.thepowernews.co.kr/view.php?ud=2026062415541493209aeda69934_7"
+          ],
+          "cited_domains": [
+            "chefs.co.kr",
+            "diningcode.com",
+            "en.wikipedia.org",
+            "hotplacehunter.co.kr",
+            "m.cafe.daum.net",
+            "marieclairekorea.com",
+            "thepowernews.co.kr",
+            "triple.guide"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "카푸토 밀가루는 나폴리 피자협회(AVPN)와 나폴리 피자 장인 협회(APN)에서 인증한 피자 전용 밀가루로, 특히 정통 나폴리 피자를 만드는 데 널리 사용됩니다. 카푸토 밀가루 중에서도 '피제리아(Pizzeria)'는 양질의 전분과 글루텐, 뛰어난 흡수성을 가진 나폴리 피자 전용 밀가루이며, '사코로쏘(Saccorosso)'는 장시간 발효에 적합하고 반죽의 탄성이 좋아 긴 발효 시간이 필요한 다양한 메뉴에 활용하기 좋습니다. '누볼라(Nuvola)'는 컨템포러리 피자를 위해 특별 설계된 밀가루로, 높은 글루텐 함량으로 장시간 발효를 안정적으로 지지하며 코르니초네(피자 테두리)를 높고 가볍게 부풀리는 특징이 있습니다.\n\n카푸토 밀가루를 사용하는 정통 화덕피자집을 명시적으로 언급하는 직접적인 검색 결과는 찾기 어려웠습니다. 하지만 정통 나폴리 피자를 표방하는 많은 화덕피자 전문점에서 카푸토 밀가루를 사용하는 경우가 많습니다. 특히, 블루 패키지의 카푸토 피제리아 밀가루는 많은 장작 화덕 피자집에서 사용되는 것으로 알려져 있습니다.\n\n따라서, 카푸토 밀가루를 사용하는 정통 화덕피자집을 찾으신다면, 나폴리 피자 전문점을 방문하시거나 해당 매장에 직접 문의해보시는 것을 추천합니다. 일반적으로 나폴리 피자 전문점은 높은 온도의 화덕에서 짧은 시간 안에 피자를 구워내며, 쫄깃한 도우와 신선한 토핑이 특징입니다.",
+          "status": "ok",
+          "citations": [
+            "chefs.co.kr",
+            "youtube.com",
+            "metizen.co.kr",
+            "reddit.com"
+          ],
+          "cited_domains": [
+            "chefs.co.kr",
+            "metizen.co.kr",
+            "reddit.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "소화 잘되는 건강한 도우 피자 어디가 좋아?",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "소화 잘되는 쪽으로 고르면 **“오래 저온 숙성한 도우 + 얇은 도우 + 기름기 적은 토핑”** 조합이 좋아요. 다만 피자알볼로의 72시간 흑미도우처럼 발효시간이 길어도 개인차가 있고, 치즈·베이컨·매운 소스가 많으면 소화가 더 부담될 수 있습니다. 사워도우 발효는 일부 FODMAP을 줄일 수 있지만 모든 사워도우가 그런 건 아니에요. ([monashfodmap.com](https://www.monashfodmap.com/about-fodmap-and-ibs/frequently-asked-questions/?utm_source=openai))\n\n### 제일 무난한 추천\n\n1. **피자알볼로 — 흑미도우 또는 통밀도우**\n   - 흑미도우는 저온에서 72시간가량 숙성한다고 알려져 있고, 통밀도우 메뉴도 있어요. ([digitalchosun.dizzo.com](https://digitalchosun.dizzo.com/site/data/html_dir/2024/03/06/2024030680168.html?utm_source=openai))  \n   - 추천 조합: **마르게리타·채소·담백한 닭고기 토핑**\n   - 피하기: 고구마무스, 베이컨, 페퍼로니, 치즈 추가\n\n2. **도미노피자 — 하이프로틴 도우**\n   - 도우 100g당 단백질 13g, 식이섬유 6g 이상과 7가지 곡물이 들어간 선택지예요. 다만 식이섬유가 많아 오히려 더부룩한 분도 있어 처음엔 많이 먹지 않는 게 좋아요. ([www14.dominos.co.kr](https://www14.dominos.co.kr/goods/detail?code_01=RPZ001SL&dough_gb=203&dsp_ctgr=C0101&utm_source=openai))  \n   - 추천: **슈퍼슈프림이나 새우 계열을 토핑 적게**, 가능하면 얇은 도우 선택\n\n3. **동네 화덕피자집 — “사워도우·천연발효·24~72시간 숙성” 확인**\n   - 매장에서 직접 반죽하고 장시간 발효하는 곳이면 괜찮은 선택입니다.\n   - 단, “화덕”이라고 자동으로 소화가 잘되는 건 아니고, **도우 숙성시간과 토핑의 기름기**가 더 중요해요.\n\n### 주문할 때 이렇게 고르세요\n\n- **씬 또는 얇은 나폴리 도우**\n- 치즈는 보통 또는 적게\n- 토마토소스, 버섯, 양파, 루콜라, 새우, 닭가슴살 토핑\n- 페퍼로니·소시지·베이컨·크림소스·매운 소스는 적게\n- 처음엔 **2조각 정도만 먹고**, 탄산 대신 물\n- 밤늦게 먹거나 바로 눕지 않기\n\n개인적으로 하나만 고르면 **피자알볼로 흑미도우의 담백한 메뉴**를 먼저 추천하고, 배가 자주 더부룩하면 **하이프로틴·통밀도우보다 얇은 일반 도우**가 오히려 편할 수도 있어요. 지역을 알려주면 배달 가능한 매장 기준으로 더 정확히 골라드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://www.monashfodmap.com/about-fodmap-and-ibs/frequently-asked-questions/?utm_source=openai",
+            "https://digitalchosun.dizzo.com/site/data/html_dir/2024/03/06/2024030680168.html?utm_source=openai",
+            "https://www14.dominos.co.kr/goods/detail?code_01=RPZ001SL&dough_gb=203&dsp_ctgr=C0101&utm_source=openai"
+          ],
+          "cited_domains": [
+            "digitalchosun.dizzo.com",
+            "monashfodmap.com",
+            "www14.dominos.co.kr"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "소화 잘되는 건강한 도우 피자에 대해 검색해드리겠습니다.소화 잘되는 건강한 도우 피자에 대한 여러 정보를 찾았습니다. 다음과 같은 옵션들이 있습니다:\n\n## 건강한 도우 선택 방법\n\n**전문 브랜드**\n7번가피자는 '온 가족이 즐기는 건강한 피자'로 알려져 있으며, 1997년 창립 후 기존 피자와 달리 10여 가지 건강한 곡물을 사용하고 완전 밀봉한 저온숙성 생도우를 개발했습니다. 도우부터가 남다르고 근본이 다르기 때문에 소화가 잘되고 속이 편안해 남녀노소 가릴 것 없이 고객층이 넓습니다.\n\n## 도우 발효 방법\n\n좋은 밀가루를 사용하여 최소 24시간 이상 저온 숙성한 반죽은 소화가 잘될 뿐만 아니라, 구웠을 때 특유의 고소함과 쫄깃한 식감을 동시에 선사합니다.\n\n## 건강한 도우 재료 옵션\n\n일반적인 밀가루 도우 대신, 통밀, 콜리플라워, 현미 등 건강한 재료를 사용한 도우는 칼로리와 탄수화물 섭취를 크게 줄여줍니다. 이러한 변화만으로도 피자는 훨씬 가벼운 식사가 될 수 있으며, 식이섬유 섭취량도 늘어나 포만감을 오래 유지시켜 줍니다.\n\n구체적으로는:\n- 통밀 도우: 일반 밀가루 도우보다 훨씬 높은 식이섬유 함량으로 혈당 상승을 완만하게 합니다.\n- 콜리플라워를 잘게 다져서 수분을 제거한 후 달걀과 소량의 치즈로 반죽하거나, 으깬 두부를 사용하면 소화 부담을 줄일 수 있습니다.\n\n베이컨, 페퍼로니 같은 가공육 대신 구운 버섯, 파프리카, 시금치같은 채소 토핑을 풍성하게 올리고, 저지방 모짜렐라나 리코타 치즈를 선택하면 영양 균형을 이룰 수 있습니다.",
+          "status": "ok",
+          "citations": [
+            "https://v.daum.net/v/20240323170029787",
+            "https://www.asiae.co.kr/article/2022062416382678779",
+            "https://www.hankyung.com/article/2020122812131",
+            "https://namu.wiki/w/%EC%A2%8B%EC%9D%80%20%ED%94%BC%EC%9E%90,%20%EC%9C%84%EB%8C%80%ED%95%9C%20%ED%94%BC%EC%9E%90/%EB%A0%88%EC%8B%9C%ED%94%BC",
+            "https://cooktail.co.kr/%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%BC%EC%9E%90-%EA%B1%B4%EA%B0%95%ED%95%9C-%EB%A7%9B%EC%9D%98-%EB%B9%84%EB%B0%80-%EA%B3%B5%EA%B0%9C/",
+            "https://www.a-ha.io/questions/4d382bd50919ea90bc80964c55e230cd",
+            "https://nslocalfood.kr/%EC%A0%95%ED%86%B5-%EB%8F%84%EC%9A%B0%EC%99%80-%EC%8B%A0%EC%84%A0%ED%95%9C-%ED%86%A0%ED%95%91%EC%9D%98-%EC%A1%B0%ED%99%94-%EC%8B%A4%ED%8C%A8-%EC%97%86%EB%8A%94-%ED%94%BC%EC%9E%90%EC%B6%94%EC%B2%9C/",
+            "https://nslocalfood.kr/%EA%B1%B4%EA%B0%95%ED%95%9C-%EC%9E%AC%EB%A3%8C%EB%A1%9C-%EB%B9%9A%EC%96%B4%EB%82%B4%EB%8A%94-%ED%95%9C-%EB%81%BC-%ED%94%BC%EC%9E%90-%EC%86%8D%EC%97%90-%EC%88%A8%EA%B2%A8%EC%A7%84-%EA%B9%8A%EC%9D%80/",
+            "https://brunch.co.kr/@takit2z/308",
+            "https://www.10000recipe.com/recipe/6879951",
+            "https://www.10000recipe.com/recipe/6885186",
+            "https://www.10000recipe.com/recipe/6893374",
+            "https://namu.wiki/w/%EC%A2%8B%EC%9D%80%20%ED%94%BC%EC%9E%90,%20%EC%9C%84%EB%8C%80%ED%95%9C%20%ED%94%BC%EC%9E%90/%EB%A0%88%EC%8B%9C%ED%94%BC?uuid=6ff4cead-e931-476c-9946-ac9764b2514c",
+            "https://myplate.food/ko/recipes/%ED%99%88%EB%A9%94%EC%9D%B4%EB%93%9C-%ED%94%BC%EC%9E%90-%EB%8F%84%EC%9A%B0",
+            "https://en.wikipedia.org/wiki/Quad_City%E2%80%93style_pizza",
+            "https://en.wikipedia.org/wiki/Pizza_cheese",
+            "https://en.wikipedia.org/wiki/Argentine_pizza",
+            "https://en.wikipedia.org/wiki/Buffalo-style_pizza",
+            "https://www.hankyung.com/article/2020122812131",
+            "https://www.hankyung.com/article/2020122812131",
+            "https://nslocalfood.kr/%EC%A0%95%ED%86%B5-%EB%8F%84%EC%9A%B0%EC%99%80-%EC%8B%A0%EC%84%A0%ED%95%9C-%ED%86%A0%ED%95%91%EC%9D%98-%EC%A1%B0%ED%99%94-%EC%8B%A4%ED%8C%A8-%EC%97%86%EB%8A%94-%ED%94%BC%EC%9E%90%EC%B6%94%EC%B2%9C/",
+            "https://cooktail.co.kr/%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%BC%EC%9E%90-%EA%B1%B4%EA%B0%95%ED%95%9C-%EB%A7%9B%EC%9D%98-%EB%B9%84%EB%B0%80-%EA%B3%B5%EA%B0%9C/",
+            "https://cooktail.co.kr/%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%BC%EC%9E%90-%EA%B1%B4%EA%B0%95%ED%95%9C-%EB%A7%9B%EC%9D%98-%EB%B9%84%EB%B0%80-%EA%B3%B5%EA%B0%9C/",
+            "https://www.a-ha.io/questions/4d382bd50919ea90bc80964c55e230cd",
+            "https://www.a-ha.io/questions/4d382bd50919ea90bc80964c55e230cd",
+            "https://www.a-ha.io/questions/4d382bd50919ea90bc80964c55e230cd"
+          ],
+          "cited_domains": [
+            "10000recipe.com",
+            "a-ha.io",
+            "asiae.co.kr",
+            "brunch.co.kr",
+            "cooktail.co.kr",
+            "en.wikipedia.org",
+            "hankyung.com",
+            "myplate.food",
+            "namu.wiki",
+            "nslocalfood.kr",
+            "v.daum.net"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "소화가 잘되는 건강한 도우 피자를 찾으신다면 다음과 같은 종류의 피자를 고려해볼 수 있습니다.\n\n**1. 사워도우 피자 (천연발효빵 피자)**\n사워도우는 자연 효모와 유산균으로 만들어 발효 과정을 거치는데, 이 과정에서 글루텐이나 소화를 방해할 수 있는 화합물(FODMAP, 피트산염 등)의 수치가 낮아져 일반 효모 빵보다 소화가 더 쉬울 수 있다고 알려져 있습니다. 또한 사워도우는 혈당 지수(GI)가 낮아 식후 혈당 수치에 미치는 영향이 적을 수 있습니다. 그러나 모든 사워도우 피자가 동일한 소화 개선 효과를 제공하는 것은 아니며, 발효 시간, 재료, 제조 방식에 따라 달라질 수 있습니다.\n\n**2. 통밀 피자**\n통밀가루는 일반 밀가루보다 섬유질 함량이 높아 소화를 느리게 하고 포만감을 오래 유지하는 데 도움을 줍니다. 또한 비타민 B군, 철분, 마그네슘 등의 미네랄이 풍부하여 건강에 좋습니다. 통밀 도우 피자는 혈당 조절에도 더 유리할 수 있습니다.\n\n**3. 글루텐 프리 피자**\n밀가루의 글루텐 성분은 일부 사람들에게 소화 장애, 복부 팽만감, 복통 등을 유발할 수 있습니다. 글루텐에 민감하거나 셀리악병이 있는 경우 글루텐 프리 도우 피자가 좋은 대안이 될 수 있습니다. 글루텐 프리 도우는 쌀가루, 옥수수 가루, 아몬드 가루, 코코넛 가루, 퀴노아 등 다양한 글루텐 프리 곡물로 만들 수 있습니다.\n\n**4. 밀가루를 대체한 피자**\n*   **떡국떡 피자:** 배우 박하선 씨가 밀가루 반죽 대신 떡국떡을 활용해 피자를 만든 사례가 있습니다. 쌀로 만든 떡국떡은 글루텐이 없어 밀가루보다 소화가 더 잘 될 수 있습니다. 현미떡이나 곤약떡을 활용하면 더욱 건강하게 즐길 수 있습니다.\n*   **감자 도우 피자:** 밀가루 대신 감자를 도우로 활용한 피자도 소화가 잘되고 담백하게 즐길 수 있는 방법입니다. 감자는 열을 가해도 비타민 C가 대부분 보존되는 특징이 있습니다.\n*   **고구마 도우 피자:** 고구마를 채 썰어 도우처럼 활용하여 밀가루와 오븐 없이 만드는 건강한 피자 레시피도 있습니다.\n*   **콜리플라워 피자 도우:** 글루텐 프리로 콜리플라워를 활용한 피자 도우도 좋은 대안이 될 수 있습니다.\n\n**피자 맛집 추천 (서울)**\n소화가 잘되는 건강한 도우를 강조하는 특정 피자집을 명확히 찾기는 어려웠으나, 일반적으로 화덕 피자 전문점들이 도우의 숙성이나 재료에 신경 쓰는 경우가 많습니다.\n*   **대장장이 화덕피자 (북촌한옥마을):** 밀가루 소화를 어려워하는 주인장이 48시간 발효한 반죽으로 속 편한 피자를 만든다고 합니다.\n*   **톰볼라 (서래마을):** 미쉐린 가이드에 오른 이탈리아 화덕 피자집으로, 생토마토를 발라 이탈리아 피자의 맛이 살아있으며, 루꼴라 피자가 특히 인기가 많습니다.\n*   그 외 서울에는 '피자아이코닉', '부자피자', '브렛피자', '비바나폴리', '원바이트피자클럽' 등 다양한 피자 맛집이 있습니다. 이들 중 일부는 장시간 숙성 도우 등을 사용하는 곳이 있을 수 있으니 방문 전 확인해보시는 것을 추천합니다.\n\n**소화에 도움이 되는 추가 팁:**\n*   피자와 함께 파인애플을 섭취하면 파인애플에 함유된 브로멜라인 효소가 피자의 단백질과 지방 분해를 도와 소화를 돕고 속 더부룩함을 줄일 수 있습니다.\n*   탄수화물 과다 섭취는 소화 불량과 비만을 유발할 수 있으므로 적당한 양을 섭취하는 것이 중요합니다.",
+          "status": "ok",
+          "citations": [
+            "daum.net",
+            "logifoodcoach.com",
+            "chosun.com",
+            "onboardnews.net",
+            "tistory.com",
+            "youtube.com",
+            "daum.net",
+            "koreadaily.com",
+            "kormedi.com",
+            "snu.ac.kr",
+            "goodoc.co.kr",
+            "youtube.com",
+            "youtube.com",
+            "youtube.com",
+            "joongang.co.kr",
+            "hotplacehunter.co.kr",
+            "realfoods.co.kr",
+            "eyesmag.com",
+            "hypebeast.kr",
+            "nate.com",
+            "daum.net"
+          ],
+          "cited_domains": [
+            "chosun.com",
+            "daum.net",
+            "eyesmag.com",
+            "goodoc.co.kr",
+            "hotplacehunter.co.kr",
+            "hypebeast.kr",
+            "joongang.co.kr",
+            "koreadaily.com",
+            "kormedi.com",
+            "logifoodcoach.com",
+            "nate.com",
+            "onboardnews.net",
+            "realfoods.co.kr",
+            "snu.ac.kr",
+            "tistory.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "72시간 숙성 도우 같은 장시간 발효 피자 맛집",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "서울·수도권 기준으로 **72시간 전후 장시간 발효 도우**를 찾으신다면 아래부터 추천드려요.\n\n1. **리꼬 피자 — 하남 미사 / 분당 미금**\n   - 천연발효종 르방을 24시간 발효한 뒤 48시간 저온 숙성해 **총 72시간 도우**를 사용한다고 안내합니다.\n   - 450℃ 안팎 화덕의 나폴리식 피자라서, 담백하고 가장자리 부풀어 오른 도우를 좋아하면 가장 잘 맞을 듯해요.\n   - 추천: **리꼬 마르게리따, 콰트로 포르마지** ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))\n\n2. **핏제떼 연남점 — 서울 마포구 연남동**\n   - **72시간 저온숙성 나폴리 도우**를 내세우는 작은 피자 전문점입니다.\n   - 홍대·연남 데이트 코스로 가기 좋고, 1인 1판 또는 여러 맛을 나눠 먹기 좋은 스타일로 소개되어 있어요.\n   - 추천: **부라타 마르게리타, 바질 리코타** ([diningcode.com](https://www.diningcode.com/profile.php?rid=prbRAtzZMIJW&utm_source=openai))\n\n3. **피자느반 — 대치동**\n   - ‘느반’은 느린 반죽·천연발효종을 뜻하며, 일반적인 나폴리 피자보다 **쫄깃하고 담백한 발효 도우** 쪽으로 알려진 곳입니다.\n   - 은마상가 쪽이라 분위기보다는 독특한 도우와 접근성을 보고 가는 편이 좋아요. 다만 정확한 숙성시간은 방문 전 확인을 권합니다. ([goorm.kr](https://goorm.kr/%EC%83%9D%ED%99%9C%EC%9D%98%EB%8B%AC%EC%9D%B8-%ED%94%84%EB%9E%91%EC%8A%A4%EC%8B%9D-%EB%B0%98%EC%A3%BD-%ED%94%BC%EC%9E%90-%EB%8B%AC%EC%9D%B8-%EC%9D%80%EB%A7%88%EC%83%81%EA%B0%80-%ED%94%BC%EC%9E%90/?utm_source=openai))\n\n4. **엑스트라마일 — 부산 광안리**\n   - 부산이라면 후보로 볼 만합니다. **48시간 저온숙성 도우와 카푸토 밀가루**를 사용하는 피자집으로 소개되어 있습니다.\n   - 72시간은 아니지만 장시간 숙성 도우 특유의 풍미를 원한다면 괜찮은 선택이에요. ([superchart.com](https://superchart.com/ko/%40dongseongno-early-stool/gwangalli-extra-mile-pizza-half-and-half/?utm_source=openai))\n\n**한 곳만 고르면:**  \n- 정통 나폴리식·발효 풍미: **리꼬 피자**  \n- 서울에서 가볍게: **핏제떼 연남점**  \n- 쫄깃한 독특한 도우: **피자느반**\n\n원하시면 **서울/부산/대구/대전 중 어느 지역인지**, 그리고 **나폴리식 화덕피자 vs 뉴욕식 얇고 바삭한 피자** 중 취향을 알려주시면 더 정확히 골라드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=prbRAtzZMIJW&utm_source=openai",
+            "https://goorm.kr/%EC%83%9D%ED%99%9C%EC%9D%98%EB%8B%AC%EC%9D%B8-%ED%94%84%EB%9E%91%EC%8A%A4%EC%8B%9D-%EB%B0%98%EC%A3%BD-%ED%94%BC%EC%9E%90-%EB%8B%AC%EC%9D%B8-%EC%9D%80%EB%A7%88%EC%83%81%EA%B0%80-%ED%94%BC%EC%9E%90/?utm_source=openai",
+            "https://superchart.com/ko/%40dongseongno-early-stool/gwangalli-extra-mile-pizza-half-and-half/?utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "goorm.kr",
+            "ricco-pizza.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "72시간 숙성 도우를 사용하는 장시간 발효 피자 맛집에 대해 검색해드리겠습니다.장시간 발효 도우를 사용하는 피자 맛집들을 소개해드립니다:\n\n## 국내 추천 맛집\n\n### 48시간~80시간 발효 도우 맛집\n\n**루이지 (연희동)**\n최대 80시간 동안 저온 발효를 거치고 75% 이상의 고수분을 머금은 도우를 사용하며, 참나무 장작 화덕에서 구워내 깊은 스모키 향을 자랑합니다.\n\n**핏제리아오 (대학로)**\n참나무 화덕에서 구운 화덕피자를 즐길 수 있는 곳으로, 485도의 화덕과 48시간 숙성 도우를 강조합니다.\n\n**후니피자**\n48시간 자연숙성된 격이 다른 재료로 바삭바삭 쫄깃쫄깃 담백함까지 더하여 빵 아래부터 끝까지 맛있는 피자를 제공합니다.\n\n**브렛피자 (상수)**\n모든 피자는 이탈리아산 카푸토 밀가루와 야생 이스트로 만든 반죽을 숙성시켜 도우를 만듭니다.\n\n**나폴리3657 (강동)**\n도우를 완벽하게 숙성해 겉은 바삭하고 속은 쫀득한 식감으로 구워냅니다.\n\n**작품 파스타 & 피자 (매봉역)**\n48시간 자연발효 도우로 만든 피자가 특징입니다.\n\n## 해외 참고\n\n뉴욕의 Ribalta에서는 도우가 72시간 동안 발효되어 구워집니다. 장시간 발효 도우는 일반적으로 도우의 깊이 있는 풍미와 좋은 식감을 만드는 데 도움이 됩니다.",
+          "status": "ok",
+          "citations": [
+            "https://www.10000recipe.com/recipe/6879951",
+            "https://hotplacehunter.co.kr/sns/article/55897/",
+            "http://www.hoonipizza.co.kr/%ED%9B%84%EB%8B%88%ED%94%BC%EC%9E%90/%EB%8F%84%EC%9A%B0%EC%9D%B4%EC%95%BC%EA%B8%B0/",
+            "https://www.bbangmorning.com/90/?bmode=view&idx=164942139",
+            "https://www.bonnguide.com/ko/city/bonn/articles/eating-the-world-in-bonn-from-ethiopian-plates-to-neapolitan-pizza",
+            "https://bumkok.com/%EC%82%AC%EC%9B%8C%EB%8F%84%EC%9A%B0-%ED%94%BC%EC%9E%90-%EB%8F%84%EC%9A%B0-sourdough-pizza/",
+            "https://view.nate.com/travel/view/405947/",
+            "https://guide.michelin.com/kr/ko/florida/miami/restaurant/la-natural",
+            "https://guide.michelin.com/kr/ko/new-york-state/new-york/restaurant/ribalta",
+            "https://www.marieclairekorea.com/culture/lifestyle/2026/09/pizza",
+            "https://hotplacehunter.co.kr/sns/article/57857/",
+            "https://hotplacehunter.co.kr/sns/article/55897/",
+            "https://www.a-ha.io/questions/4ca32d763107bd55b9c18d791134f6e1",
+            "https://keyzard.cc/views/nb/OTYrNCg-MThlZW1ta2tsZm9sZ2dqbA",
+            "https://www.timeout.com/ko/restaurants/이-10가지-푸드마크에서-전-세계-피자-투어를-즐겨보세요",
+            "https://guide.michelin.com/kr/ko/florida/miami/restaurant/la-natural",
+            "https://guide.michelin.com/kr/ko/california/us-los-angeles/restaurant/gra",
+            "https://guide.michelin.com/kr/ko/campania/napoli/restaurant/3-0-ciro-cascella",
+            "https://www.marieclairekorea.com/culture/lifestyle/2026/09/pizza",
+            "https://www.marieclairekorea.com/culture/lifestyle/2026/09/pizza",
+            "https://view.nate.com/travel/view/405947/",
+            "http://www.hoonipizza.co.kr/%ED%9B%84%EB%8B%88%ED%94%BC%EC%9E%90/%EB%8F%84%EC%9A%B0%EC%9D%B4%EC%95%BC%EA%B8%B0/",
+            "http://www.hoonipizza.co.kr/%ED%9B%84%EB%8B%88%ED%94%BC%EC%9E%90/%EB%8F%84%EC%9A%B0%EC%9D%B4%EC%95%BC%EA%B8%B0/",
+            "https://view.nate.com/travel/view/405947/",
+            "https://hotplacehunter.co.kr/sns/article/55897/",
+            "https://keyzard.cc/views/nb/OTYrNCg-MThlZW1ta2tsZm9sZ2dqbA",
+            "https://guide.michelin.com/kr/ko/new-york-state/new-york/restaurant/ribalta"
+          ],
+          "cited_domains": [
+            "10000recipe.com",
+            "a-ha.io",
+            "bbangmorning.com",
+            "bonnguide.com",
+            "bumkok.com",
+            "guide.michelin.com",
+            "hoonipizza.co.kr",
+            "hotplacehunter.co.kr",
+            "keyzard.cc",
+            "marieclairekorea.com",
+            "timeout.com",
+            "view.nate.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "72시간 숙성 도우와 같은 장시간 발효 피자를 맛볼 수 있는 곳들은 다음과 같습니다.\n\n*   **SSFY 더블룸 (SSFY The Bloom)**: 수원 인계동에 위치한 SSFY 더블룸은 \"72시간 저온숙성 화덕피자\"를 전문으로 합니다.\n*   **피자알볼로 (Pizza Alvolo)**: 피자알볼로는 \"72 HOURS Focus on the dough\"를 내세우며, 자연 흑미를 사용한 손으로 만든 도우의 발효에 긴 시간을 투자한다고 설명합니다.\n*   **대장장이화덕피자 (Jangjanghwaduk Pizza)**: 이곳은 48시간 이상 발효한 도우를 480도 이상의 고온 화덕에서 90초간 굽는 전통 방식을 고수합니다.\n\n그 외에도 장시간 발효 도우를 사용하는 피자 맛집으로는 다음이 있습니다:\n\n*   **더유로피언 광교본점 (The European Gwanggyo)**: 광교에 위치한 이탈리안 레스토랑으로, 18시간 발효 후 24시간 숙성시킨 도우로 만든 화덕 피자를 제공합니다.\n*   **폴베리 서울 (Polveri Seoul)**: 매일 직접 만든 천연발효종으로 도우를 빚어 소화가 잘 되고 고소한 밀 향이 특징인 피자를 선보입니다.\n*   **제인피자 (Jein Pizza)** (제주 서귀포): 100% 순수 밀가루를 사용하여 24시간 이상 저온 숙성한 도우로 특별한 맛을 냅니다.\n*   **호미스피자 (Homies Pizza)**: 맛있는 피자는 도우부터 다르다고 강조하며, 72시간 이상 끓여내는 특제 토마토 소스를 사용하는 등 재료에 대한 깊은 숙고를 보여줍니다.\n*   **도미노피자 (Domino's Pizza Korea)**: 한국 도미노피자 또한 저온 숙성 도우를 사용한다고 언급됩니다.\n*   **발효실 (Balhyosil Pizza)**: 매장에서 직접 발효한 도우로 모든 피자를 만듭니다.\n*   **도우라이크피자 (Dough Like Pizza)**: 6년간의 노하우와 숙성 데이터를 바탕으로 최상의 식감과 맛을 위한 반죽 공법을 자랑합니다.",
+          "status": "ok",
+          "citations": [
+            "instagram.com",
+            "pizzaalvolofc.com",
+            "secretseoul.com",
+            "secretseoul.com",
+            "superchart.com",
+            "hypebeast.kr",
+            "autoreserve.com",
+            "homiespizza.kr",
+            "chosun.com",
+            "instagram.com",
+            "doughlikepizza.com"
+          ],
+          "cited_domains": [
+            "autoreserve.com",
+            "chosun.com",
+            "doughlikepizza.com",
+            "homiespizza.kr",
+            "hypebeast.kr",
+            "instagram.com",
+            "pizzaalvolofc.com",
+            "secretseoul.com",
+            "superchart.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "스테파노 페라라 화덕 쓰는 피자집 어디야",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "현재 확인되는 곳 중에는 아래가 있어요.\n\n- **베이킹도우** — 서울 종로구 창덕궁길 29  \n  나폴리에서 들여온 **스테파노 페라라 화덕**과 참나무 장작을 사용한다고 소개돼요. ([tripadvisor.co.kr](https://www.tripadvisor.co.kr/Restaurant_Review-g294197-d24193916-Reviews-Baking_Dough-Seoul.html?utm_source=openai))\n\n- **더유로피언 행궁본점** — 경기 수원시 팔달구 행궁로 21-1  \n  **485도 스테파노 페라라 화덕**으로 피자를 굽는 곳으로 안내돼요. 대표 메뉴는 바질 부라타 치즈 피자입니다. ([korean.visitkorea.or.kr](https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=890aa635-35a8-4807-86c2-a0b48f9a50df&utm_source=openai))\n\n- **피지피지 PZPZ** — 서울 마포구 상수·합정 일대  \n  방문 후기에서 스테파노 페라라 화덕 인증서가 확인된 곳으로 소개돼요. 다만 공식 매장 자료는 상대적으로 적어서 방문 전 확인을 추천해요. ([leekipedia.tistory.com](https://leekipedia.tistory.com/2011?utm_source=openai))\n\n참고로 스테파노 페라라 공식 설치 사례에는 예전에 **팔로피자(합정), 라그릴리아 이태원점, 알텐데(대전), 알도(울산), 핏자 480(부산)**도 올라와 있지만, 자료가 오래돼 현재 영업·화덕 사용 여부는 확인하고 가는 게 좋아요. ([stefanoferrara.co.kr](https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112&utm_source=openai))",
+          "status": "ok",
+          "citations": [
+            "https://www.tripadvisor.co.kr/Restaurant_Review-g294197-d24193916-Reviews-Baking_Dough-Seoul.html?utm_source=openai",
+            "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=890aa635-35a8-4807-86c2-a0b48f9a50df&utm_source=openai",
+            "https://leekipedia.tistory.com/2011?utm_source=openai",
+            "https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112&utm_source=openai"
+          ],
+          "cited_domains": [
+            "korean.visitkorea.or.kr",
+            "leekipedia.tistory.com",
+            "stefanoferrara.co.kr",
+            "tripadvisor.co.kr"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "스테파노 페라라와 관련된 피자집 정보를 검색해드리겠습니다.스테파노 페라라 화덕을 사용하는 국내 피자집을 더 자세히 검색해드리겠습니다.스테파노 페라라는 AVPN 공식 인증 정통 나폴리 수제 벽돌 피자화덕 메이커로 나폴리 최고의 Pizzeria \"Brandi\"를 비롯한 유수의 유명 레스토랑에서 사용 중에 있습니다. \n\n나폴리피자협회의 공식 인증을 받은 스테파노페라라 화덕 국내 설치 매장 중 지역별 대표매장으로는 울산 달동의 '알도'(울산시 남구 중앙로 156번길 65)와 부산 사상구의 '핏자 480'(부산 사상구 괘법동 546-1 엠시티 3층) 등이 있습니다.\n\n더 정확한 정보를 원하시면 스테파노 페라라 공식 웹사이트(stefanoferrara.co.kr)에서 지역별 설치된 피자점 목록을 확인하실 수 있습니다.",
+          "status": "ok",
+          "citations": [
+            "https://triple.guide/restaurants/0e0a9aeb-b43b-40bb-afa4-7f10d3290d22",
+            "https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112",
+            "https://secretseoul.com/italian-pizza-seoul/",
+            "https://en.wikipedia.org/wiki/Gennaro_Lombardi",
+            "https://en.wikipedia.org/wiki/Pizza-La",
+            "https://en.wikipedia.org/wiki/Juliana%27s_Pizza",
+            "https://en.wikipedia.org/wiki/Giorgio%27s_Pizza",
+            "https://en.wikipedia.org/wiki/Stephen_Starr",
+            "https://en.wikipedia.org/wiki/Pizzeria",
+            "https://www.sentv.co.kr/article/view/sentv202204200026",
+            "https://www.welfarehello.com/community/hometownNews/9b56aa42-1c7c-42db-ada0-ef24dda82c52",
+            "https://www.diningcode.com/profile.php?rid=hZyFWMDFDB4c",
+            "https://www.diningcode.com/profile.php?rid=L1kUOVGI6mUE",
+            "https://hotplacehunter.co.kr/seoul/article/49042/",
+            "https://hotplacehunter.co.kr/seoul/article/57007/",
+            "https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112",
+            "https://www.diningcode.com/list.dc?query=%ED%94%BC%EC%9E%90+%EC%84%9C%EC%9A%B8",
+            "https://en.wikipedia.org/wiki/Gennaro_Lombardi",
+            "https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112",
+            "https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112",
+            "https://www.stefanoferrara.co.kr/bbs/board.php?bo_table=02_board&wr_id=112"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "en.wikipedia.org",
+            "hotplacehunter.co.kr",
+            "secretseoul.com",
+            "sentv.co.kr",
+            "stefanoferrara.co.kr",
+            "triple.guide",
+            "welfarehello.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "스테파노 페라라 화덕을 사용하는 피자집은 전 세계적으로 정통 나폴리 피자를 선보이는 곳이 많습니다. 특히 한국에는 여러 곳의 피자집에서 스테파노 페라라 화덕을 사용하고 있습니다.\n\n한국 내 스테파노 페라라 화덕을 사용하는 피자집은 다음과 같습니다:\n*   핏제리아오 (Pizzeria O)\n*   살바토레쿠오모 (Salvatore Cuomo)\n*   베키아에누보 (Vecchia & Nuovo)\n*   팔로피자 (Palo Pizza)\n*   분당의 파파라구 (Papa Ragù)\n\n해외에서는 다음과 같은 피자집들이 스테파노 페라라 화덕을 사용합니다:\n*   미국 텍사스주 리처드슨의 Farina in Grani Pizzeria\n*   미국 플로리다주 윈터 스프링스의 Bavaro's\n\n스테파노 페라라 화덕은 나폴리 피자협회(AVPN)가 공식 인정한 제품으로, 쏘렌토산 비스코토(Biscotto di Sorrento)로 만든 화덕 바닥과 베수비오산 내화벽돌을 사용하여 높은 열효율성과 열 보존성을 자랑하며, 정통 나폴리 피자의 맛을 구현하는 데 중요한 역할을 합니다.",
+          "status": "ok",
+          "citations": [
+            "inews24.com",
+            "youtube.com",
+            "farinaingrani.com",
+            "orlandoweekly.com",
+            "blacksheeprestaurants.com",
+            "daum.net",
+            "mtn.co.kr",
+            "news1.kr"
+          ],
+          "cited_domains": [
+            "blacksheeprestaurants.com",
+            "daum.net",
+            "farinaingrani.com",
+            "inews24.com",
+            "mtn.co.kr",
+            "news1.kr",
+            "orlandoweekly.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "르꼬르동블루 출신 셰프가 하는 피자집 있나요",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "네. **서울 대치동의 ‘피자느반(PIZZA N’BANNE)’**이 있습니다.\n\n- **위치:** 서울 강남구 삼성로 212, 은마아파트 상가 지하 1층  \n- **특징:** 르 꼬르동 블루 출신 사장이 직접 반죽·성형한다고 소개하는 화덕피자집  \n- **도우:** 이탈리아산 밀가루로 반죽해 약 72시간 저온 숙성  \n- **스타일:** 얇고 담백한 이탈리아식 도우에 다양한 토핑을 더한 피자  \n- **메뉴:** 마르게리타, 고르곤졸라, 반반피자 등  \n- **전화:** 0508-9590-5879  \n\n매장 소개상 400도 돌오븐에 구워내며 포장·배달도 가능합니다. 방문 전 휴무와 영업시간은 전화나 지도에서 확인하시는 게 좋습니다. ([daangn.com](https://www.daangn.com/kr/local-profile/%ED%94%BC%EC%9E%90%EB%8A%90%EB%B0%98-3zttpthd5j9j/?utm_source=openai))\n\n서울 외 지역을 찾으시면 **부산·경기·제주 중 어느 지역인지** 알려주시면 그쪽으로 찾아드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://www.daangn.com/kr/local-profile/%ED%94%BC%EC%9E%90%EB%8A%90%EB%B0%98-3zttpthd5j9j/?utm_source=openai"
+          ],
+          "cited_domains": [
+            "daangn.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "르꼬르동블루(Le Cordon Bleu) 출신 셰프가 운영하는 피자집에 대한 정보를 검색해보겠습니다.검색 결과를 보면 피자집에 대한 구체적인 정보보다는 다른 음식점들이 많이 나왔습니다. 더 구체적으로 검색해보겠습니다.질문에 정확히 맞는 피자집 정보를 찾기 어려운 것 같습니다. 검색 결과를 바탕으로 현재까지 발견된 정보를 알려드리겠습니다:\n\n제 검색 결과에 따르면 르꼬르동블루 출신 셰프가 직접 운영하는 피자집에 대한 구체적인 정보를 찾기는 어렵습니다. 다만 다음과 같은 관련 정보가 있습니다:\n\n**한국의 르꼬르동블루 출신 셰프들:**\n- 압구정로데오 파스타 맛집 쿠쿠치나의 오너셰프는 르꼬르동블루 출신이지만, 이는 파스타 전문점입니다.\n- 구미 송정맛길 골목에 자리한 '백산'은 호주 르꼬르동블루를 수료한 청년 셰프 안태건(32)씨가 운영하는 식당이지만, 이는 고기 전문점입니다.\n\n**다른 관련 정보:**\n- 봉수아피자는 르꼬르동블루 셰프가 요리하는 피자집이라는 홍보가 있습니다.\n\n정확한 위치나 세부 정보를 원하신다면, \"봉수아피자\"를 직접 검색해보시는 것을 권장드립니다.",
+          "status": "ok",
+          "citations": [
+            "https://www.cordonbleu.edu/news/korean-alumni-kucucina/ko",
+            "https://www.imaeil.com/page/view/2025052916501430282",
+            "https://www.hankyung.com/article/202307041575Y",
+            "https://namu.wiki/w/%EC%95%88%EC%84%B1%EC%9E%AC",
+            "https://www.bongsuapizza.com/%EB%B4%89%EC%88%98%EC%95%84%EB%8F%84%EC%9A%B0%EC%9E%A5%EC%A0%90",
+            "https://ar.airbnb.com/services/6973920",
+            "https://www.thetvdb.com/series/wednesday-food-talk/episodes/5661329",
+            "https://guide.michelin.com/kr/ko/campania/massa-lubrense/restaurant/relais-blu",
+            "https://guide.michelin.com/kr/ko/nara-region/nara/restaurant/pizzeria-luna-nuova",
+            "https://en.wikipedia.org/wiki/Sung_Anh",
+            "https://www.cordonbleu.edu/restaurants/en",
+            "https://www.cordonbleu.edu/news/cord-restaurant-pop-up-sollip/en",
+            "https://www.cordonbleu.edu/seoul/introduction/en",
+            "https://www.cordonbleu.edu/seoul/alumni-success-stories-bongcheon-lee/en",
+            "https://www.cordonbleu.edu/seoul/diplome-de-cuisine/en",
+            "https://en.wikipedia.org/wiki/Zero_Complex",
+            "https://www.cordonbleu.edu/seoul/chef/en",
+            "https://en.wikipedia.org/wiki/Cin%C3%A9_de_Chef",
+            "https://www.tiktok.com/discover/le-cordon-blue-korea",
+            "https://www.cordonbleu.edu/news/korean-alumni-kucucina/ko",
+            "https://www.imaeil.com/page/view/2025052916501430282",
+            "https://www.imaeil.com/page/view/2025052916501430282",
+            "https://www.bongsuapizza.com/%EB%B4%89%EC%88%98%EC%95%84%EB%8F%84%EC%9A%B0%EC%9E%A5%EC%A0%90"
+          ],
+          "cited_domains": [
+            "ar.airbnb.com",
+            "bongsuapizza.com",
+            "cordonbleu.edu",
+            "en.wikipedia.org",
+            "guide.michelin.com",
+            "hankyung.com",
+            "imaeil.com",
+            "namu.wiki",
+            "thetvdb.com",
+            "tiktok.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "네, 르꼬르동블루 출신 셰프가 운영하는 피자집들이 있습니다.\n\n확인된 곳들은 다음과 같습니다:\n\n*   **크레이지 토마토 (Crazy Tomato)**: 서울 송파구 석촌동에 위치한 이 피자집은 세계 3대 요리학교 중 하나인 르꼬르동블루 출신 오너 셰프가 피자를 만듭니다.\n*   **봉수아피자**: 르꼬르동블루 셰프가 요리하며 HACCP 인증 공장에서 직접 생산한 흑미 도우를 사용하는 피자 전문점입니다.\n*   **피자느반 (Pizza Neuban)**: 강남에서 주목받는 피자 전문점으로, 르꼬르동블루 출신 셰프의 피자를 맛볼 수 있다고 언급되었습니다.\n*   **브라스웨이 (Brassway)**: 부산 전포동에 있는 이탈리안 가정식 레스토랑으로, 르꼬르동블루 출신 셰프가 운영합니다. 피자도 메뉴에 있었으나 방문 당시 품절될 정도로 인기가 있는 것으로 보입니다.",
+          "status": "ok",
+          "citations": [
+            "newspeople.co.kr",
+            "bongsuapizza.com",
+            "youtube.com",
+            "superchart.com"
+          ],
+          "cited_domains": [
+            "bongsuapizza.com",
+            "newspeople.co.kr",
+            "superchart.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "분위기 좋은 화덕피자 데이트 장소 추천해줘",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "서울 기준이라면 **분위기 좋은 화덕피자 데이트 장소**로 아래를 추천해요. 방문 전 영업시간·예약 가능 여부는 확인하는 게 좋아요.\n\n1. **도치피자 성수점 — 성수**\n   - 따뜻하고 아늑한 이탈리아풍 분위기\n   - 화덕피자와 파스타를 함께 먹기 좋아서 무난한 데이트 코스\n   - 식사 후 서울숲 산책까지 연결하기 좋아요. ([koreatriptips.com](https://www.koreatriptips.com/dining/2900694.html?utm_source=openai))\n\n2. **피제리아 히오 — 성수**\n   - 조금 더 깔끔하고 고급스러운 분위기\n   - 프로슈토 루꼴라 부라타 피자 같은 메뉴가 인기\n   - 소개팅이나 기념일처럼 차분한 데이트에 잘 맞아요. ([diningcode.com](https://www.diningcode.com/profile.php?rid=7xs0YeKep1S2&utm_source=openai))\n\n3. **홍대화덕피자 — 합정·상수**\n   - 붉은 벽돌과 따뜻한 조명으로 편안한 분위기\n   - 하프앤하프 피자 주문이 가능해 서로 다른 메뉴를 고르기 좋아요\n   - 합정·상수 카페와 함께 묶기 좋습니다. ([superchart.com](https://superchart.com/ko/%40seoul-lunch-break/hongdae-wood-fired-pizza-seafood-tomato/?utm_source=openai))\n\n4. **마리오네 — 성수**\n   - 나폴리식 화덕피자로 유명한 곳\n   - 이국적인 매장 분위기라 사진 찍기에도 괜찮은 편\n   - 다만 도우가 얇은 스타일이라 양이 많은 분은 파스타나 샐러드를 추가하는 게 좋아요. ([diningcode.com](https://www.diningcode.com/list.dc?query=%EC%84%B1%EC%88%98%EB%8F%99+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90&utm_source=openai))\n\n5. **디마떼오 — 대학로·종로**\n   - 전통적인 이탈리아 감성의 따뜻한 인테리어\n   - 대학로 공연 전후 데이트 코스로 특히 잘 어울려요\n   - 너무 트렌디하기보다는 편안하고 클래식한 분위기를 선호할 때 추천합니다. ([hongsi.io](https://hongsi.io/place/p/c2cb5d8e-2ac4-47e9-ae94-9d389412c5da?utm_source=openai))\n\n**딱 하나만 고르면**\n- **분위기·산책까지:** 도치피자 성수점  \n- **조금 더 고급스럽게:** 피제리아 히오  \n- **편안하고 캐주얼하게:** 홍대화덕피자  \n- **공연과 함께:** 디마떼오  \n\n원하는 지역이 **서울 어디인지**—성수, 홍대·합정, 한남, 잠실, 강남 등—말해주면 동선까지 고려해서 3곳으로 좁혀드릴게요.",
+          "status": "ok",
+          "citations": [
+            "https://www.koreatriptips.com/dining/2900694.html?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=7xs0YeKep1S2&utm_source=openai",
+            "https://superchart.com/ko/%40seoul-lunch-break/hongdae-wood-fired-pizza-seafood-tomato/?utm_source=openai",
+            "https://www.diningcode.com/list.dc?query=%EC%84%B1%EC%88%98%EB%8F%99+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90&utm_source=openai",
+            "https://hongsi.io/place/p/c2cb5d8e-2ac4-47e9-ae94-9d389412c5da?utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "hongsi.io",
+            "koreatriptips.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "죄송하지만, 저는 한국어로 실시간 지역 정보를 검색하는 데 제약이 있습니다. 다만 화덕피자 데이트 장소를 찾는 데 도움이 될 만한 팁을 드리겠습니다:\n\n**화덕피자 맛집 찾는 방법:**\n\n1. **네이버 지도/카카오맵** - 지역과 함께 \"화덕피자\" 검색\n2. **당신의 위치 기반 검색** - \"분위기 좋은 화덕피자\" 또는 \"데이트 코스 화덕피자\"\n3. **SNS/블로그** - 인스타그램, 블로그에서 \"#화덕피자\" \"#데이트\" 등으로 검색하면 실제 후기 사진을 볼 수 있습니다\n4. **맛집 평가 앱** - 당근, 마크, 오늘의집 등에서 지역별 평점 높은 가게 확인\n\n**좋은 화덕피자 가게의 특징:**\n- 인테리어가 분위기 있고 조명이 낮은 편\n- 직화로 구워 냄새가 덜한 테라스나 실외 공간\n- 예약이 가능한 곳\n- 와인이나 음료 선택지가 풍부한 곳\n\n**구체적인 지역이나 추가 정보**를 알려주시면 더 구체적인 도움을 드릴 수 있습니다!",
+          "status": "ok",
+          "citations": [],
+          "cited_domains": []
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "분위기 좋은 화덕피자 데이트 장소를 찾으신다면, 다음과 같은 곳들을 추천해 드립니다.\n\n*   **도치피자 강남점:** 강남역에 위치한 도치피자는 조용하고 로맨틱한 분위기를 자랑하여 연인들의 데이트 장소로 인기가 많습니다. 이탈리아 베수비오 화산석으로 만든 화덕에서 구워낸 정통 나폴리 피자를 맛볼 수 있으며, 서울 5대 피자 맛집으로도 꼽힙니다.\n\n*   **PZPZ (피지피지) 홍대:** 홍대에 위치한 PZPZ는 넓은 공간과 이국적인 테라스를 갖춘 초대형 피자집입니다. 홍대 특유의 힙한 분위기 속에서 고급스럽고 이국적인 공간감을 느낄 수 있으며, 오픈 키친에서 피자 만드는 과정을 직접 볼 수 있어 보는 즐거움도 더합니다.\n\n*   **셔우드 (Sherwood) 홍대:** 홍대 경의선 숲길 쪽에 있는 셔우드는 분위기가 매우 좋으며, 피맥(피자+맥주)을 즐기기에도 좋은 곳입니다. 1층과 2층으로 나뉘어 있으며, 1층에 화덕이 있고 예약도 가능합니다.\n\n*   **파르코 (Parco) 서울숲:** 서울숲에 위치한 파르코는 나폴리 장인에게 인정받은 화덕피자를 맛볼 수 있는 곳으로, 분위기도 좋고 음식도 맛있어서 데이트 장소로 추천됩니다.\n\n*   **브렛피자 (Brett Pizza) 상수:** 상수동에 위치한 브렛피자는 서촌 '피자피케이션 자하'의 서기원 셰프가 새롭게 오픈한 곳으로, 이탈리아산 카푸토 밀가루와 야생 이스트로 만든 반죽을 숙성시켜 도우를 만듭니다. 여유로운 분위기에서 짙은 치즈 풍미의 '에푸아스' 피자 등을 즐길 수 있습니다.\n\n*   **마리오네 (Marione) 성수:** 성수동에 있는 마리오네는 아시아 나폴리 피자 장인대회 월드 챔피언 상을 수상한 이력이 있는 정통 나폴리 피자 전문점입니다. 다양한 개성의 피자 메뉴를 보유하고 있으며, 여유로운 분위기 속에서 식사를 즐길 수 있습니다.",
+          "status": "ok",
+          "citations": [
+            "tistory.com",
+            "nextdaily.co.kr",
+            "youtube.com",
+            "youtube.com",
+            "bokgilism.me",
+            "hotplacehunter.co.kr",
+            "nate.com"
+          ],
+          "cited_domains": [
+            "bokgilism.me",
+            "hotplacehunter.co.kr",
+            "nate.com",
+            "nextdaily.co.kr",
+            "tistory.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "아이 데리고 가기 좋은 화덕피자집 있을까",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "있어요! 😊  \n**어느 지역인지** 알려주시면 아이 데리고 가기 좋은 화덕피자집으로 찾아볼게요.\n\n가능하면 아래도 알려주세요:\n- 지역/동네 또는 가까운 역\n- 아이 나이\n- 주차 필요 여부\n- 놀이방·키즈 의자·유아식기 같은 편의시설 필요 여부\n\n예: “서울 마포구, 4살 아이, 주차 가능한 곳”처럼 말씀해주시면 됩니다.",
+          "status": "ok",
+          "citations": [],
+          "cited_domains": [],
+          "searched": false,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "안녕하세요! 아이를 데리고 가기 좋은 화덕피자집을 찾고 계시는군요.\n\n불행하게도, 특정 지역이나 도시를 명시해주지 않으셔서 정확한 추천을 드리기 어렵습니다. 다음과 같은 정보를 알려주시면 더 도움이 될 것 같습니다:\n\n1. **지역**: 어느 도시/지역을 찾고 계신가요? (예: 서울, 부산, 인천 등)\n2. **구체적 위치**: 있다면, 어느 구/동 근처인가요?\n\n이런 정보를 주시면, 그 지역의 아이 친화적인 화덕피자 맛집을 찾는 데 도움을 드릴 수 있습니다.\n\n일반적으로 아이를 데리고 가기 좋은 음식점을 선택할 때 고려할 점들을 말씀드리자면:\n- **공간이 넉넉한지**: 아이가 편하게 앉을 수 있고 움직일 수 있는 공간\n- **키즈메뉴나 간단한 음식**: 아이 입맛에 맞는 메뉴\n- **화장실**: 아이용 화장실 시설\n- **분위기**: 아이의 목소리가 나가도 편한 분위기\n- **대기시간**: 너무 길지 않은지 확인\n\n지역을 말씀해주시면 더 구체적으로 도와드리겠습니다!",
+          "status": "ok",
+          "citations": [],
+          "cited_domains": []
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "아이와 함께 가기 좋은 화덕피자집을 찾으신다면, 다음의 식당들을 고려해볼 수 있습니다. 각 식당은 아이 동반 가족에게 적합한 특징들을 가지고 있습니다.\n\n**대구 지역:**\n\n*   **나폴리언덕:** 이곳은 예쁜 정원과 넓은 주차 공간을 갖추고 있으며, 쾌적한 1층과 2층 매장은 물론 귀여운 서빙 로봇까지 있어 아이들과 방문하기에 매우 좋습니다.\n\n**서울 지역:**\n\n*   **피자익스프레스 (강남구 가로수길):** 밝고 캐주얼한 분위기로 아이들이 편안하게 식사할 수 있습니다. 매장 곳곳에 포토존이 많아 사진 찍기 좋고, 오픈 주방이라 아이들이 피자 만드는 과정을 흥미롭게 지켜볼 수 있습니다. 얇은 도우와 다양한 토핑의 피자는 물론, 반반 피자와 조각 피자도 구매할 수 있어 아이들이 먹기 좋습니다. 다만, 지하 1층에 위치하며 계단이 가파르니 아이와 함께 내려갈 때 주의해야 합니다.\n*   **롤리폴리 꼬또 (강남구 논현동):** 아이들과 함께 방문하기 좋은 '키즈 프렌들리 공간'으로 명시되어 있습니다.\n*   **브릭오븐 (강남역/신논현역 인근):** 다양한 크기의 피자를 제공하며 하프 앤 하프 주문도 가능하여 가족 외식 장소로 좋은 선택입니다.\n\n**용인 지역:**\n\n*   **꽃피는화덕피자 (처인구):** 키즈 프렌들리 레스토랑으로, 아기의자와 키즈 전용 메뉴가 준비되어 있어 아이들과 함께 방문하기에 적합합니다.\n\n**경주 지역:**\n\n*   **황리화덕가 (황리단길):** 별도의 키즈존은 없지만 테이블 간격이 넉넉하여 가족 단위 방문에 무리가 없습니다. 실내 별채와 야외 테이블이 있어 상황에 맞게 자리를 고를 수 있으며, 야외 마당은 사진 찍기 좋고 아이와 잠시 바람 쐴 공간으로도 좋습니다.",
+          "status": "ok",
+          "citations": [
+            "youtube.com",
+            "mom-mom.net",
+            "siksinhot.com",
+            "tistory.com",
+            "instagram.com",
+            "mom-mom.net"
+          ],
+          "cited_domains": [
+            "instagram.com",
+            "mom-mom.net",
+            "siksinhot.com",
+            "tistory.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "부모님 모시고 가기 좋은 담백한 화덕피자집",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "어느 지역으로 찾으세요? **서울이면 구·동**, 지방이면 **도시명**을 알려주시면 부모님 모시기 좋은 곳으로 골라드릴게요.\n\n가능하면 아래도 함께 알려주세요:\n- 1인 예산\n- 주차 필요 여부\n- 조용한 분위기 선호\n- 화덕피자 외 파스타·샐러드도 필요한지",
+          "status": "ok",
+          "citations": [],
+          "cited_domains": [],
+          "searched": false,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "담백한 화덕피자집을 찾고 계시군요! 부모님과 함께 가시기 좋은 곳이라면, 다음과 같은 특징을 고려하면 좋습니다:\n\n**화덕피자집 선택 시 고려사항:**\n- **분위기**: 차분하고 편안한 인테리어\n- **메뉴**: 자극적이지 않은 담백한 맛\n- **접근성**: 주차와 휠체어 접근성 등\n- **서빙 속도**: 너무 오래 기다리지 않는 곳\n\n**일반적으로 좋은 화덕피자집의 특징:**\n- 신선한 재료 사용\n- 과도하지 않은 양념\n- 깔끔한 위생 상태\n- 친절한 서빙\n\n다만, 구체적인 추천을 드리려면 **다음 정보**를 알면 좋습니다:\n- 어느 지역/도시를 찾고 계신가요?\n- 예산대는 어느 정도인가요?\n- 특별히 피하시는 맛이나 재료가 있나요?\n\n**온라인 리뷰 확인 팁:**\n- 네이버 플레이스, 카카오맵에서 \"화덕피자\"로 검색\n- 최근 방문객 리뷰와 사진으로 분위기 확인\n- 별점과 함께 평가 내용 읽어보기\n\n지역을 알려주시면 더 구체적인 추천을 도와드릴 수 있습니다!",
+          "status": "ok",
+          "citations": [],
+          "cited_domains": []
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "부모님을 모시고 방문하기 좋은 담백한 화덕피자집을 찾으신다면, 맛은 물론 편안하고 깔끔한 분위기를 갖춘 곳들을 추천해 드립니다. 화덕피자는 기름기가 적고 도우가 쫄깃하며 담백한 맛이 특징이어서 어른들도 부담 없이 즐기시기 좋습니다.\n\n다음은 부모님과 함께 가기 좋은 담백한 화덕피자집들입니다:\n\n*   **더 코너 키친 (The Corner Kitchen)**\n    평창동에 위치한 더 코너 키친은 최고의 장작 화덕 피자 전문점으로 알려져 있습니다. 모던하고 깔끔한 실내 인테리어 덕분에 젊은 부모님들과 연인들에게 인기가 많습니다. 화덕에 구워 더욱 담백하고 고소한 도우의 피자를 맛볼 수 있으며, 파스타도 생면을 사용하여 면발의 감칠맛을 느낄 수 있습니다. 옥수동에도 지점이 있습니다.\n\n*   **대장장이 화덕피자집**\n    화덕에 구운 담백한 피자 맛으로 유명한 곳입니다. 좋은 재료를 아낌없이 듬뿍 담은 피자를 맛볼 수 있으며, 인테리어도 고급스러운 분위기를 자랑합니다. 주말과 공휴일에는 하루 전 예약하는 것이 좋습니다.\n\n*   **부자피자 (Buza Pizza)**\n    이태원의 유명한 피자 전문점으로, 세련된 인테리어와 편안한 분위기를 제공합니다. 특히 2호점은 매장이 넓어 더욱 쾌적하게 식사를 즐길 수 있습니다. 시그니처 메뉴인 부자 클라시카 피자는 바질 페스토, 루꼴라, 파마산 치즈, 방울토마토가 샐러드처럼 풍성하게 올라가 담백하고 신선한 맛을 선사합니다.\n\n*   **스파카 나폴리 (Spacca Napoli)**\n    합정 카페골목에 위치한 스파카 나폴리는 나폴리 피자 세계 챔피언이 직접 운영하는 곳으로 유명합니다. 이탈리아 유학파 셰프가 만드는 정통 이탈리아 피자를 맛볼 수 있으며, 쫄깃하면서도 부드러운 도우와 신선한 치즈, 토핑의 환상적인 조화를 경험할 수 있습니다.\n\n*   **다로베 (Darobe)**\n    성수동에 자리한 다로베는 나폴리 전통 피자의 맛과 비슷하다고 평가받는 화덕피자 전문점입니다. 이탈리아에서 주문 제작한 특별한 화덕으로 피자를 구워내며, 2018년 나폴리 피자 장인 한국 선수권대회에서 1위를 수상한 비스마르크 피자는 담백하고 쫄깃한 빵이 특징입니다.\n\n*   **도치피자 (Dochi Pizza)**\n    화덕피자계의 터줏대감으로 불리는 도치피자는 서울 3대 화덕피자 맛집 중 한 곳입니다. 빈티지한 원목 인테리어와 커다란 화덕이 인상적이며, 얇으면서도 겉은 바삭하고 속은 부드러운 도우가 특징입니다. 네 가지 맛의 피자를 한 번에 맛볼 수 있는 콰트로 스타지오네가 인기 메뉴입니다.\n\n이 외에도 서울의 화덕피자 맛집들은 대부분 갓 구워낸 따끈한 피자가 담백하면서도 재료의 신선한 맛을 느낄 수 있도록 제공하고 있습니다. 방문하시려는 지역과 부모님의 취향을 고려하여 위 목록 중 선택하시면 만족스러운 식사를 하실 수 있을 것입니다.",
+          "status": "ok",
+          "citations": [
+            "siksinhot.com",
+            "secretseoul.com",
+            "visitseoul.net",
+            "joongang.co.kr",
+            "tistory.com",
+            "daily.co.kr"
+          ],
+          "cited_domains": [
+            "daily.co.kr",
+            "joongang.co.kr",
+            "secretseoul.com",
+            "siksinhot.com",
+            "tistory.com",
+            "visitseoul.net"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "마르게리따 제일 맛있는 집 어디야",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "서울 기준이면 **대학로 ‘핏제리아오’** 추천해.  \n마르게리타 중에서도 **마르게리따 부팔라** 시켜봐. 쫀득하고 담백한 도우에 토마토·바질·부팔라 치즈 맛이 깔끔하게 살아 있어서 기본 피자 좋아하면 만족도 높을 듯해. 2019년 세계 로마 피자 월드컵 우승 셰프가 있는 곳이고, 참나무 화덕에 구워. ([korean.visitkorea.or.kr](https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=c2d5f901-c45b-449b-bac3-33d93716f207&utm_source=openai))\n\n- **주소:** 서울 종로구 동숭길 86  \n- **영업:** 매일 11:30–22:00, 라스트오더 21:00  \n- **주문:** 마르게리따 부팔라 + 탄산수나 맥주\n\n홍대 쪽이 더 가까우면 **로쏘 1924**도 괜찮아. 상큼한 토마토 맛과 담백한 도우 쪽이고, 마르게리타 부팔라 후기도 좋은 편이야. ([diningcode.com](https://www.diningcode.com/profile.php?rid=EfAioB2oAZ0A&utm_source=openai))\n\n**서울 말고 지역** 말한 거면 동네 알려줘. 그 지역에서 하나만 골라줄게.",
+          "status": "ok",
+          "citations": [
+            "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=c2d5f901-c45b-449b-bac3-33d93716f207&utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=EfAioB2oAZ0A&utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "korean.visitkorea.or.kr"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "마르게리따(마르게리타 피자)를 맛있게 먹을 수 있는 곳을 찾고 계신 것 같은데, 구체적인 위치 정보가 필요합니다. \n\n다음 정보를 알려주시면 더 도움이 될 것 같습니다:\n\n1. **어느 지역인가요?** (예: 서울, 부산, 대구 등 또는 특정 구/동)\n2. **한국을 찾으시는 건가요, 아니면 다른 국가인가요?** (이탈리아에서는 나폴리가 마르게리타의 발상지입니다)\n\n지역 정보를 알려주시면, 평판이 좋은 마르게리타 맛집을 찾아드리겠습니다!",
+          "status": "ok",
+          "citations": [],
+          "cited_domains": []
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "마르게리따 피자가 가장 맛있는 곳은 개인의 취향에 따라 다를 수 있지만, 전통적인 나폴리식 마르게리따 피자로 유명하며 높은 평가를 받는 곳들을 추천해 드릴 수 있습니다.\n\n**세계적으로 인정받는 마르게리따 피자 맛집 (참고):**\n\n*   **나폴리 (이탈리아)**: 피자의 본고장인 나폴리에는 안티카 피체리아 다 미켈레(Antica Pizzeria da Michele), 지노 소르빌로(Gino Sorbillo), 피체리아 스타리타(Pizzeria Starita)와 같은 전설적인 피자집들이 있습니다. 이곳들은 단순한 재료로 완벽한 맛을 선사하는 것으로 유명합니다.\n*   **아테네 (그리스) Napul'e**: 2026년 '더 베스트 피자 어워즈(The Best Pizza Awards)'에서 세계 최고의 마르게리따 피자로 선정된 곳입니다.\n*   **멜버른 (호주) 400 Gradi**: 2014년에 세계 최고의 마르게리따 피자로 인정받은 바 있습니다.\n\n**서울에서 마르게리따 피자를 맛있게 즐길 수 있는 곳:**\n\n*   **스파카 나폴리 (Spaccanapoli)**: 이탈리아 현지인들에게도 추천받는 정통 나폴리 스타일 피자집입니다. 2019년부터 7년 연속 이탈리아의 유명 미식 가이드 '감베로 로쏘(Gambero Rosso)'에서 피자 조각 2개를 받았으며, 2025년 '50 Top Pizza Asia-Pacific'에서는 아시아-태평양 지역 9위에 올랐습니다. 이영우 셰프는 2015년 나폴리 피자 세계 챔피언십에서 한국인 최초로 우승한 경력이 있으며, 현재 나폴리피자 장인협회(APN) 한국 지부 회장을 맡고 있습니다.\n*   **로쏘 1924 (Rosso 1924)**: 홍대에 위치한 이 곳은 나폴리 피자의 정통 방식을 따르며, 100% 이탈리아산 원재료를 사용하고 이탈리아에서 온 헤드 셰프가 직접 피자를 굽습니다. 이탈리아의 유명 밀가루 업체인 Farina Caputo가 후원하는 나폴리 피자 장인 협회와도 깊은 관계를 맺고 있으며, 감베로 로쏘와 이탈리아 정부로부터 품질을 인정받았습니다.\n*   **마리오네 (Marione)**: 피자의 기원지인 나폴리 지역의 정통 방식을 고수하는 곳으로, 사장님이 정통 나폴리 피자의 모든 규칙을 철저히 따른다고 합니다. 한국에 있는 이탈리아 피자 가게 중 가장 나폴리식 피자에 가깝게 만든다는 평이 있습니다.\n\n이 외에도 전통 나폴리 화덕 피자를 제대로 만드는 곳으로 '도셰프'가 언급되기도 했습니다.",
+          "status": "ok",
+          "citations": [
+            "waug.com",
+            "youtube.com",
+            "falstaff.com",
+            "greekreporter.com",
+            "theguardian.com",
+            "reddit.com",
+            "noblesse.com",
+            "com2us.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "com2us.com",
+            "falstaff.com",
+            "greekreporter.com",
+            "noblesse.com",
+            "reddit.com",
+            "theguardian.com",
+            "tistory.com",
+            "waug.com",
+            "youtube.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "하남이랑 분당 둘 다 있는 화덕피자 브랜드 있어?",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "있어요. **리꼬 피자(RICCO)**가 하남과 분당에 둘 다 있습니다.\n\n- **하남미사 본점**: 경기 하남시 미사강변북로30번길 65 1층  \n- **분당미금점**: 경기 성남시 분당구 성남대로172번길 24, 1층 113·114호  \n  - 미금역 2번 출구에서 도보 약 3분\n- 두 매장 모두 **천연발효종 도우와 정통 나폴리 화덕피자**를 내세우는 같은 브랜드예요. ([ricco-pizza.com](https://ricco-pizza.com/bundang/))\n\n분당점은 2025년 10월에 문을 연 두 번째 매장으로 안내되어 있습니다. ([ricco-pizza.com](https://ricco-pizza.com/bundang/))",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/bundang/",
+            "https://ricco-pizza.com/bundang/"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "하남과 분당 두 지점 모두에 있는 화덕피자 브랜드를 찾기 위해 검색해드리겠습니다.검색 결과에서 하남 지점 정보는 나왔지만, 분당에도 있는 브랜드를 찾기 위해 다시 검색해보겠습니다.네, 찾았습니다! **리꼬 피자**가 하남과 분당 두 지점 모두에 있는 화덕피자 브랜드입니다. 분당에는 리꼬 피자 분당미금점이 있고, 하남에는 리꼬 화덕피자 하남미사 본점이 있습니다.\n\n리꼬 피자의 정보는 다음과 같습니다:\n\n**하남 지점 (하남미사 본점)**\n- 주소: 경기도 하남시 미사강변북로30번길 65 1층\n\n**분당 지점 (분당미금점)**\n- 분당구 금곡동 인근에 위치\n\n두 지점 모두 화덕피자와 파스타를 전문으로 하는 식당입니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=NJ6mXfmzBQsw",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EC%8B%9C+%ED%94%BC%EC%9E%90",
+            "http://montepizza.itrocks.kr/",
+            "https://penhoo.com/2606",
+            "https://www.xn--d485-kv6pg3nvob103g6yzaca291a.com/",
+            "https://brunch.co.kr/@takit2z/350",
+            "https://brunch.co.kr/@topasvga/2265",
+            "https://brunch.co.kr/@takit2z/324",
+            "https://brunch.co.kr/@hotcat/120",
+            "https://www.diningcode.com/profile.php?rid=TpzewbY0Vodj",
+            "https://www.diningcode.com/profile.php?rid=QQY13Byz9jFR",
+            "https://riccomisa.modoo.at/?pc=1",
+            "https://www.diningcode.com/list.dc?query=%EB%B6%84%EB%8B%B9+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EA%B8%88%EA%B3%A1%EB%8F%99+%ED%94%BC%EC%9E%90",
+            "https://en.wikipedia.org/wiki/Dangin-dong",
+            "https://en.wikipedia.org/wiki/Dangju-dong",
+            "https://en.wikipedia.org/wiki/Seorin-dong",
+            "https://en.wikipedia.org/wiki/Ssangnim-dong",
+            "https://www.diningcode.com/list.dc?query=%EB%B6%84%EB%8B%B9+%ED%94%BC%EC%9E%90"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "diningcode.com",
+            "en.wikipedia.org",
+            "montepizza.itrocks.kr",
+            "penhoo.com",
+            "riccomisa.modoo.at",
+            "xn--d485-kv6pg3nvob103g6yzaca291a.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "네, '리꼬 화덕피자'라는 브랜드가 하남과 분당 두 곳에 모두 있습니다. 리꼬 화덕피자는 하남미사 본점과 분당 미금역 지점을 운영하고 있습니다. 이 브랜드는 2017년 국내 최초로 이탈리아 밀가루 천연발효종 화덕피자를 선보였으며, 72시간 숙성 도우를 사용하는 것으로 알려져 있습니다.",
+          "status": "ok",
+          "citations": [
+            "ricco-pizza.com"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "미사강변 데이트 화덕피자 마르게리따 맛집",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "미사강변에서 **데이트 + 화덕피자 + 마르게리따**면 1순위로는 **더피제리아마켓 하남미사점** 추천해요.\n\n### 1순위: 더피제리아마켓 하남미사점\n- **분위기:** 유럽풍·캐주얼한 분위기라 데이트하기 좋음\n- **메뉴:** 뉴욕 마르게리타 화덕피자, 파스타, 샐러드\n- **위치:** 미사강변북로30번길 쪽, 망월호수공원 인근\n- **추천 조합:** 마르게리타 + 파스타 1개 + 맥주나 와인\n- 평일에는 브레이크타임이 있는 것으로 소개되어 있어 방문 전 확인하는 게 좋아요. ([superchart.com](https://superchart.com/ko/%40paper-bag-rounds/hanam-misa-shrimp-boat-pizza-truffle-pasta/?utm_source=openai))\n\n### 2순위: 몽뜨화덕피자\n- 미사조정경기장 맞은편이라 **식사 후 산책 데이트**까지 연결하기 좋아요.\n- 마르게리따를 비롯해 갈릭고르곤졸라, 루꼴라 등 피자 메뉴가 다양하고 매장도 비교적 넓은 편으로 소개돼요. ([tripinfo.co.kr](https://www.tripinfo.co.kr/info.html?content_id=2910823&content_type_id=39&device=pc&navi=food_rank-gyeonggii&utm_source=openai))\n\n### 3순위: 리꼬피자 하남\n- 분위기보다는 **피자 자체**, 특히 기본 마르게리타 맛을 중요하게 보면 후보예요.\n- 도우 가장자리와 토마토·모짜렐라·바질 조합에 대한 후기가 괜찮습니다. ([pandarank.net](https://pandarank.net/contents/69e96a23a8af33c8bd06c8e4?utm_source=openai))\n\n**딱 하나 고르면:**  \n> **더피제리아마켓 하남미사점 → 식사 후 망월호수공원 산책**\n\n주말 저녁이면 웨이팅이나 주차가 있을 수 있으니, 출발 전에 지도 앱에서 **당일 영업시간·휴무·대기 여부**만 확인하고 가세요.",
+          "status": "ok",
+          "citations": [
+            "https://superchart.com/ko/%40paper-bag-rounds/hanam-misa-shrimp-boat-pizza-truffle-pasta/?utm_source=openai",
+            "https://www.tripinfo.co.kr/info.html?content_id=2910823&content_type_id=39&device=pc&navi=food_rank-gyeonggii&utm_source=openai",
+            "https://pandarank.net/contents/69e96a23a8af33c8bd06c8e4?utm_source=openai"
+          ],
+          "cited_domains": [
+            "pandarank.net",
+            "superchart.com",
+            "tripinfo.co.kr"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "미사강변에서 데이트하기 좋은 화덕피자 마르게리따 맛집을 찾고 계시네요. 한국의 지역 맛집 정보를 더 정확하게 찾아드리겠습니다.미사강변에서 데이트하기 좋은 화덕피자 마르게리따 맛집을 찾으셨다면, 강변역 근처의 **도치피자**를 추천드립니다.\n\n## 도치피자 (강변점)\n\n분위기 좋은 화덕피자에 맥주 한잔, 테라스 야장이 있는 강변역 데이트 맛집입니다.\n\n**주요 특징:**\n- 화덕에서 구워내는 피자를 판매하는 곳인데 분위기도 좋고 테라스 자리까지 있어서 저녁에 데이트하기 딱 괜찮은 곳\n- 햇살 좋은 날 테라스에 앉으면 서울 한복판에서도 제법 유럽 감성이 느껴집니다\n- 주차: 앞마당에 차량 5대 정도 가능\n\n**마르게리따 추천:**\n- 마르게리따 피자를 가장 추천하며, 화덕피자 특유의 쫄깃하고 살짝 그을린 도우 맛이 좋습니다\n- 마르게리따 가격: 25,000원\n\n피자 맛도 좋지만 공간 분위기까지 좋아서 날씨 좋은 날 천천히 식사하기 좋은 강변역 맛집입니다. 혼자가 아닌 함께 즐길 수 있는 피자와 와인, 맥주도 갖추고 있어 데이트 장소로 정말 좋습니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=h8RDQg08xZ4E",
+            "https://polle.com/place/1bmZue/%ED%94%BC%EC%A0%9C%EB%A6%AC%EC%95%84%20%EB%9D%BC%EB%A5%B4%EB%8F%84",
+            "https://www.diningcode.com/list.dc?query=%EA%B0%95%EB%A6%89++%EB%A7%88%EB%A5%B4%EA%B2%8C%EB%A6%AC%ED%83%80%ED%94%BC%EC%9E%90",
+            "https://en.wikipedia.org/wiki/Quad_City%E2%80%93style_pizza",
+            "https://brunch.co.kr/@takit2z/327",
+            "https://en.wikipedia.org/wiki/Mad_for_Garlic",
+            "https://guide.michelin.com/kr/ko/quintana-roo/tulum_2069429/restaurant/posada-margherita",
+            "https://en.wikipedia.org/wiki/Fiotto",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu",
+            "https://www.diningcode.com/profile.php?rid=DcepweicBlBu"
+          ],
+          "cited_domains": [
+            "brunch.co.kr",
+            "diningcode.com",
+            "en.wikipedia.org",
+            "guide.michelin.com",
+            "polle.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "미사강변에서 데이트와 화덕피자 마르게리따를 즐기시기에 좋은 맛집으로 '리꼬 화덕피자 하남미사 본점'을 추천합니다.\n\n**리꼬 화덕피자 하남미사 본점**\n이곳은 화덕피자로 좋은 평을 받고 있으며, 특히 마르게리따 피자를 맛볼 수 있습니다. 여러 후기에서 만족도가 높고, 재방문하는 손님들도 있을 정도로 인기가 좋은 곳입니다.\n\n*   **주소:** 경기도 하남시 미사강변북로30번길 65 1충\n*   **영업시간:** 매일 11:00 - 21:00 (브레이크 타임 15:00 - 17:00, 라스트 오더 20:00)\n\n**그 외 데이트하기 좋은 이탈리안 레스토랑**\n한강뷰를 즐기며 데이트하기 좋은 이탈리안 레스토랑으로는 '보께리우'도 있습니다. 파스타, 리조또, 피자, 스테이크 등을 제공하며, 한강뷰 통창 좌석이 인기로 사전 예약을 권장합니다. 피자 메뉴가 있지만, 화덕피자인지는 명확히 언급되어 있지 않습니다.",
+          "status": "ok",
+          "citations": [
+            "tistory.com",
+            "koreacharts.com",
+            "siksinhot.com"
+          ],
+          "cited_domains": [
+            "koreacharts.com",
+            "siksinhot.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "하남 미사 가족외식 소화 잘되는 화덕피자",
+      "results": {
+        "chatgpt": {
+          "exposed": false,
+          "response": "하남 **미사에서 가족외식 + 속 편한 화덕피자**라면 1순위로는 **더피제리아마켓 하남미사점**을 추천드려요.\n\n### 1순위: 더피제리아마켓 하남미사\n- 미사호수공원 근처 화덕피자·파스타 전문점\n- 사워도우 스타일 도우라 일반 팬피자보다 비교적 담백한 편으로 소개됨\n- 피자와 파스타, 샐러드를 함께 시키기 좋아 가족 외식에 적합\n- 테라스와 넓은 좌석이 있어 분위기도 괜찮다는 후기가 많음 ([superchart.com](https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai))\n- **추천 주문:** 마르게리타 또는 채소 토핑 피자 + 샐러드  \n- 피해야 할 메뉴: 페퍼로니, 치즈 과다 피자, 크림파스타, 감자튀김\n\n### 2순위: 포글리나 하남미사\n- 미사 지역에서 화덕피자와 파스타로 많이 찾는 곳\n- 가족 식사로 무난하고 피자 외 메뉴 선택지도 있는 편\n- 다만 방문 전 주말 웨이팅과 주차 여부는 확인하는 게 좋아요. ([diningcode.com](https://www.diningcode.com/profile.php?rid=W2gzxj3Qu2VY&utm_source=openai))\n\n### 미사리 쪽까지 이동 가능하면: 몽뜨화덕피자\n- 미사 신도시보다는 미사리·경정공원 쪽에 가까운 분위기 좋은 화덕피자집\n- 공간이 넓고 가족모임이나 드라이브 외식에 어울린다는 후기가 있습니다. ([menupan.com](https://www.menupan.com/Restaurant/GoodRest/GoodRest_View.asp?ID=180343&utm_source=openai))\n\n## 속 편하게 먹는 주문법\n- **마르게리타, 버섯·채소 피자**처럼 토핑이 단순한 메뉴\n- 치즈와 기름은 “적게” 요청\n- 피자만 많이 먹기보다 샐러드나 수프를 같이 주문\n- 도우 끝부분은 무리해서 다 먹지 않기\n- 아이나 어르신이 함께라면 매운 토핑·고르곤졸라·페퍼로니는 피하기\n\n**결론:** 미사호수공원 주변에서 바로 식사하려면 **더피제리아마켓**, 넓은 공간과 드라이브 분위기까지 원하면 **몽뜨화덕피자**가 가장 무난합니다. 단, 사워도우나 화덕피자도 개인별 소화 차이는 있으니 “소화가 잘된다”고 단정할 수는 없고, 담백한 메뉴로 드시는 것이 좋습니다.",
+          "status": "ok",
+          "citations": [
+            "https://superchart.com/ko/stores/the-pizzeria-market-hanam-misa/?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=W2gzxj3Qu2VY&utm_source=openai",
+            "https://www.menupan.com/Restaurant/GoodRest/GoodRest_View.asp?ID=180343&utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "menupan.com",
+            "superchart.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "I'll search for family-friendly restaurants in Haman (하남) Misa area that serve sourdough pizzas that are easy to digest.하남 미사 지역에서 가족 외식하기 좋은 화덕피자 맛집들을 추천해드립니다:\n\n## **리꼬 피자 하남미사 본점** ⭐ 추천\n리꼬 피자 하남미사 본점(화덕피자, ★4.7)는 미사의 대표 화덕피자 맛집입니다.\n\n**특징:**\n- 8년 넘게 미사신도시에서 미사 화덕피자 맛집으로 운영되며 100년 전통 이탈리아 밀가루로 반죽하여 쫄깃한 도우에 바삭한 식감의 다양한 화덕피자와 파스타를 제공\n- 나폴리 피자협회 공식 인증 화덕에서 이탈리아 정통 카푸토 밀가루로 구워냄\n- 가족외식 방문 기록이 13건으로 아이동반에도 적합\n- 미사강변주차타워 2시간 주차 지원\n\n**위치:** 경기도 하남시 미사강변북로 30번길 65 1층\n\n## **더피제리아마켓**\n하남 미사에서 화덕피자 맛집으로 손꼽히며 미사 상권 중심에 위치해 접근성이 좋음\n\n## **미사1피자**\n자극적인맛보단 재료 본연의 맛들이 적절히 어우러지게 담백한 것이 특징이며 식약처위생등격 매우우수를 획득한 깨끗한 오픈형주방으로, 소화 잘되는 담백한 맛의 피자를 찾으신다면 좋은 선택지입니다.\n\n화덕피자는 일반 피자보다 높은 온도에서 빠르게 구워져 소화가 더 잘되는 편입니다. 특히 리꼬 피자와 미사1피자는 가족 단위 방문객들이 많은 것으로 알려져 있습니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=WNnf2N4dHSdS",
+            "https://www.diningcode.com/profile.php?rid=u1lHKxTfcxAI",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC",
+            "https://blog.idataground.com/?p=490",
+            "https://forourtour.com/%ED%95%98%EB%82%A8-%EB%A7%9B%EC%A7%91/",
+            "https://tour.click1-tip.com/entry/%EB%AF%B8%EC%82%AC-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B810",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://brunch.co.kr/@hotcat/120",
+            "https://www.diningcode.com/profile.php?rid=u1lHKxTfcxAI",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EC%8B%9C+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC",
+            "https://www.daangn.com/kr/local-profile/%EB%AF%B8%EC%82%AC1%ED%94%BC%EC%9E%90-grj1hc11zy7d/",
+            "https://jidoro.com/store/2213575",
+            "https://brunch.co.kr/@takit2z/324",
+            "https://brunch.co.kr/@@myp/321",
+            "https://brunch.co.kr/@takit2z/327",
+            "https://brunch.co.kr/@takit2z/226",
+            "https://www.diningcode.com/list.dc?query=%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC",
+            "https://tour.click1-tip.com/entry/%EB%AF%B8%EC%82%AC-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B810",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://blog.idataground.com/?p=490",
+            "https://www.diningcode.com/profile.php?rid=WNnf2N4dHSdS",
+            "https://www.daangn.com/kr/local-profile/%EB%AF%B8%EC%82%AC1%ED%94%BC%EC%9E%90-grj1hc11zy7d/",
+            "https://www.daangn.com/kr/local-profile/%EB%AF%B8%EC%82%AC1%ED%94%BC%EC%9E%90-grj1hc11zy7d/"
+          ],
+          "cited_domains": [
+            "blog.idataground.com",
+            "brunch.co.kr",
+            "daangn.com",
+            "diningcode.com",
+            "forourtour.com",
+            "jidoro.com",
+            "keyzard.cc",
+            "tour.click1-tip.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "하남 미사 지역에서 가족 외식으로 소화 잘되는 화덕피자를 찾으신다면 '리꼬 피자 하남미사 본점'을 고려해 볼 수 있습니다.\n\n리꼬 피자는 2017년에 국내 최초로 이탈리아 밀가루 천연발효종 화덕피자를 선보인 곳으로, 72시간 숙성 도우를 사용한다고 합니다. 이러한 천연발효종과 긴 숙성 시간을 거친 도우는 소화에 도움이 될 수 있습니다. \"한국인 입맛에 맞는 이탈리안식 피자 최고네요\"와 같은 긍정적인 평가도 있습니다.\n\n**리꼬 피자 하남미사 본점 정보:**\n*   **영업시간:** 매일 11:00 - 21:00 (브레이크타임 15:00 - 17:00, 라스트오더 20:00)\n*   주말 점심 시간대에는 웨이팅이 있을 수 있으니, 오픈 시간에 맞춰 방문하는 것이 좋습니다.\n*   주차 공간이 협소할 수 있으며, 다이소 하남미사점 주차장을 2시간 지원하지만 도보로 7분 거리입니다.",
+          "status": "ok",
+          "citations": [
+            "ricco-pizza.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "하남 미사 벌집 콰트로 포르마지 먹을 수 있는 곳",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "하남 미사에서는 **리꼬 피자 하남미사 본점**에서 **벌집 콰트로 포르마지**를 먹을 수 있어요. ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))\n\n- **메뉴:** 벌집 콰트로 포르마지 — 약 **29,500~32,000원**  \n  지리산 벌꿀집, 모짜렐라·고르곤졸라·스모크치즈·크림치즈 구성입니다. ([diningcode.com](https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si&utm_source=openai))\n- **주소:** 경기 하남시 미사강변북로30번길 65, 1층\n- **전화:** 0507-1355-1898\n- **영업:** 매일 11:30~21:30  \n  브레이크타임 15:00~17:00 — 주말은 15:30~17:00\n- **주차:** 매장 주차는 어렵고, **미사강변주차타워 2시간 지원**이라고 안내되어 있습니다. ([ricco-pizza.com](https://ricco-pizza.com/?utm_source=openai))\n\n메뉴 가격과 판매 여부가 바뀔 수 있으니 방문 전 전화로 확인하고 가시는 게 좋아요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/?utm_source=openai",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si&utm_source=openai",
+            "https://ricco-pizza.com/?utm_source=openai"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "I'll search for information about where you can eat \"Quattro Formaggi\" pizza or food at Hanamdmisa Bulzip.찾아드렸습니다! 하남 미사에서 벌집 콰트로 포르마지 피자를 먹을 수 있는 곳은 **리꼬 피자 하남미사 본점**입니다.\n\n**가게 정보:**\n- **메뉴**: 벌집 콰트로 포르마지 - 지리산 뱀사골 천연 벌꿀집, 모짜렐라, 고르곤졸라, 스모크치즈, 크림 치즈로 구성되어 있습니다 (32,000원, 테이크아웃 시 10% 할인)\n\n- **특징**: 하남의 화덕피자 맛집으로 소문났으며, 화덕부터 이태리 밀가루까지 사용해 이탈리아 현지의 맛을 재현합니다.\n\n- **장점**: 깔끔한 인테리어, 잘 정돈된 셀프바, 자리에서 주문과 결제가 가능합니다.\n\n더 정확한 위치와 영업시간은 네이버 지도나 다이닝코드에서 \"리꼬 피자 하남미사 본점\"으로 검색하시면 상세한 정보를 확인하실 수 있습니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.siksinhot.com/taste?upHpAreaId=2&hpAreaId=1207&isBestOrd=N",
+            "https://www.hanam.go.kr/preview/764/20220908031856712_IPXS.xlsx.files/1.xhtml",
+            "https://www.diningcode.com/profile.php?rid=1HzpyDh9PFgA",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://en.wikipedia.org/wiki/Forte_di_Quattro",
+            "https://en.wikipedia.org/wiki/Miasageori_station",
+            "https://en.wikipedia.org/wiki/Hanam_Pungsan_station",
+            "https://en.wikipedia.org/wiki/Mia_station",
+            "https://blog.idataground.com/?p=490",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si"
+          ],
+          "cited_domains": [
+            "blog.idataground.com",
+            "diningcode.com",
+            "en.wikipedia.org",
+            "hanam.go.kr",
+            "siksinhot.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "하남 미사에서 벌집 콰트로 포르마지 피자를 드실 수 있는 곳은 '리꼬 화덕피자 하남미사 본점'입니다.\n\n이곳은 벌집이 통째로 얹어져 있는 비주얼과 치즈와의 조화가 좋은 벌집 콰트로 포르마지 피자로 알려져 있습니다.\n\n**리꼬 화덕피자 하남미사 본점 정보:**\n*   **영업시간:** 매일 11:00 - 21:00 (브레이크 타임 15:00 - 17:00, 라스트 오더 20:00)\n*   **전화번호:** 0507-1355-1898",
+          "status": "ok",
+          "citations": [
+            "tistory.com",
+            "click1-tip.com"
+          ],
+          "cited_domains": [
+            "click1-tip.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "분당 미금 제주 잠봉 비스마르크 피자 파는 곳",
+      "results": {
+        "chatgpt": {
+          "exposed": true,
+          "response": "분당 **미금역 리꼬 피자 분당미금점**에서 **제주 잠봉 비스마르크 피자**를 판매해요.\n\n- **가격:** 28,000원  \n- **주소:** 경기 성남시 분당구 성남대로172번길 24, 미금파크 1층 113·114호  \n- **미금역 2번 출구:** 도보 약 3분  \n- **영업시간:** 매일 11:30~21:30  \n  - 브레이크타임 15:00~17:00  \n- **전화:** 0507-1376-7903  \n- **주차:** 미금파크 지하주차장 2시간 무료 ([ricco-pizza.com](https://ricco-pizza.com/journal/migeum-pizza/))\n\n방문 전 재료 소진 여부는 전화나 네이버 예약에서 확인하는 게 좋아요.",
+          "status": "ok",
+          "citations": [
+            "https://ricco-pizza.com/journal/migeum-pizza/"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com"
+          ],
+          "searched": true,
+          "model": "gpt-5.6-luna"
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "죄송하지만, 한국어로 된 특정 지역의 피자 가게 정보를 찾기 위해 웹 검색을 시도하겠습니다.좋은 소식입니다! 분당 미금 지역에서 비스마르크 피자를 파는 곳을 찾았습니다.\n\n**리꼬 피자 분당미금점**에서 화덕피자와 비스마르크피자를 판매합니다.\n\n이 외에도 분당 미금 지역에는 여러 피자 전문점들이 있습니다. 더 구체적인 위치나 연락처가 필요하시면 다시 검색해 드리겠습니다.",
+          "status": "ok",
+          "citations": [
+            "https://www.esquirekorea.co.kr/article/49891",
+            "https://www.diningcode.com/profile.php?rid=F2XViD4oXSjA",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%B6%84%EB%8B%B9+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EA%B8%88%EA%B3%A1%EB%8F%99+%ED%94%BC%EC%9E%90",
+            "https://www.diningcode.com/list.dc?query=%EB%AF%B8%EA%B8%88%EC%97%AD+%ED%8C%8C%EC%8A%A4%ED%83%80",
+            "https://www.diningcode.com/list.dc?query=%EB%B9%84%EC%8A%A4%EB%A7%88%EB%A5%B4%ED%81%AC%ED%94%BC%EC%9E%90",
+            "https://www.timeout.com/ko/restaurants/이-10가지-푸드마크에서-전-세계-피자-투어를-즐겨보세요",
+            "https://guide.michelin.com/kr/ko/selection/south-korea/restaurants/page/2",
+            "https://www.diningcode.com/list.dc?query=%EB%B9%84%EC%8A%A4%EB%A7%88%EB%A5%B4%ED%81%AC%ED%94%BC%EC%9E%90"
+          ],
+          "cited_domains": [
+            "diningcode.com",
+            "esquirekorea.co.kr",
+            "guide.michelin.com",
+            "timeout.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "분당 미금에서 제주 잠봉 비스마르크 피자를 판매하는 곳은 '리꼬피자 분당미금점'입니다.\n\n리꼬피자 분당미금점은 경기 성남시 분당구 성남대로172번길 24 1층에 위치하고 있습니다. 해당 지점의 제주잠봉 비스마르크 피자 가격은 28,000원입니다.",
+          "status": "ok",
+          "citations": [
+            "instagram.com"
+          ],
+          "cited_domains": [
+            "instagram.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "bundang"
+    },
+    {
+      "query": "분당 블루리본 화덕피자 맛집 추천",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "error",
+          "error": "Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "저는 실시간으로 변하는 맛집 정보와 최신 평가를 확인하기 위해 검색해드리겠습니다.분당의 블루리본 화덕피자 맛집을 추천해드립니다:\n\n## 1. **라라테이블** (수내동)\n3일 동안 숙성한 피자 도우를 이탈리아 나폴리 방식 그대로 화덕에 구워내는 피자를 선보이는 곳입니다. 숲 속에 둘러싸인 아늑한 분위기의 이탈리안 레스토랑으로, 뒷편이 분당 불곡산이어서 분위기와 공기가 매우 좋습니다. 화덕피자와 파스타가 특히 인기 있으며, 신선한 식자재와 정성스러운 요리가 돋보이고, 와인과 함께 즐기는 브런치나 저녁 식사 모두 강력 추천합니다.\n\n## 2. **피제리아비니스** (판교)\n판교도서관 앞에 위치한 피제리아비니스는 정통 이탈리안 피자와 파스타가 유명한 곳으로, 직접 반죽한 도우와 신선한 재료로 만든 피자는 블루리본을 받을 만한 퀄리티를 자랑합니다. 매장 안에 있는 커다란 화덕피자에서 갓 구운 따끈한 피자를 한 입 넣으면 행복감이 밀려올 것입니다.\n\n두 곳 모두 분당 지역의 블루리본 인증 맛집으로, 정통 이탈리안 화덕피자를 즐길 수 있는 훌륭한 선택입니다!",
+          "status": "ok",
+          "citations": [
+            "https://www.diningcode.com/profile.php?rid=QQY13Byz9jFR",
+            "https://www.diningcode.com/profile.php?rid=BKUcNKP3wWxp",
+            "https://www.diningcode.com/profile.php?rid=sFJJEgTLSs8p",
+            "https://blog.hangadac.com/2025/06/04/%EB%B6%84%EB%8B%B9-%EB%B8%94%EB%A3%A8%EB%A6%AC%EB%B3%B8-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B8-5-%EB%9D%BC%EB%9D%BC%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B8%94%EB%A3%A8%EB%A9%94%EC%AF%94%EB%B6%80/",
+            "https://brunch.co.kr/@hotcat/120",
+            "https://brunch.co.kr/@takit2z/226",
+            "https://brunch.co.kr/@takit2z/322",
+            "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/ggupdang",
+            "https://www.thetvdb.com/series/wednesday-food-talk/episodes/5661329",
+            "https://www.diningcode.com/profile.php?rid=QQY13Byz9jFR",
+            "https://blog.hangadac.com/2025/06/04/%EB%B6%84%EB%8B%B9-%EB%B8%94%EB%A3%A8%EB%A6%AC%EB%B3%B8-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B8-5-%EB%9D%BC%EB%9D%BC%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B8%94%EB%A3%A8%EB%A9%94%EC%AF%94%EB%B6%80/",
+            "https://blog.hangadac.com/2025/06/04/%EB%B6%84%EB%8B%B9-%EB%B8%94%EB%A3%A8%EB%A6%AC%EB%B3%B8-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B8-5-%EB%9D%BC%EB%9D%BC%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B8%94%EB%A3%A8%EB%A9%94%EC%AF%94%EB%B6%80/",
+            "https://blog.hangadac.com/2025/06/04/%EB%B6%84%EB%8B%B9-%EB%B8%94%EB%A3%A8%EB%A6%AC%EB%B3%B8-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B8-5-%EB%9D%BC%EB%9D%BC%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B8%94%EB%A3%A8%EB%A9%94%EC%AF%94%EB%B6%80/",
+            "https://blog.hangadac.com/2025/06/04/%EB%B6%84%EB%8B%B9-%EB%B8%94%EB%A3%A8%EB%A6%AC%EB%B3%B8-%EB%A7%9B%EC%A7%91-%EB%B2%A0%EC%8A%A4%ED%8A%B8-5-%EB%9D%BC%EB%9D%BC%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%B8%94%EB%A3%A8%EB%A9%94%EC%AF%94%EB%B6%80/"
+          ],
+          "cited_domains": [
+            "blog.hangadac.com",
+            "brunch.co.kr",
+            "diningcode.com",
+            "guide.michelin.com",
+            "thetvdb.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "분당에서 블루리본 서베이에 선정된 화덕피자 맛집은 다음과 같습니다.\n\n*   **돈파스타 (Don Pasta)**: 분당 서현에 위치한 돈파스타는 블루리본과 망고플레이트에서 추천하는 화덕피자 맛집입니다. 2000년부터 운영되어 온 곳으로, 전통 나폴리 피자를 선보이며 단골이 많은 숨은 맛집으로 알려져 있습니다.\n*   **피제리아 비니스 (Pizzeria Vinys)**: 판교에 위치한 피제리아 비니스는 이탈리아 정통 화덕피자를 맛볼 수 있는 곳으로, 블루리본 인증을 받은 나폴리식 화덕피자 전문점입니다. 분당 블루리본 맛집 중 하나로 꼽히며, 아늑한 분위기에서 화덕피자와 파스타를 즐길 수 있습니다.\n*   **라라테이블 (Lala Table)**: 분당 수내동에 있는 라라테이블은 5년 연속 블루리본 서베이에 이름을 올린 검증된 이탈리안 레스토랑입니다. 이곳에서는 화덕에서 갓 구워낸 피자를 포함한 수준 높은 이탈리안 요리를 맛볼 수 있습니다.",
+          "status": "ok",
+          "citations": [
+            "tistory.com",
+            "tistory.com",
+            "instagram.com",
+            "hangadac.com",
+            "hangadac.com"
+          ],
+          "cited_domains": [
+            "hangadac.com",
+            "instagram.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "is_negative_control": true
+    },
+    {
+      "query": "리꼬 화덕피자 어떤 곳이야? 평점이랑 특징 알려줘",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "error",
+          "error": "Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "리꼬 화덕피자에 대해 검색해드리겠습니다.리꼬 화덕피자에 대해 알려드리겠습니다.\n\n## 어떤 곳?\n\n리꼬는 우리밀과 천연발효종으로 만든 건강하고 맛있는 화덕피자 전문점입니다. 2017년부터 9년 넘게, 72시간 천연발효종 도우만 고집한 하남미사 화덕피자 전문점이며, 경기도 하남시에 위치해 있습니다.\n\n## 평점\n\n네이버 리뷰 2만 5천 건 이상, 구글 평점 4.8점 (2026년 10월 기준)으로 평가받고 있습니다.\n\n## 주요 특징\n\n- **정통성**: 나폴리 피자협의(AVPN)가 공식 인정한 '스테파노 페라라' 화덕에서 450도의 고온에서 1분만에 구워냅니다.\n\n- **프리미엄 재료**: 바질, 루꼴라를 제외한 모든 제품은 100% 이탈리아 현지에서 수입하며 24시간 이상 저온 숙성한 도우, 부팔라 모짜렐라를 사용합니다.\n\n- **도우의 특징**: 긴 숙성 덕분에 풍미가 깊고, 속이 편한 것이 특징입니다.\n\n- **다양한 메뉴**: 파스타와 리조또는 이탈리아 음식을 베이스지만 한국인의 입맛에 맞는 메뉴들이 준비되어 있으며, 파스타면은 이탈리아 프리미엄 파스타 '룸모' 제품만 사용합니다.",
+          "status": "ok",
+          "citations": [
+            "https://litt.ly/riccoonhwadeok",
+            "https://www.tripadvisor.co.kr/Restaurant_Review-g1074126-d25261844-Reviews-Rico-Hanam_Gyeonggi_do.html",
+            "https://www.diningcode.com/profile.php?rid=ZmrOAdDuT1si",
+            "https://www.daangn.com/kr/local-profile/?in=%ED%92%8D%EC%82%B0%EB%8F%99-1657&search=%ED%8C%A8%EB%B0%80%EB%A6%AC%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-1499209/",
+            "https://keyzard.cc/views/nb/aywwMTs-OzsmZWVtbWtsa2lnaGttam0",
+            "https://en.wikipedia.org/wiki/Giorgio%27s_Pizza",
+            "https://en.wikipedia.org/wiki/Pizzeria",
+            "https://en.wikipedia.org/wiki/Louis_Ricco",
+            "https://litt.ly/riccoonhwadeok",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-1499209/",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-1499209/",
+            "https://www.tripadvisor.co.kr/Restaurant_Review-g1074126-d25261844-Reviews-Rico-Hanam_Gyeonggi_do.html",
+            "https://www.tripadvisor.co.kr/Restaurant_Review-g1074126-d25261844-Reviews-Rico-Hanam_Gyeonggi_do.html",
+            "https://www.daangn.com/kr/local-profile/%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-%EB%8F%99%EB%84%A4%EC%97%85%EC%B2%B4-%EB%A6%AC%EA%BC%AC-%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90-%ED%95%98%EB%82%A8%EB%AF%B8%EC%82%AC-%EB%B3%B8%EC%A0%90-1499209/",
+            "https://www.tripadvisor.co.kr/Restaurant_Review-g1074126-d25261844-Reviews-Rico-Hanam_Gyeonggi_do.html"
+          ],
+          "cited_domains": [
+            "daangn.com",
+            "diningcode.com",
+            "en.wikipedia.org",
+            "keyzard.cc",
+            "litt.ly",
+            "tripadvisor.co.kr"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "리꼬 화덕피자는 2017년 국내 최초로 이탈리아 밀가루 천연발효종 화덕피자를 선보인 곳으로, 72시간 저온 숙성 도우를 사용하는 것이 특징입니다.\n\n**주요 특징:**\n*   **천연발효종 72시간 숙성 도우:** 24시간 천연발효종 숙성, 48시간 저온 숙성을 거쳐 총 72시간의 정성으로 만들어진 도우를 사용합니다.\n*   **나폴리 피자 장인 협회(APN) 정회원 셰프:** 대표는 르꼬르동블루를 수료했으며, 여러 명의 셰프가 나폴리 피자 장인협회(APN) 정회원입니다.\n*   **신선한 재료:** 피자, 파스타, 샐러드 등 모든 메뉴는 당일 신선한 재료로 준비됩니다.\n*   **주요 메뉴:** 시그니처 메뉴로는 리꼬 마르게리따와 벌집 콰트로 포르마지가 있습니다.\n*   **매장 위치:** 하남미사 본점과 분당 미금역 근처에 분당미금점을 운영하고 있습니다.\n*   **화덕피자의 특징:** 400~500도 이상의 초고온 화덕에서 순식간에 구워내어 겉은 바삭하고 속은 쫄깃하며, 화덕 특유의 은은한 불향을 느낄 수 있습니다.\n\n**평점:**\n리꼬 화덕피자 하남미사 본점은 네이버 방문자 리뷰가 2655개, 블로그 리뷰가 835개에 달하며, 평점은 4.8로 높은 만족도를 보이고 있습니다. 한 리뷰에서는 매우 만족하여 재방문 후 작성할 만큼 강력하게 추천하는 맛집으로 언급되었습니다.",
+          "status": "ok",
+          "citations": [
+            "ricco-pizza.com",
+            "a-ha.io",
+            "tistory.com",
+            "saramin.co.kr"
+          ],
+          "cited_domains": [
+            "a-ha.io",
+            "ricco-pizza.com",
+            "saramin.co.kr",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "brand"
+    },
+    {
+      "query": "best wood-fired pizza near Hanam Misa",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "error",
+          "error": "Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": true,
+          "response": "I'll search for the best wood-fired pizza options near Hanam Misa for you.Based on the search results, here are some great wood-fired pizza options near Hanam Misa:\n\n## The Pizzeria Market Hanam Misa\n\nLocated near the lake park trail, behind the Starbucks in Hanam Misa and next to Kyochon Chicken, this restaurant offers a welcoming atmosphere. Their pizza dough is exceptionally delicious, using a natural sourdough that's crispy and savory like a baguette, with Italian Caputo flour and organic whole wheat blended in their own dough lab and then slow-fermented at low temperatures for 48 hours. \n\n**Address:** 1st floor, 129, Misa gangbyeonbuk-ro 30beon-gil, Hanam-si, Gyeonggi-do  \n**Hours:** Daily 11:00 - 22:00 (Last Order 21:00), Break Time 15:00 - 17:00 (No Break Time on Weekends)\n\n## Ricco Oven Pizza Hanam Misa Main\n\nLocated at 106 Misagangbyeonbuk-ro 30beon-gil, Hanam-si, Gyeonggi-do, this restaurant offers wood-fired pizzas with fresh ingredients and crispy crusts, along with homemade pastas and salads.\n\nBoth restaurants specialize in wood-fired pizza and are conveniently located in the Hanam Misa area!",
+          "status": "ok",
+          "citations": [
+            "https://www.atly.com/united-states/best-authentic-wood-fired-pizza",
+            "https://www.tastingtable.com/2016112/restaurants-best-wood-fired-pizza/",
+            "https://www.yelp.com/nearme/wood-fired-pizza",
+            "https://www.wassupkorea.com/food/the-pizzeria-market-hanam-misa-delicious-pizza-in/",
+            "https://en.wikipedia.org/wiki/Pizzeria_Otto",
+            "https://en.wikipedia.org/wiki/Ken%27s_Artisan_Pizza",
+            "https://www.yelp.com/search?find_desc=wood+fired+pizza&find_loc=Mesa%2C+AZ",
+            "https://en.wikipedia.org/wiki/Handsome_Pizza",
+            "https://wanderboat.ai/restaurants/south-korea/hanam-si/We2-5BViTUiylra2JhFGBw",
+            "https://theculinarygene.com/vetted/best-wood-fired-pizza-oven-outdoor-premium/",
+            "https://www.wassupkorea.com/food/the-pizzeria-market-hanam-misa-delicious-pizza-in/",
+            "https://www.wassupkorea.com/food/the-pizzeria-market-hanam-misa-delicious-pizza-in/",
+            "https://www.wassupkorea.com/food/the-pizzeria-market-hanam-misa-delicious-pizza-in/",
+            "https://www.wassupkorea.com/food/the-pizzeria-market-hanam-misa-delicious-pizza-in/",
+            "https://wanderboat.ai/restaurants/south-korea/hanam-si/We2-5BViTUiylra2JhFGBw"
+          ],
+          "cited_domains": [
+            "atly.com",
+            "en.wikipedia.org",
+            "tastingtable.com",
+            "theculinarygene.com",
+            "wanderboat.ai",
+            "wassupkorea.com",
+            "yelp.com"
+          ]
+        },
+        "gemini": {
+          "exposed": true,
+          "response": "If you're looking for delicious wood-fired pizza near Hanam Misa, two highly-regarded options stand out: The Pizzeria Market Hanam Misa and Rico Pizza Hanam Misa Main Branch (리꼬 화덕피자 하남미사 본점).\n\n**The Pizzeria Market Hanam Misa** offers New York-style, handmade wood-fired pizzas with dough that is cold-fermented for 48 hours. Popular menu items include a half-and-half ricotta honey pepperoni and truffle mushroom wood-fired pizza, and a handmade olive pesto arugula pizza boat. They also serve truffle mushroom cream pasta. The restaurant is known for its atmospheric setting, suitable for dates and family meals, and is even dog-friendly. You can find it near Mangwol Lake Park, behind the Starbucks Hanam Misa branch. The Pizzeria Market Hanam Misa operates from 11:00 AM to 9:00 PM on weekdays and Sundays, with a break from 3:00 PM to 5:00 PM on weekdays. On Saturdays, they are open until 9:30 PM. They are closed on Mondays.\n\n**Rico Pizza Hanam Misa Main Branch (리꼬 화덕피자 하남미사 본점)** is recognized for its Italian-style pizzas made with natural Italian sourdough, fermented for 72 hours, and prepared by an APN (Associazione Pizzaiuoli Napoletani) certified chef. Reviewers have praised their \"honeycomb pizza\" (벌집 피자) and noted that the Italian-style pizza is well-suited to Korean tastes. Rico Pizza Hanam Misa Main Branch is open daily from 11:00 AM to 9:00 PM, with a break time from 3:00 PM to 5:00 PM and a last order at 8:00 PM.",
+          "status": "ok",
+          "citations": [
+            "superchart.com",
+            "superchart.com",
+            "superchart.com",
+            "superchart.com",
+            "superchart.com",
+            "ricco-pizza.com",
+            "tistory.com"
+          ],
+          "cited_domains": [
+            "ricco-pizza.com",
+            "superchart.com",
+            "tistory.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "hanam"
+    },
+    {
+      "query": "authentic Neapolitan pizza in Bundang or Seongnam",
+      "results": {
+        "chatgpt": {
+          "exposed": null,
+          "response": null,
+          "status": "error",
+          "error": "Error code: 429 - You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+        },
+        "perplexity": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        },
+        "claude": {
+          "exposed": false,
+          "response": "I'll search for authentic Neapolitan pizza restaurants in the Bundang and Seongnam area.Based on my search results, here are authentic Neapolitan pizza options in the Bundang and Seongnam area:\n\n## Homies Pizza\nHomies Pizza is located at 1F, 9, Najeong-ro 129beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do and opens at 11:00.\n\n## Crimson Pizza\nCrimson Pizza is located at 226-4, Jeongja-dong, Bundang-gu, Seongnam, Gyeonggi-do.\n\nThese are the restaurants specifically listed as being in the Bundang/Seongnam area. If you're looking for other highly-regarded authentic Neapolitan pizzerias in the greater Seoul area, there are also options like Vera Pizza Napoli in Hannam-dong, which specializes in authentic Neapolitan pizzas certified by the Napoli Pizza Association.\n\nI'd recommend calling ahead to confirm current hours and availability before visiting!",
+          "status": "ok",
+          "citations": [
+            "https://autoreserve.com/en/kr/pizza",
+            "https://www.tripadvisor.com/Restaurant_Review-g2024873-d34272165-Reviews-Nipong_Naepong_Bundang_Seohyeon-Seongnam_Gyeonggi_do.html",
+            "https://www.tripadvisor.com/Restaurant_Review-g2024873-d4122788-Reviews-Crimson_Pizza-Seongnam_Gyeonggi_do.html",
+            "https://wanderlog.com/list/geoCategory/411/best-italian-restaurants-in-seoul",
+            "https://www.corner.inc/guides/seoul/seoul/slice-life-best-pizza-spots-in-seoul",
+            "https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country",
+            "https://en.wikipedia.org/wiki/Neapolitan_pizza",
+            "https://restaurantguru.com/neapolitan-pizza-Seoul-m7229",
+            "https://en.wikipedia.org/wiki/Bundang",
+            "https://autoreserve.com/en/kr/pizza",
+            "https://www.tripadvisor.com/Restaurant_Review-g2024873-d4122788-Reviews-Crimson_Pizza-Seongnam_Gyeonggi_do.html",
+            "https://wanderlog.com/list/geoCategory/411/best-italian-restaurants-in-seoul"
+          ],
+          "cited_domains": [
+            "autoreserve.com",
+            "corner.inc",
+            "en.wikipedia.org",
+            "restaurantguru.com",
+            "tripadvisor.com",
+            "wanderlog.com"
+          ]
+        },
+        "gemini": {
+          "exposed": false,
+          "response": "The search results from the second step provided a significant lead for Seongnam/Bundang. \"Raon Sik Tak Pangyo Branch\" in Bundang-gu, Seongnam, is explicitly described as an Italian restaurant serving \"wood-fired pizza baked with 72-hour fermented dough\" and highlights its \"wood-fired oven in one corner of the restaurant, so you can actually watch the pizzas being baked.\" The description of the pizza's crust (\"fresh from the wood-fired oven, the crust edges were golden brown, and the cheese stretched in long strings with rich flavor\" and \"chewy wood-fired dough\") strongly suggests Neapolitan characteristics. While not explicitly mentioning AVPN certification, the detailed description of traditional preparation methods and equipment is a strong indicator of authenticity.\n\nThe other search results primarily focused on Seoul or other regions and reiterated the criteria for authentic Neapolitan pizza (AVPN certification, wood-fired ovens, specific ingredients). There were no other specific mentions of authentic Neapolitan pizza restaurants in Bundang or Seongnam with the same level of detail as Raon Sik Tak.\n\nTherefore, I have enough information to answer the user's request.\nIn the Bundang-gu area of Seongnam, **Raon Sik Tak Pangyo Branch** appears to offer authentic Neapolitan-style pizza. This Italian restaurant, located on Baekhyeon-dong café street, is known for its wood-fired pizza made with 72-hour fermented dough.\n\nPatrons can observe their pizzas being baked in a wood-fired oven on-site. Descriptions of their pizza highlight a chewy, golden-brown crust and rich cheese, indicative of traditional Neapolitan preparation. Their Cotto e Ricotta pizza, for example, features cotto ham and ricotta cheese on a fresh, hand-kneaded, wood-fired dough.",
+          "status": "ok",
+          "citations": [
+            "superchart.com"
+          ],
+          "cited_domains": [
+            "superchart.com"
+          ]
+        },
+        "clovax": {
+          "exposed": null,
+          "response": null,
+          "status": "skipped",
+          "error": null
+        }
+      },
+      "store": "bundang"
+    }
+  ],
+  "summary": {
+    "chatgpt": {
+      "exposed_count": 14,
+      "total": 29,
+      "errored": 3,
+      "skipped": false,
+      "rate": 0.483
+    },
+    "perplexity": {
+      "exposed_count": 0,
+      "total": 0,
+      "errored": 0,
+      "skipped": true,
+      "rate": 0.0
+    },
+    "claude": {
+      "exposed_count": 13,
+      "total": 29,
+      "errored": 0,
+      "skipped": false,
+      "rate": 0.448
+    },
+    "gemini": {
+      "exposed_count": 13,
+      "total": 29,
+      "errored": 0,
+      "skipped": false,
+      "rate": 0.448
+    },
+    "clovax": {
+      "exposed_count": 0,
+      "total": 0,
+      "errored": 0,
+      "skipped": true,
+      "rate": 0.0
+    }
+  },
+  "by_store": {
+    "hanam": {
+      "chatgpt": {
+        "exposed_count": 5,
+        "total": 7,
+        "rate": 0.714
+      },
+      "perplexity": {
+        "exposed_count": 0,
+        "total": 0,
+        "rate": 0.0
+      },
+      "claude": {
+        "exposed_count": 6,
+        "total": 7,
+        "rate": 0.857
+      },
+      "gemini": {
+        "exposed_count": 7,
+        "total": 7,
+        "rate": 1.0
+      },
+      "clovax": {
+        "exposed_count": 0,
+        "total": 0,
+        "rate": 0.0
+      }
+    },
+    "bundang": {
+      "chatgpt": {
+        "exposed_count": 3,
+        "total": 5,
+        "rate": 0.6
+      },
+      "perplexity": {
+        "exposed_count": 0,
+        "total": 0,
+        "rate": 0.0
+      },
+      "claude": {
+        "exposed_count": 3,
+        "total": 5,
+        "rate": 0.6
+      },
+      "gemini": {
+        "exposed_count": 3,
+        "total": 5,
+        "rate": 0.6
+      },
+      "clovax": {
+        "exposed_count": 0,
+        "total": 0,
+        "rate": 0.0
+      }
+    },
+    "brand": {
+      "chatgpt": {
+        "exposed_count": 6,
+        "total": 17,
+        "rate": 0.353
+      },
+      "perplexity": {
+        "exposed_count": 0,
+        "total": 0,
+        "rate": 0.0
+      },
+      "claude": {
+        "exposed_count": 4,
+        "total": 17,
+        "rate": 0.235
+      },
+      "gemini": {
+        "exposed_count": 3,
+        "total": 17,
+        "rate": 0.176
+      },
+      "clovax": {
+        "exposed_count": 0,
+        "total": 0,
+        "rate": 0.0
+      }
+    }
+  },
+  "citations": {
+    "chatgpt": {
+      "diningcode.com": 12,
+      "ricco-pizza.com": 11,
+      "superchart.com": 10,
+      "tripinfo.co.kr": 2,
+      "koreatriptips.com": 2,
+      "love.seoul.go.kr": 2,
+      "pizzanapoletana.org": 2,
+      "beyondpost.co.kr": 2,
+      "korean.visitkorea.or.kr": 2,
+      "1000lucky-10000lucky.tistory.com": 1,
+      "letsstudytogether.tistory.com": 1,
+      "alleymag.com": 1,
+      "pf.kakao.com": 1,
+      "ramyselect.com": 1,
+      "placeview.co.kr": 1,
+      "economytalk.kr": 1,
+      "mag.nxsquare.com": 1,
+      "gilpost.com": 1,
+      "haniseoul.com": 1,
+      "itcck.org": 1,
+      "litt.ly": 1,
+      "pizzaiuolinapoletani.it": 1,
+      "thecomfunny.com": 1,
+      "theqoo.net": 1,
+      "yaminizm.com": 1,
+      "digitalchosun.dizzo.com": 1,
+      "monashfodmap.com": 1,
+      "www14.dominos.co.kr": 1,
+      "goorm.kr": 1,
+      "leekipedia.tistory.com": 1,
+      "stefanoferrara.co.kr": 1,
+      "tripadvisor.co.kr": 1,
+      "daangn.com": 1,
+      "hongsi.io": 1,
+      "pandarank.net": 1,
+      "menupan.com": 1
+    },
+    "perplexity": {},
+    "claude": {
+      "diningcode.com": 17,
+      "en.wikipedia.org": 15,
+      "brunch.co.kr": 11,
+      "guide.michelin.com": 8,
+      "keyzard.cc": 6,
+      "hotplacehunter.co.kr": 6,
+      "daangn.com": 4,
+      "triple.guide": 4,
+      "timeout.com": 4,
+      "blog.idataground.com": 3,
+      "siksinhot.com": 3,
+      "litt.ly": 3,
+      "thetvdb.com": 3,
+      "secretseoul.com": 3,
+      "view.nate.com": 3,
+      "namu.wiki": 3,
+      "kr.trip.com": 2,
+      "forourtour.com": 2,
+      "tripadvisor.com": 2,
+      "wanderlog.com": 2,
+      "threads.com": 2,
+      "imaeil.com": 2,
+      "infotrue.kr": 2,
+      "marieclairekorea.com": 2,
+      "10000recipe.com": 2,
+      "a-ha.io": 2,
+      "hankyung.com": 2,
+      "duli.co.kr": 1,
+      "hortitimes.com": 1,
+      "storyb.ryryangang.com": 1,
+      "tripstore.kr": 1,
+      "waug.com": 1,
+      "ko.wikipedia.org": 1,
+      "logifoodcoach.com": 1,
+      "the-pr.co.kr": 1,
+      "themac.co.kr": 1,
+      "leebommat.com": 1,
+      "maisonkorea.com": 1,
+      "woozooin.com": 1,
+      "food.daily.co.kr": 1,
+      "honestpizzalife.com": 1,
+      "jubangbank.co.kr": 1,
+      "kdfooding.com": 1,
+      "kurly.com": 1,
+      "serveq.co.kr": 1,
+      "store.kakao.com": 1,
+      "taczomarket.co.kr": 1,
+      "noblesse.com": 1,
+      "on.com2us.com": 1,
+      "economytalk.kr": 1,
+      "hellodd.com": 1,
+      "insight.co.kr": 1,
+      "lawissue.co.kr": 1,
+      "nextdaily.co.kr": 1,
+      "realfoods.co.kr": 1,
+      "theqoo.net": 1,
+      "ziksir.com": 1,
+      "chefs.co.kr": 1,
+      "m.cafe.daum.net": 1,
+      "thepowernews.co.kr": 1,
+      "asiae.co.kr": 1,
+      "cooktail.co.kr": 1,
+      "myplate.food": 1,
+      "nslocalfood.kr": 1,
+      "v.daum.net": 1,
+      "bbangmorning.com": 1,
+      "bonnguide.com": 1,
+      "bumkok.com": 1,
+      "hoonipizza.co.kr": 1,
+      "sentv.co.kr": 1,
+      "stefanoferrara.co.kr": 1,
+      "welfarehello.com": 1,
+      "ar.airbnb.com": 1,
+      "bongsuapizza.com": 1,
+      "cordonbleu.edu": 1,
+      "tiktok.com": 1,
+      "montepizza.itrocks.kr": 1,
+      "penhoo.com": 1,
+      "riccomisa.modoo.at": 1,
+      "xn--d485-kv6pg3nvob103g6yzaca291a.com": 1,
+      "polle.com": 1,
+      "jidoro.com": 1,
+      "tour.click1-tip.com": 1,
+      "hanam.go.kr": 1,
+      "esquirekorea.co.kr": 1,
+      "blog.hangadac.com": 1,
+      "tripadvisor.co.kr": 1,
+      "atly.com": 1,
+      "tastingtable.com": 1,
+      "theculinarygene.com": 1,
+      "wanderboat.ai": 1,
+      "wassupkorea.com": 1,
+      "yelp.com": 1,
+      "autoreserve.com": 1,
+      "corner.inc": 1,
+      "restaurantguru.com": 1
+    },
+    "gemini": {
+      "tistory.com": 20,
+      "youtube.com": 10,
+      "ricco-pizza.com": 7,
+      "instagram.com": 6,
+      "superchart.com": 5,
+      "nate.com": 4,
+      "joongang.co.kr": 4,
+      "secretseoul.com": 4,
+      "daum.net": 3,
+      "siksinhot.com": 3,
+      "click1-tip.com": 2,
+      "com2us.com": 2,
+      "daily.co.kr": 2,
+      "noblesse.com": 2,
+      "eyesmag.com": 2,
+      "waug.com": 2,
+      "reddit.com": 2,
+      "chosun.com": 2,
+      "hotplacehunter.co.kr": 2,
+      "hypebeast.kr": 2,
+      "maisonkorea.com": 1,
+      "facebook.com": 1,
+      "geniusjw.com": 1,
+      "davidbro.com": 1,
+      "newstomato.com": 1,
+      "tripstore.kr": 1,
+      "bokuennews.com": 1,
+      "catchtable.net": 1,
+      "etnews.com": 1,
+      "hellodd.com": 1,
+      "klook.com": 1,
+      "pizzanapoletana.org": 1,
+      "chefs.co.kr": 1,
+      "metizen.co.kr": 1,
+      "goodoc.co.kr": 1,
+      "koreadaily.com": 1,
+      "kormedi.com": 1,
+      "logifoodcoach.com": 1,
+      "onboardnews.net": 1,
+      "realfoods.co.kr": 1,
+      "snu.ac.kr": 1,
+      "autoreserve.com": 1,
+      "doughlikepizza.com": 1,
+      "homiespizza.kr": 1,
+      "pizzaalvolofc.com": 1,
+      "blacksheeprestaurants.com": 1,
+      "farinaingrani.com": 1,
+      "inews24.com": 1,
+      "mtn.co.kr": 1,
+      "news1.kr": 1,
+      "orlandoweekly.com": 1,
+      "bongsuapizza.com": 1,
+      "newspeople.co.kr": 1,
+      "bokgilism.me": 1,
+      "nextdaily.co.kr": 1,
+      "mom-mom.net": 1,
+      "visitseoul.net": 1,
+      "falstaff.com": 1,
+      "greekreporter.com": 1,
+      "theguardian.com": 1,
+      "koreacharts.com": 1,
+      "hangadac.com": 1,
+      "a-ha.io": 1,
+      "saramin.co.kr": 1
+    },
+    "clovax": {}
+  },
+  "negative_control": {
+    "chatgpt": {
+      "hits": 0,
+      "total": 1
+    },
+    "perplexity": {
+      "hits": 0,
+      "total": 0
+    },
+    "claude": {
+      "hits": 0,
+      "total": 1
+    },
+    "gemini": {
+      "hits": 0,
+      "total": 1
+    },
+    "clovax": {
+      "hits": 0,
+      "total": 0
+    }
+  }
+}
